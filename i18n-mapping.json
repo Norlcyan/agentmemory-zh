@@ -1,0 +1,7382 @@
+[
+ {
+  "en": "curl command",
+  "zh": "curl 命令",
+  "count": 11
+ },
+ {
+  "en": "Memories",
+  "zh": "记忆",
+  "count": 7
+ },
+ {
+  "en": ">copy curl<",
+  "zh": ">复制 curl<",
+  "count": 6
+ },
+ {
+  "en": "Overview",
+  "zh": "总览",
+  "count": 5
+ },
+ {
+  "en": "Crystals",
+  "zh": "结晶",
+  "count": 5
+ },
+ {
+  "en": "Sessions",
+  "zh": "会话",
+  "count": 5
+ },
+ {
+  "en": " of ",
+  "zh": "/",
+  "count": 5
+ },
+ {
+  "en": "MCP call",
+  "zh": "MCP 调用",
+  "count": 5
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Details</div><dl class=\"mem-meta\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">详情</div><dl class=\"mem-meta\">",
+  "count": 5
+ },
+ {
+  "en": "<dt>Id</dt><dd>",
+  "zh": "<dt>ID</dt><dd>",
+  "count": 5
+ },
+ {
+  "en": "Loading…",
+  "zh": "加载中…",
+  "count": 5
+ },
+ {
+  "en": ". Check that agentmemory is running.",
+  "zh": "。请确认 agentmemory 正在运行。",
+  "count": 5
+ },
+ {
+  "en": " of ",
+  "zh": " / ",
+  "count": 5
+ },
+ {
+  "en": "Lessons",
+  "zh": "经验教训",
+  "count": 4
+ },
+ {
+  "en": "Actions",
+  "zh": "行动",
+  "count": 4
+ },
+ {
+  "en": "Replay",
+  "zh": "回放",
+  "count": 4
+ },
+ {
+  "en": "Health",
+  "zh": "健康状态",
+  "count": 4
+ },
+ {
+  "en": ")",
+  "zh": "）",
+  "count": 4
+ },
+ {
+  "en": "Check from a terminal:",
+  "zh": "在终端中检查：",
+  "count": 4
+ },
+ {
+  "en": " more",
+  "zh": " 个",
+  "count": 4
+ },
+ {
+  "en": "<dt>Updated</dt><dd>",
+  "zh": "<dt>更新时间</dt><dd>",
+  "count": 4
+ },
+ {
+  "en": "<dt>Project ",
+  "zh": "<dt>项目 ",
+  "count": 4
+ },
+ {
+  "en": ">copy id<",
+  "zh": ">复制 ID<",
+  "count": 4
+ },
+ {
+  "en": ">copy MCP call<",
+  "zh": ">复制 MCP 调用<",
+  "count": 4
+ },
+ {
+  "en": " more</span>",
+  "zh": " 更多</span>",
+  "count": 4
+ },
+ {
+  "en": "Activity",
+  "zh": "活动",
+  "count": 3
+ },
+ {
+  "en": "Profile",
+  "zh": "档案",
+  "count": 3
+ },
+ {
+  "en": "Observation",
+  "zh": "观测",
+  "count": 3
+ },
+ {
+  "en": "Uptime",
+  "zh": "运行时间",
+  "count": 3
+ },
+ {
+  "en": "session id",
+  "zh": "会话 ID",
+  "count": 3
+ },
+ {
+  "en": "\" title=\"Open observation ",
+  "zh": "\" title=\"打开观测 ",
+  "count": 3
+ },
+ {
+  "en": "observation id",
+  "zh": "观测 ID",
+  "count": 3
+ },
+ {
+  "en": " in session ",
+  "zh": " 所在会话 ",
+  "count": 3
+ },
+ {
+  "en": "<details style=\"margin-top:12px;\"><summary style=\"cursor:pointer;font-size:11px;color:var(--ink-faint);font-family:var(--font-mono);\">raw record</summary><pre class=\"gd-raw\">",
+  "zh": "<details style=\"margin-top:12px;\"><summary style=\"cursor:pointer;font-size:11px;color:var(--ink-faint);font-family:var(--font-mono);\">原始记录</summary><pre class=\"gd-raw\">",
+  "count": 3
+ },
+ {
+  "en": "Run the same query from a terminal:",
+  "zh": "在终端中运行相同的查询：",
+  "count": 3
+ },
+ {
+  "en": "' session'",
+  "zh": "' 个会话'",
+  "count": 3
+ },
+ {
+  "en": "Output",
+  "zh": "输出",
+  "count": 3
+ },
+ {
+  "en": "<p style=\"font-size:11px;\">Same call from a terminal: <code>",
+  "zh": "<p style=\"font-size:11px;\">在终端中执行相同的调用：<code>",
+  "count": 3
+ },
+ {
+  "en": "Filtering on the server…",
+  "zh": "正在服务器上筛选…",
+  "count": 3
+ },
+ {
+  "en": "<div class=\"load-more\">Showing ",
+  "zh": "<div class=\"load-more\">显示 ",
+  "count": 3
+ },
+ {
+  "en": "From an agent, call the MCP function:",
+  "zh": "在智能体中调用 MCP 函数：",
+  "count": 3
+ },
+ {
+  "en": "The filter request failed. Change a filter to retry.",
+  "zh": "筛选请求失败，请调整筛选条件后重试。",
+  "count": 3
+ },
+ {
+  "en": "(rows.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 3
+ },
+ {
+  "en": "connecting",
+  "zh": "连接中",
+  "count": 2
+ },
+ {
+  "en": "Memory",
+  "zh": "记忆",
+  "count": 2
+ },
+ {
+  "en": "Graph",
+  "zh": "图谱",
+  "count": 2
+ },
+ {
+  "en": "Audit",
+  "zh": "审计",
+  "count": 2
+ },
+ {
+  "en": "waiting for first sync",
+  "zh": "等待首次同步",
+  "count": 2
+ },
+ {
+  "en": "Project",
+  "zh": "项目",
+  "count": 2
+ },
+ {
+  "en": "Version",
+  "zh": "版本",
+  "count": 2
+ },
+ {
+  "en": "Vector index",
+  "zh": "向量索引",
+  "count": 2
+ },
+ {
+  "en": "Function calls",
+  "zh": "函数调用",
+  "count": 2
+ },
+ {
+  "en": "Heap",
+  "zh": "堆内存",
+  "count": 2
+ },
+ {
+  "en": "Event loop delay",
+  "zh": "事件循环延迟",
+  "count": 2
+ },
+ {
+  "en": "State store",
+  "zh": "状态存储",
+  "count": 2
+ },
+ {
+  "en": "Engine connection",
+  "zh": "引擎连接",
+  "count": 2
+ },
+ {
+  "en": "critically high",
+  "zh": "严重过高",
+  "count": 2
+ },
+ {
+  "en": "elevated",
+  "zh": "偏高",
+  "count": 2
+ },
+ {
+  "en": " id",
+  "zh": " ID",
+  "count": 2
+ },
+ {
+  "en": "Observations",
+  "zh": "观测",
+  "count": 2
+ },
+ {
+  "en": "across ",
+  "zh": "跨 ",
+  "count": 2
+ },
+ {
+  "en": "Status",
+  "zh": "状态",
+  "count": 2
+ },
+ {
+  "en": "not in use",
+  "zh": "未使用",
+  "count": 2
+ },
+ {
+  "en": "No sessions yet",
+  "zh": "尚无会话",
+  "count": 2
+ },
+ {
+  "en": "' relation'",
+  "zh": "' 个关系'",
+  "count": 2
+ },
+ {
+  "en": "node id",
+  "zh": "节点 ID",
+  "count": 2
+ },
+ {
+  "en": "<dt>Sessions ",
+  "zh": "<dt>会话 ",
+  "count": 2
+ },
+ {
+  "en": "(dim === 'agent' ? 'n agent id' : ' ' + dim)",
+  "zh": "(dim === 'agent' ? 'agent id' : dim)",
+  "count": 2
+ },
+ {
+  "en": " yet\"",
+  "zh": "\"",
+  "count": 2
+ },
+ {
+  "en": "'No ' + dim + 's'",
+  "zh": "'没有 ' + dim",
+  "count": 2
+ },
+ {
+  "en": "All projects",
+  "zh": "所有项目",
+  "count": 2
+ },
+ {
+  "en": "All agents",
+  "zh": "所有智能体",
+  "count": 2
+ },
+ {
+  "en": "project <b>",
+  "zh": "项目 <b>",
+  "count": 2
+ },
+ {
+  "en": "agent <b>",
+  "zh": "智能体 <b>",
+  "count": 2
+ },
+ {
+  "en": " matching",
+  "zh": " 条匹配的",
+  "count": 2
+ },
+ {
+  "en": "memory",
+  "zh": "记忆",
+  "count": 2
+ },
+ {
+  "en": " (no longer stored)",
+  "zh": "（已不再存储）",
+  "count": 2
+ },
+ {
+  "en": "Saving…",
+  "zh": "保存中…",
+  "count": 2
+ },
+ {
+  "en": "MCP recall call",
+  "zh": "MCP 召回调用",
+  "count": 2
+ },
+ {
+  "en": "\" title=\"Show only this project\">",
+  "zh": "\" title=\"仅显示此项目\">",
+  "count": 2
+ },
+ {
+  "en": "\" title=\"Show only this agent\">@",
+  "zh": "\" title=\"仅显示此智能体\">@",
+  "count": 2
+ },
+ {
+  "en": "<dt>Agent ",
+  "zh": "<dt>智能体 ",
+  "count": 2
+ },
+ {
+  "en": "<dt>Files</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<dt>文件</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "count": 2
+ },
+ {
+  "en": "' observation'",
+  "zh": "' 条观测'",
+  "count": 2
+ },
+ {
+  "en": "(list.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 2
+ },
+ {
+  "en": "</b>",
+  "zh": "</b>）",
+  "count": 2
+ },
+ {
+  "en": "No observations match",
+  "zh": "没有匹配的观测",
+  "count": 2
+ },
+ {
+  "en": "running",
+  "zh": "运行中",
+  "count": 2
+ },
+ {
+  "en": "&rdquo;",
+  "zh": "”",
+  "count": 2
+ },
+ {
+  "en": "unknown",
+  "zh": "未知",
+  "count": 2
+ },
+ {
+  "en": " matching",
+  "zh": " 个匹配的",
+  "count": 2
+ },
+ {
+  "en": " with the current filter",
+  "zh": "（当前筛选条件下）",
+  "count": 2
+ },
+ {
+  "en": "<span style=\"color:var(--ink-faint);\">none</span>",
+  "zh": "<span style=\"color:var(--ink-faint);\">无</span>",
+  "count": 2
+ },
+ {
+  "en": " <span style=\"color:var(--ink-faint);\">(",
+  "zh": " <span style=\"color:var(--ink-faint);\">（",
+  "count": 2
+ },
+ {
+  "en": ")</span></dd>",
+  "zh": "）</span></dd>",
+  "count": 2
+ },
+ {
+  "en": "<dt>Directory</dt><dd><code>",
+  "zh": "<dt>目录</dt><dd><code>",
+  "count": 2
+ },
+ {
+  "en": "<dt>Memories ",
+  "zh": "<dt>记忆 ",
+  "count": 2
+ },
+ {
+  "en": "<dt>Lessons ",
+  "zh": "<dt>经验教训 ",
+  "count": 2
+ },
+ {
+  "en": " observations",
+  "zh": " 条观测",
+  "count": 2
+ },
+ {
+  "en": "Load ",
+  "zh": "加载 ",
+  "count": 2
+ },
+ {
+  "en": "<dt>Tags</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<dt>标签</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "count": 2
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Sources ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">来源 ",
+  "count": 2
+ },
+ {
+  "en": " more</div>",
+  "zh": " 更多</div>",
+  "count": 2
+ },
+ {
+  "en": "None of the ",
+  "zh": "在 ",
+  "count": 2
+ },
+ {
+  "en": "target",
+  "zh": " 个目标",
+  "count": 2
+ },
+ {
+  "en": "Set ",
+  "zh": "设置 ",
+  "count": 2
+ },
+ {
+  "en": " ms",
+  "zh": " 毫秒",
+  "count": 2
+ },
+ {
+  "en": " dead",
+  "zh": " 条死信",
+  "count": 2
+ },
+ {
+  "en": ">copy<",
+  "zh": ">复制<",
+  "count": 2
+ },
+ {
+  "en": "Missing from index",
+  "zh": "索引缺失",
+  "count": 2
+ },
+ {
+  "en": " more. ",
+  "zh": " 个。",
+  "count": 2
+ },
+ {
+  "en": "the search &ldquo;",
+  "zh": "搜索“",
+  "count": 2
+ },
+ {
+  "en": "Or from a terminal:",
+  "zh": "或在终端中执行：",
+  "count": 2
+ },
+ {
+  "en": "<html lang=\"en\">",
+  "zh": "<html lang=\"zh-CN\">",
+  "count": 1
+ },
+ {
+  "en": "agentmemory viewer",
+  "zh": "agentmemory 查看器",
+  "count": 1
+ },
+ {
+  "en": "Skip to content",
+  "zh": "跳转到正文",
+  "count": 1
+ },
+ {
+  "en": "Open overview",
+  "zh": "打开总览",
+  "count": 1
+ },
+ {
+  "en": "Glossary and keyboard shortcuts (?)",
+  "zh": "术语表与键盘快捷键 (?)",
+  "count": 1
+ },
+ {
+  "en": "Glossary and keyboard shortcuts",
+  "zh": "术语表与键盘快捷键",
+  "count": 1
+ },
+ {
+  "en": "DARK",
+  "zh": "深色",
+  "count": 1
+ },
+ {
+  "en": "Viewer sections",
+  "zh": "查看器分区",
+  "count": 1
+ },
+ {
+  "en": "Work",
+  "zh": "工作",
+  "count": 1
+ },
+ {
+  "en": "Insight",
+  "zh": "洞察",
+  "count": 1
+ },
+ {
+  "en": "System",
+  "zh": "系统",
+  "count": 1
+ },
+ {
+  "en": "docs",
+  "zh": "文档",
+  "count": 1
+ },
+ {
+  "en": "report issue &rarr;",
+  "zh": "报告问题 &rarr;",
+  "count": 1
+ },
+ {
+  "en": "then a letter to jump ·",
+  "zh": "再按字母跳转 ·",
+  "count": 1
+ },
+ {
+  "en": "search ·",
+  "zh": "搜索 ·",
+  "count": 1
+ },
+ {
+  "en": "glossary",
+  "zh": "术语表",
+  "count": 1
+ },
+ {
+  "en": "One thing an agent did during a session: a file read or edit, a command, a search, an error, a decision. Hooks capture them automatically.",
+  "zh": "智能体在一次会话中做的一件事：文件读取或编辑、命令、搜索、错误、决策。钩子会自动捕获它们。",
+  "count": 1
+ },
+ {
+  "en": "A durable fact the agent should keep across sessions, such as an architecture note, a convention or a preference. Saved with memory_save or distilled from observations.",
+  "zh": "智能体应跨会话保留的持久事实，例如架构说明、约定或偏好。用 memory_save 保存，或从观测中提炼而来。",
+  "count": 1
+ },
+ {
+  "en": "A short rule learned from past work (\"always run tsc before commit\"). Its confidence grows when the agent re-confirms it and decays when unused.",
+  "zh": "从以往工作中总结出的一条简短规则（例如“提交前总是先运行 tsc”）。智能体再次确认时会提高其置信度，长期不用则会衰减。",
+  "count": 1
+ },
+ {
+  "en": "Lesson",
+  "zh": "经验教训",
+  "count": 1
+ },
+ {
+  "en": "A compact summary of one finished piece of work: what happened, tools used, files touched and lessons found. Kept after raw observations are pruned.",
+  "zh": "对一项已完成工作的精简总结：发生了什么、用了哪些工具、触及了哪些文件、发现了哪些经验教训。原始观测被裁剪后仍会保留。",
+  "count": 1
+ },
+ {
+  "en": "Crystal",
+  "zh": "结晶",
+  "count": 1
+ },
+ {
+  "en": "A follow-up the agent tracked: a task, a decision to revisit, something blocked on input. Moves pending, active, done or blocked.",
+  "zh": "智能体跟踪的后续事项：一项任务、一个待重访的决策，或被输入阻塞的事项。状态在 pending、active、done、blocked 之间流转。",
+  "count": 1
+ },
+ {
+  "en": "Action",
+  "zh": "行动",
+  "count": 1
+ },
+ {
+  "en": "Actions that are unblocked and ready to pick up next. Everything they depend on is done.",
+  "zh": "未被阻塞、可随时接手下一步的行动。它们依赖的一切都已完成。",
+  "count": 1
+ },
+ {
+  "en": "Frontier",
+  "zh": "前沿",
+  "count": 1
+ },
+ {
+  "en": "One run of an agent in a project, from start to end. Observations belong to a session.",
+  "zh": "智能体在项目中的一次运行，从开始到结束。观测隶属于某个会话。",
+  "count": 1
+ },
+ {
+  "en": "Session",
+  "zh": "会话",
+  "count": 1
+ },
+ {
+  "en": "Active means the agent is still running and sending observations. Completed means the session ended.",
+  "zh": "Active 表示智能体仍在运行并持续发送观测；Completed 表示会话已结束。",
+  "count": 1
+ },
+ {
+  "en": "Session status",
+  "zh": "会话状态",
+  "count": 1
+ },
+ {
+  "en": "The working directory an agent ran in. Memories, sessions and lessons are grouped by project.",
+  "zh": "智能体运行所在的工作目录。记忆、会话和经验教训按项目分组。",
+  "count": 1
+ },
+ {
+  "en": "Which agent or role wrote a record (for example coder or reviewer). Used to keep multi-agent memories apart.",
+  "zh": "写下某条记录的智能体或角色（例如 coder 或 reviewer）。用于区分不同智能体的记忆。",
+  "count": 1
+ },
+ {
+  "en": "Agent",
+  "zh": "智能体",
+  "count": 1
+ },
+ {
+  "en": "A background step that turns many raw observations into fewer, longer-lived records: semantic facts and procedures. It needs an LLM provider.",
+  "zh": "一个后台步骤，将大量原始观测整合为更少但更持久的记录：语义事实和流程。需要配置 LLM 提供方。",
+  "count": 1
+ },
+ {
+  "en": "Consolidation",
+  "zh": "整合",
+  "count": 1
+ },
+ {
+  "en": "General facts distilled from many sessions (\"the API uses jose for JWT\"). Produced by consolidation.",
+  "zh": "从多次会话中提炼出的通用事实（例如“the API uses jose for JWT”）。由整合产生。",
+  "count": 1
+ },
+ {
+  "en": "Semantic facts",
+  "zh": "语义事实",
+  "count": 1
+ },
+ {
+  "en": "Step-by-step workflows the agent repeated successfully (\"to release: bump, tag, publish\"). Produced by consolidation from finished sessions with a summary; it stays empty until enough such sessions exist.",
+  "zh": "智能体多次成功重复的逐步工作流（例如“to release: bump, tag, publish”）。由整合根据已结束且有总结的会话产生；在有足够多的此类会话之前保持为空。",
+  "count": 1
+ },
+ {
+  "en": "Procedures",
+  "zh": "流程",
+  "count": 1
+ },
+ {
+  "en": "Records that are never used lose strength or confidence over time, so stale knowledge stops crowding out fresh knowledge.",
+  "zh": "从未被使用的记录会随时间失去强度或置信度，这样过时的知识就不会挤占新知识。",
+  "count": 1
+ },
+ {
+  "en": "Decay",
+  "zh": "衰减",
+  "count": 1
+ },
+ {
+  "en": "How important a memory is, from 1 to 10. memory_save and the REST API store 7; consolidation rates each distilled memory itself. Stronger memories go first into the context agents get at session start, and bulk cleanup can target weak ones.",
+  "zh": "一条记忆的重要程度，1 到 10。memory_save 和 REST API 以 7 保存；整合会对每条提炼出的记忆自行打分。更强的记忆会优先进入智能体在会话开始时获得的上下文，批量清理也可以针对弱记忆。",
+  "count": 1
+ },
+ {
+  "en": "Strength",
+  "zh": "强度",
+  "count": 1
+ },
+ {
+  "en": "A 1 to 10 score for how much an observation matters: 1 to 3 low (green), 4 to 6 medium (yellow), 7 to 10 high (red). With an LLM provider the compressor rates each observation; without one every observation gets the default 5. Session-start context uses observations rated 5 or higher, highest first, and old low-rated ones are evicted first.",
+  "zh": "一条观测的重要程度评分，1 到 10：1 到 3 为低（绿色），4 到 6 为中（黄色），7 到 10 为高（红色）。配置了 LLM 提供方时，压缩器会为每条观测打分；未配置时每条观测默认得 5。会话开始时的上下文使用评分 5 及以上的观测，按分数从高到低排列，旧的低分观测优先被淘汰。",
+  "count": 1
+ },
+ {
+  "en": "Importance",
+  "zh": "重要度",
+  "count": 1
+ },
+ {
+  "en": "How battle-tested a lesson is, from 0 to 100%. New lessons start at 50% unless the saver sets it. Each use closes 10% of the gap to 100% (50% becomes 55%). A lesson not used for a week loses 5 points per week, down to 5%; one that falls to 10% without ever being used is dropped. Recall ranks higher-confidence lessons first.",
+  "zh": "一条经验教训经过多少实战检验，0 到 100%。新经验教训默认从 50% 开始（保存者可自行设置）。每次使用会弥合与 100% 之间差距的 10%（50% 会变为 55%）。一周未使用的经验教训每周失去 5 分，最低到 5%；从未使用且跌到 10% 的会被丢弃。召回时置信度更高的排在前面。",
+  "count": 1
+ },
+ {
+  "en": "Confidence",
+  "zh": "置信度",
+  "count": 1
+ },
+ {
+  "en": "How many times the lesson was confirmed again: saved again with the same text by any agent, or strengthened with memory_lesson_strengthen. Each use raises confidence and restarts the decay clock.",
+  "zh": "一条经验教训被再次确认的次数：任何智能体用相同文本再次保存，或用 memory_lesson_strengthen 加强。每次使用都会提高置信度并重置衰减计时。",
+  "count": 1
+ },
+ {
+  "en": "Uses",
+  "zh": "使用次数",
+  "count": 1
+ },
+ {
+  "en": "The sessions, memories, observations or crystals a lesson was learned from. Crystal and import lessons record them automatically; pass sourceIds to POST /lessons to link a lesson you save by hand.",
+  "zh": "一条经验教训学自哪些会话、记忆、观测或结晶。结晶和导入的经验教训会自动记录来源；手动保存经验教训时可将 sourceIds 传给 POST /lessons 来关联。",
+  "count": 1
+ },
+ {
+  "en": "Sources",
+  "zh": "来源",
+  "count": 1
+ },
+ {
+  "en": "The records the change touched. Memory, session, observation, lesson, action, crystal and graph ids open that record; other ids can be copied.",
+  "zh": "变更触及的记录。记忆、会话、观测、经验教训、行动、结晶和图谱的 id 可打开对应记录；其他 id 可复制。",
+  "count": 1
+ },
+ {
+  "en": "Targets",
+  "zh": "目标",
+  "count": 1
+ },
+ {
+  "en": "Rules agentmemory infers from the files and concepts above: TypeScript when .ts files outnumber .js, a src/ layout when most files sit under src/, tests when test or spec files appear, and any concept that came up 3 or more times.",
+  "zh": "agentmemory 从上述文件和概念中推断出的规则：.ts 文件多于 .js 时为 TypeScript，大多数文件在 src/ 下时为 src/ 布局，出现 test 或 spec 文件时为测试，以及出现 3 次及以上的任何概念。",
+  "count": 1
+ },
+ {
+  "en": "Conventions",
+  "zh": "约定",
+  "count": 1
+ },
+ {
+  "en": "Unblocked and ready to pick up next: every action it depends on is done. memory_frontier returns these first.",
+  "zh": "未被阻塞、可接手下一步：它依赖的每个行动都已完成。memory_frontier 会优先返回这些行动。",
+  "count": 1
+ },
+ {
+  "en": "Ready",
+  "zh": "就绪",
+  "count": 1
+ },
+ {
+  "en": "Saving a near-duplicate of a memory, or editing it here, creates a new version instead of changing it in place. v3 means two earlier versions exist. Only the latest version is searched; older ones stay as history.",
+  "zh": "保存一条记忆的近似副本，或在此编辑它，会创建一个新版本而非原地修改。v3 表示存在两个更早的版本。只有最新版本会被搜索，旧版本保留为历史。",
+  "count": 1
+ },
+ {
+  "en": "Where a memory came from: the sessions and observations it was distilled from. Memories saved directly with memory_save or the REST API have none.",
+  "zh": "一条记忆的出处：它由哪些会话和观测提炼而来。用 memory_save 或 REST API 直接保存的记忆没有出处。",
+  "count": 1
+ },
+ {
+  "en": "Provenance",
+  "zh": "出处",
+  "count": 1
+ },
+ {
+  "en": "What changed from the previous version. Struck-through words were removed, highlighted words were added.",
+  "zh": "相比上一版本的变化。带删除线的词被删除，高亮的词是新增的。",
+  "count": 1
+ },
+ {
+  "en": "Changes",
+  "zh": "变更",
+  "count": 1
+ },
+ {
+  "en": "The older memory this one replaced. The old version is kept for history but no longer returned by search.",
+  "zh": "被本条替代的旧记忆。旧版本保留为历史，但搜索不再返回它。",
+  "count": 1
+ },
+ {
+  "en": "Supersedes",
+  "zh": "替代",
+  "count": 1
+ },
+ {
+  "en": "Where a record came from: an agent tool call, an automatic hook, an import or a user action.",
+  "zh": "一条记录的来源：智能体工具调用、自动钩子、导入或用户操作。",
+  "count": 1
+ },
+ {
+  "en": "Origin",
+  "zh": "来源",
+  "count": 1
+ },
+ {
+  "en": "The full-text index used for keyword search. It holds observations, memories and lessons, so its document count is usually higher than the observation count.",
+  "zh": "用于关键词搜索的全文索引。它包含观测、记忆和经验教训，因此文档数通常高于观测数。",
+  "count": 1
+ },
+ {
+  "en": "Keyword index (BM25)",
+  "zh": "关键词索引（BM25）",
+  "count": 1
+ },
+ {
+  "en": "Embeddings used for meaning-based search. It needs an embedding provider; without one, search is keyword only.",
+  "zh": "用于按含义搜索的嵌入。需要配置嵌入提供方；未配置时搜索仅支持关键词。",
+  "count": 1
+ },
+ {
+  "en": "Observations that are searchable. The keyword index also contains memories and lessons, which is why its total is larger.",
+  "zh": "可被搜索的观测。关键词索引还包含记忆和经验教训，因此总数更大。",
+  "count": 1
+ },
+ {
+  "en": "Observations indexed",
+  "zh": "已索引观测",
+  "count": 1
+ },
+ {
+  "en": "Stored observations that are not searchable yet. They are added in the background; a large number that does not shrink means indexing is stuck.",
+  "zh": "已存储但尚不可搜索的观测。它们会在后台加入索引；如果数量很大且不减少，说明索引卡住了。",
+  "count": 1
+ },
+ {
+  "en": "Every observation a hook sends is written here first and removed once it is stored. If storing fails or the server restarts, it is retried instead of lost. Dead letters are the ones that still failed after every retry.",
+  "zh": "钩子发送的每条观测都会先写到这里，存储成功后移除。如果存储失败或服务器重启，会重试而非丢失。死信是所有重试后仍失败的观测。",
+  "count": 1
+ },
+ {
+  "en": "Capture inbox",
+  "zh": "捕获收件箱",
+  "count": 1
+ },
+ {
+  "en": "A small file on this machine where hooks keep observations when the server is down or does not answer. It is sent automatically on the next hook call and at every start, and each observation carries an event id so nothing is stored twice.",
+  "zh": "本机上的一个小文件：服务器宕机或无响应时，钩子将观测暂存在此。下次钩子调用和每次启动时会自动发送，每条观测都带有一个事件 id，因此不会重复存储。",
+  "count": 1
+ },
+ {
+  "en": "Local capture spool",
+  "zh": "本地捕获暂存",
+  "count": 1
+ },
+ {
+  "en": "Records waiting for an embedding so they can be found by meaning, not only by keywords.",
+  "zh": "等待生成嵌入的记录，以便能按含义而不仅是关键词被找到。",
+  "count": 1
+ },
+ {
+  "en": "Pending vector backfill",
+  "zh": "待回填向量",
+  "count": 1
+ },
+ {
+  "en": "Knowledge graph",
+  "zh": "知识图谱",
+  "count": 1
+ },
+ {
+  "en": "How many relations touch this node. Nodes with more relations are drawn larger and get their labels first.",
+  "zh": "与该节点相连的关系数量。关系越多的节点画得越大，也越先显示标签。",
+  "count": 1
+ },
+ {
+  "en": "Relations (degree)",
+  "zh": "关系（度）",
+  "count": 1
+ },
+ {
+  "en": "The observations that mentioned this entity, the sessions and projects they belong to, and memories distilled from the same observations or naming this entity. Imported code-graph nodes show the import instead.",
+  "zh": "提及该实体的观测、它们所属的会话和项目，以及由相同观测提炼或提及该实体的记忆。导入的代码图谱节点显示的是导入信息。",
+  "count": 1
+ },
+ {
+  "en": "Where it came from",
+  "zh": "出处",
+  "count": 1
+ },
+ {
+  "en": "Nodes with no relation yet. They sit in the dashed box under the graph until an observation mentions them together with another entity.",
+  "zh": "尚无任何关系的节点。在某条观测同时提及它们和另一个实体之前，它们会待在图谱下方的虚线框中。",
+  "count": 1
+ },
+ {
+  "en": "Unlinked nodes",
+  "zh": "未关联节点",
+  "count": 1
+ },
+ {
+  "en": "One entity in the knowledge graph, such as a file, a function, a library or a concept.",
+  "zh": "知识图谱中的一个实体，例如文件、函数、库或概念。",
+  "count": 1
+ },
+ {
+  "en": "Node",
+  "zh": "节点",
+  "count": 1
+ },
+ {
+  "en": "A relation between two entities, such as \"uses\", \"fixes\" or \"depends on\".",
+  "zh": "两个实体之间的关系，例如“uses”、“fixes”或“depends on”。",
+  "count": 1
+ },
+ {
+  "en": "Edge",
+  "zh": "边",
+  "count": 1
+ },
+ {
+  "en": "Protects against a failing LLM provider. Closed means calls go through normally. Open means too many recent failures, so calls are paused briefly. Half-open means it is testing whether the provider recovered.",
+  "zh": "保护 LLM 提供方免于故障蔓延。Closed 表示调用正常通过；Open 表示近期失败过多，调用短暂暂停；Half-open 表示正在测试提供方是否已恢复。",
+  "count": 1
+ },
+ {
+  "en": "LLM circuit breaker",
+  "zh": "LLM 熔断器",
+  "count": 1
+ },
+ {
+  "en": "How many times agentmemory functions (observe, search, remember, summarize and so on) ran since the worker started, with their failure counts.",
+  "zh": "自工作进程启动以来，agentmemory 函数（observe、search、remember、summarize 等）运行了多少次，及各自的失败次数。",
+  "count": 1
+ },
+ {
+  "en": "A rough estimate of prompt tokens saved by injecting a compact memory context instead of replaying every observation. It assumes about 80 tokens per observation and a 2,000 token budget per session.",
+  "zh": "通过注入精简的记忆上下文而非重放每条观测所节省的提示词 token 数的粗略估算。假设每条观测约 80 token，每个会话 2,000 token 预算。",
+  "count": 1
+ },
+ {
+  "en": "Context saved (estimate)",
+  "zh": "节省的上下文（估算）",
+  "count": 1
+ },
+ {
+  "en": "JavaScript memory the worker is using, compared with the limit it may grow to. Warnings only matter when the process is also large overall.",
+  "zh": "工作进程正在使用的 JavaScript 内存，与其可增长上限的对比。只有当进程整体也很大时，警告才有意义。",
+  "count": 1
+ },
+ {
+  "en": "Total memory the worker process holds from the operating system, including code and buffers.",
+  "zh": "工作进程从操作系统持有的总内存，包括代码和缓冲区。",
+  "count": 1
+ },
+ {
+  "en": "RSS",
+  "zh": "常驻内存（RSS）",
+  "count": 1
+ },
+ {
+  "en": "How far behind the worker is in handling work. Under 20 ms is healthy; a large value means it is busy or blocked.",
+  "zh": "工作进程处理工作的滞后程度。低于 20 ms 为健康；数值很大说明它正忙或被阻塞。",
+  "count": 1
+ },
+ {
+  "en": "How long the agentmemory worker has been running since it last started.",
+  "zh": "agentmemory 工作进程自上次启动以来运行了多久。",
+  "count": 1
+ },
+ {
+  "en": "Healthy means everything is normal. Degraded means something needs attention but memory still works. Critical means a core part is failing.",
+  "zh": "Healthy 表示一切正常；Degraded 表示有事项需要注意，但记忆功能仍可用；Critical 表示核心部件正在故障。",
+  "count": 1
+ },
+ {
+  "en": "Health status",
+  "zh": "健康状态",
+  "count": 1
+ },
+ {
+  "en": "Where the engine keeps every record: file (local files on this machine, the default) or redis (a Redis server set by AGENTMEMORY_STATE_BACKEND and AGENTMEMORY_REDIS_URL). ok means a test write and read just succeeded; the number is how long it took.",
+  "zh": "引擎保存所有记录的位置：file（本机的本地文件，默认）或 redis（由 AGENTMEMORY_STATE_BACKEND 和 AGENTMEMORY_REDIS_URL 指定的 Redis 服务器）。ok 表示一次测试写入和读取刚刚成功，数字是耗时。",
+  "count": 1
+ },
+ {
+  "en": "Whether the agentmemory worker is connected to the iii engine that stores its data and runs its functions.",
+  "zh": "agentmemory 工作进程是否已连接到存储数据并运行其函数的 iii 引擎。",
+  "count": 1
+ },
+ {
+  "en": "The viewer keeps one streaming connection open and updates every page the moment data changes. Nothing is refreshed on a timer.",
+  "zh": "查看器保持一个流式连接，数据变化时立即更新所有页面。没有任何页面是按定时器刷新的。",
+  "count": 1
+ },
+ {
+  "en": "Live updates",
+  "zh": "实时更新",
+  "count": 1
+ },
+ {
+  "en": "Optional features that are on or off in this install. Off features leave some pages empty; each one lists the setting that turns it on.",
+  "zh": "本安装中可选功能的开/关。关闭的功能会让一些页面为空；每个功能都会列出开启它的设置。",
+  "count": 1
+ },
+ {
+  "en": "Feature flags",
+  "zh": "功能开关",
+  "count": 1
+ },
+ {
+  "en": "A record of every change agentmemory made to stored data: saves, deletes, imports, consolidation runs. Use it to see who changed what and when.",
+  "zh": "agentmemory 对存储数据所做的每次变更的记录：保存、删除、导入、整合运行。用它查看谁在何时改了什么。",
+  "count": 1
+ },
+ {
+  "en": "Audit log",
+  "zh": "审计日志",
+  "count": 1
+ },
+ {
+  "en": "Processes connected to the iii engine. agentmemory runs as one worker.",
+  "zh": "连接到 iii 引擎的进程。agentmemory 作为一个工作进程运行。",
+  "count": 1
+ },
+ {
+  "en": "Workers",
+  "zh": "工作进程",
+  "count": 1
+ },
+ {
+  "en": "Average time one call of the function took to finish.",
+  "zh": "一次函数调用完成所用的平均时间。",
+  "count": 1
+ },
+ {
+  "en": "Average latency",
+  "zh": "平均延迟",
+  "count": 1
+ },
+ {
+  "en": "Share of calls that failed. Functions that need an LLM show as off, not failing, when no LLM provider is set.",
+  "zh": "失败调用所占比例。未配置 LLM 提供方时，需要 LLM 的函数显示为关闭，而非失败。",
+  "count": 1
+ },
+ {
+  "en": "Failure rate",
+  "zh": "失败率",
+  "count": 1
+ },
+ {
+  "en": "Plays back a past session step by step: prompts, responses and tool calls in the order they happened, with their real timing. Works for any session agentmemory recorded, from any connected agent.",
+  "zh": "按步骤回放一次过去的会话：按实际发生顺序和真实时间展示提示词、响应和工具调用。适用于 agentmemory 记录的任何会话，来自任何已连接的智能体。",
+  "count": 1
+ },
+ {
+  "en": "What agentmemory has learned about one project: the concepts and files that come up most and the conventions it noticed.",
+  "zh": "agentmemory 学到的关于一个项目的信息：出现最频繁的概念和文件，以及它注意到的约定。",
+  "count": 1
+ },
+ {
+  "en": "Project profile",
+  "zh": "项目档案",
+  "count": 1
+ },
+ {
+  "en": "One square per day. The shade is how many observations the sessions that started that day recorded; darker means more. Only the sessions loaded in this viewer are counted, and the note under the grid says how many that is.",
+  "zh": "每天一个方格。颜色深浅表示当天开始的会话记录了多少条观测，越深越多。只统计本查看器已加载的会话，网格下方的说明会写明统计了多少个会话。",
+  "count": 1
+ },
+ {
+  "en": "Activity heatmap",
+  "zh": "活跃度热力图",
+  "count": 1
+ },
+ {
+  "en": "% of the heap limit in use (process memory ",
+  "zh": "% 的堆内存上限已被使用（进程内存 ",
+  "count": 1
+ },
+ {
+  "en": "Heap is running tight: ",
+  "zh": "堆内存紧张：",
+  "count": 1
+ },
+ {
+  "en": " MB).",
+  "zh": " MB）",
+  "count": 1
+ },
+ {
+  "en": "% of the heap limit in use, process memory ",
+  "zh": "% 的堆内存上限已被使用，进程内存 ",
+  "count": 1
+ },
+ {
+  "en": "Memory ",
+  "zh": "内存",
+  "count": 1
+ },
+ {
+  "en": " MB.",
+  "zh": " MB。",
+  "count": 1
+ },
+ {
+  "en": "CPU ",
+  "zh": "CPU",
+  "count": 1
+ },
+ {
+  "en": " ms behind. The worker is busy or blocked.",
+  "zh": " 毫秒滞后。工作进程繁忙或被阻塞。",
+  "count": 1
+ },
+ {
+  "en": "severely delayed",
+  "zh": "严重延迟",
+  "count": 1
+ },
+ {
+  "en": "Event loop ",
+  "zh": "事件循环",
+  "count": 1
+ },
+ {
+  "en": "delayed",
+  "zh": "延迟",
+  "count": 1
+ },
+ {
+  "en": "Engine connection lost — reconnecting.",
+  "zh": "引擎连接已断开——正在重连。",
+  "count": 1
+ },
+ {
+  "en": "Engine connection state: ",
+  "zh": "引擎连接状态：",
+  "count": 1
+ },
+ {
+  "en": "Unknown session",
+  "zh": "未知会话",
+  "count": 1
+ },
+ {
+  "en": " (missing id)",
+  "zh": "（缺少 ID）",
+  "count": 1
+ },
+ {
+  "en": " obs",
+  "zh": "条观测",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"What is ",
+  "zh": "\" aria-label=\"什么是",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Copy ",
+  "zh": "\" aria-label=\"复制",
+  "count": 1
+ },
+ {
+  "en": "\">copy</button>",
+  "zh": "\">复制</button>",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Copy ",
+  "zh": "\" title=\"复制",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Open ",
+  "zh": "\" title=\"打开",
+  "count": 1
+ },
+ {
+  "en": "just now",
+  "zh": "刚刚",
+  "count": 1
+ },
+ {
+  "en": "m ago",
+  "zh": "分钟前",
+  "count": 1
+ },
+ {
+  "en": "h ago",
+  "zh": "小时前",
+  "count": 1
+ },
+ {
+  "en": "d ago",
+  "zh": "天前",
+  "count": 1
+ },
+ {
+  "en": " on the Health page",
+  "zh": "，见健康状态页",
+  "count": 1
+ },
+ {
+  "en": " notes",
+  "zh": "条备注",
+  "count": 1
+ },
+ {
+  "en": " note",
+  "zh": "条备注",
+  "count": 1
+ },
+ {
+  "en": "command",
+  "zh": "命令",
+  "count": 1
+ },
+ {
+  "en": "<div><dt>What this is</dt><dd>",
+  "zh": "<div><dt>这是什么</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<div><dt>Why it is empty</dt><dd>",
+  "zh": "<div><dt>为何为空</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-steps\"><div class=\"empty-steps-title\">How to fill it</div>",
+  "zh": "<div class=\"empty-steps\"><div class=\"empty-steps-title\">如何填充</div>",
+  "count": 1
+ },
+ {
+  "en": "Use memories from an agent or a terminal",
+  "zh": "从智能体或终端中使用记忆",
+  "count": 1
+ },
+ {
+  "en": "Recall the memories relevant to a task:",
+  "zh": "召回与任务相关的记忆：",
+  "count": 1
+ },
+ {
+  "en": "Search by meaning and keyword together:",
+  "zh": "按语义与关键词联合搜索：",
+  "count": 1
+ },
+ {
+  "en": "Save a new memory from a terminal:",
+  "zh": "从终端保存一条新记忆：",
+  "count": 1
+ },
+ {
+  "en": "Use lessons from an agent or a terminal",
+  "zh": "从智能体或终端中使用经验教训",
+  "count": 1
+ },
+ {
+  "en": "Recall the lessons that match a task:",
+  "zh": "召回与任务匹配的经验教训：",
+  "count": 1
+ },
+ {
+  "en": "Save a lesson when you correct the agent:",
+  "zh": "纠正智能体时保存一条经验教训：",
+  "count": 1
+ },
+ {
+  "en": "Search lessons from a terminal:",
+  "zh": "从终端搜索经验教训：",
+  "count": 1
+ },
+ {
+  "en": "Work with actions from an agent or a terminal",
+  "zh": "从智能体或终端中使用行动",
+  "count": 1
+ },
+ {
+  "en": "Ask for the next unblocked actions:",
+  "zh": "获取下一步可执行的行动：",
+  "count": 1
+ },
+ {
+  "en": "Mark an action done:",
+  "zh": "将一条行动标记为完成：",
+  "count": 1
+ },
+ {
+  "en": "List every action from a terminal:",
+  "zh": "从终端列出所有行动：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"skeleton\" aria-busy=\"true\" aria-label=\"Loading\">",
+  "zh": "加载中",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"viewer-auth-title\">Viewer authorization required</div>",
+  "zh": "需要查看器授权",
+  "count": 1
+ },
+ {
+  "en": "<div id=\"viewer-auth-desc\" class=\"viewer-auth-desc\">Enter <code>AGENTMEMORY_SECRET</code> to unlock viewer API access.</div>",
+  "zh": "<div id=\"viewer-auth-desc\" class=\"viewer-auth-desc\">输入 <code>AGENTMEMORY_SECRET</code> 以解锁查看器 API 访问。</div>",
+  "count": 1
+ },
+ {
+  "en": "<button class=\"btn\" data-action=\"save-viewer-token\">Unlock</button>",
+  "zh": "<button class=\"btn\" data-action=\"save-viewer-token\">解锁</button>",
+  "count": 1
+ },
+ {
+  "en": " steps)",
+  "zh": " 个步骤）",
+  "count": 1
+ },
+ {
+  "en": "Procedure",
+  "zh": "流程",
+  "count": 1
+ },
+ {
+  "en": "Memory layers ",
+  "zh": "记忆层 ",
+  "count": 1
+ },
+ {
+  "en": "consolidated ",
+  "zh": "已整合 ",
+  "count": 1
+ },
+ {
+  "en": "<a class=\"empty-link\" href=\"#health/consolidation\">How consolidation works, its schedule and last run &rarr;</a></div>",
+  "zh": "<a class=\"empty-link\" href=\"#health/consolidation\">整合如何工作、计划与上次运行 &rarr;</a></div>",
+  "count": 1
+ },
+ {
+  "en": ". Each layer below says why it is empty or what it is waiting for. ",
+  "zh": "。下面每一层都会说明它为何为空或正在等待什么。",
+  "count": 1
+ },
+ {
+  "en": "Raw observations stay searchable as they are. Consolidation ",
+  "zh": "原始观测保持可搜索。整合 ",
+  "count": 1
+ },
+ {
+  "en": " turns them into longer-lived layers: semantic facts ",
+  "zh": " 将它们变为更持久的层：语义事实 ",
+  "count": 1
+ },
+ {
+  "en": " and procedures ",
+  "zh": " 和流程 ",
+  "count": 1
+ },
+ {
+  "en": "Connecting to agentmemory",
+  "zh": "正在连接 agentmemory",
+  "count": 1
+ },
+ {
+  "en": "First run",
+  "zh": "首次运行",
+  "count": 1
+ },
+ {
+  "en": "agentmemory is running and waiting for its first session",
+  "zh": "agentmemory 正在运行，等待第一个会话",
+  "count": 1
+ },
+ {
+  "en": "</code>. Every page fills in live, without a reload, as soon as an agent with agentmemory hooks runs.</div>",
+  "zh": "</code>。一旦有带 agentmemory 钩子的智能体运行，每个页面都会实时填充，无需刷新。</div>",
+  "count": 1
+ },
+ {
+  "en": "This server is listening at ",
+  "zh": "本服务器正在监听 ",
+  "count": 1
+ },
+ {
+  "en": "Wires hooks and the MCP server into Claude Code (or pick codex, cursor, gemini-cli and others from the list when you drop the name)",
+  "zh": "将钩子和 MCP 服务器接入 Claude Code（或在下拉列表中选择 codex、cursor、gemini-cli 等）",
+  "count": 1
+ },
+ {
+  "en": ". This server is not on the default port 3111, so export its URL in the shell you start the agent from",
+  "zh": "。本服务器不在默认端口 3111 上，请在启动智能体的 shell 中导出它的 URL",
+  "count": 1
+ },
+ {
+  "en": "1 &middot; Connect your agent",
+  "zh": "1 &middot; 连接你的智能体",
+  "count": 1
+ },
+ {
+  "en": ":</div>",
+  "zh": "：</div>",
+  "count": 1
+ },
+ {
+  "en": "Open your agent in a project and ask it anything. Sessions, observations and memories appear here as they are written.",
+  "zh": "在项目中打开你的智能体，随便问它点什么。会话、观测和记忆会在写入时显示在这里。",
+  "count": 1
+ },
+ {
+  "en": "2 &middot; Start a session",
+  "zh": "2 &middot; 开始一个会话",
+  "count": 1
+ },
+ {
+  "en": "Seeds three sample coding sessions and runs a search demo against this server:",
+  "zh": "向本服务器植入三个示例编码会话，并运行一次搜索演示：",
+  "count": 1
+ },
+ {
+  "en": "Or try it with sample data",
+  "zh": "或用示例数据试试",
+  "count": 1
+ },
+ {
+  "en": "Supported agents and manual setup &rarr;",
+  "zh": "支持的智能体与手动设置 &rarr;",
+  "count": 1
+ },
+ {
+  "en": "Needs attention (",
+  "zh": "需要关注（",
+  "count": 1
+ },
+ {
+  "en": "What your agents remember",
+  "zh": "你的智能体记住了什么",
+  "count": 1
+ },
+ {
+  "en": "updates live",
+  "zh": "实时更新",
+  "count": 1
+ },
+ {
+  "en": " incl. older versions",
+  "zh": "（含旧版本）",
+  "count": 1
+ },
+ {
+  "en": " sessions",
+  "zh": " 个会话",
+  "count": 1
+ },
+ {
+  "en": " running now",
+  "zh": " 正在运行",
+  "count": 1
+ },
+ {
+  "en": "rules learned from past work",
+  "zh": "从以往工作中学到的规则",
+  "count": 1
+ },
+ {
+  "en": "summaries of finished work",
+  "zh": "已完成工作的总结",
+  "count": 1
+ },
+ {
+  "en": "tracked follow-ups",
+  "zh": "跟踪的后续事项",
+  "count": 1
+ },
+ {
+  "en": " relations",
+  "zh": " 个关系",
+  "count": 1
+ },
+ {
+  "en": " tokens (estimate)",
+  "zh": " 个 token（估算）",
+  "count": 1
+ },
+ {
+  "en": "Context saved",
+  "zh": "节省的上下文",
+  "count": 1
+ },
+ {
+  "en": "Is it healthy",
+  "zh": "它健康吗",
+  "count": 1
+ },
+ {
+  "en": "checked ",
+  "zh": "检查于 ",
+  "count": 1
+ },
+ {
+  "en": "engine ",
+  "zh": "引擎 ",
+  "count": 1
+ },
+ {
+  "en": "keyword only, no embeddings",
+  "zh": "仅关键词，无嵌入",
+  "count": 1
+ },
+ {
+  "en": " with vectors",
+  "zh": " 含向量",
+  "count": 1
+ },
+ {
+  "en": "Search index",
+  "zh": "搜索索引",
+  "count": 1
+ },
+ {
+  "en": " waiting",
+  "zh": " 个待处理",
+  "count": 1
+ },
+ {
+  "en": " MB heap · RSS ",
+  "zh": " MB 堆内存 · RSS ",
+  "count": 1
+ },
+ {
+  "en": "Memory use",
+  "zh": "内存使用",
+  "count": 1
+ },
+ {
+  "en": "of ",
+  "zh": "共 ",
+  "count": 1
+ },
+ {
+  "en": "event loop ",
+  "zh": "事件循环 ",
+  "count": 1
+ },
+ {
+  "en": " ms behind",
+  "zh": " 毫秒滞后",
+  "count": 1
+ },
+ {
+  "en": "none recorded yet",
+  "zh": "尚无记录",
+  "count": 1
+ },
+ {
+  "en": "no failures",
+  "zh": "无失败",
+  "count": 1
+ },
+ {
+  "en": " function",
+  "zh": " 个函数",
+  "count": 1
+ },
+ {
+  "en": " failed",
+  "zh": " 次失败",
+  "count": 1
+ },
+ {
+  "en": " off, no LLM",
+  "zh": " 个已关闭（无 LLM）",
+  "count": 1
+ },
+ {
+  "en": "LLM calls flowing normally",
+  "zh": "LLM 调用正常",
+  "count": 1
+ },
+ {
+  "en": "no LLM provider configured",
+  "zh": "未配置 LLM 提供方",
+  "count": 1
+ },
+ {
+  "en": " recent failures",
+  "zh": " 次近期失败",
+  "count": 1
+ },
+ {
+  "en": "LLM breaker",
+  "zh": "LLM 熔断器",
+  "count": 1
+ },
+ {
+  "en": "Recent sessions ",
+  "zh": "最近会话 ",
+  "count": 1
+ },
+ {
+  "en": "Each run of an agent in a project becomes a session with its own observations.",
+  "zh": "智能体在项目中的每次运行都会成为一个拥有自己观测的会话。",
+  "count": 1
+ },
+ {
+  "en": "No agent with agentmemory hooks has started yet.",
+  "zh": "尚无带 agentmemory 钩子的智能体启动。",
+  "count": 1
+ },
+ {
+  "en": "Start one by hand to see it appear here instantly:",
+  "zh": "手动启动一个，它会立即出现在这里：",
+  "count": 1
+ },
+ {
+  "en": "Started",
+  "zh": "开始时间",
+  "count": 1
+ },
+ {
+  "en": "Obs",
+  "zh": "观测",
+  "count": 1
+ },
+ {
+  "en": "Live feed ",
+  "zh": "实时动态 ",
+  "count": 1
+ },
+ {
+  "en": "Function metrics and workers ",
+  "zh": "函数指标与工作进程 ",
+  "count": 1
+ },
+ {
+  "en": "Avg latency ",
+  "zh": "平均延迟 ",
+  "count": 1
+ },
+ {
+  "en": "Function",
+  "zh": "函数",
+  "count": 1
+ },
+ {
+  "en": "Failed",
+  "zh": "失败",
+  "count": 1
+ },
+ {
+  "en": "Calls",
+  "zh": "调用",
+  "count": 1
+ },
+ {
+  "en": "No function has run since the worker started. Calls appear here as agents observe, search and save.",
+  "zh": "自工作进程启动以来尚无函数运行。当智能体进行观测、搜索和保存时，调用会显示在这里。",
+  "count": 1
+ },
+ {
+  "en": "Workers ",
+  "zh": "工作进程 ",
+  "count": 1
+ },
+ {
+  "en": "Waiting for activity",
+  "zh": "等待动态",
+  "count": 1
+ },
+ {
+  "en": "Everything agentmemory does appears here the moment it happens: new sessions, observations, saved memories, lessons and deletes.",
+  "zh": "agentmemory 所做的一切都会在发生时立即显示在这里：新会话、观测、保存的记忆、经验教训和删除。",
+  "count": 1
+ },
+ {
+  "en": "Nothing has changed since this page connected, and the audit log is empty.",
+  "zh": "自本页面连接以来没有任何变化，审计日志为空。",
+  "count": 1
+ },
+ {
+  "en": "Save a memory and watch it arrive:",
+  "zh": "保存一条记忆，看它实时到达：",
+  "count": 1
+ },
+ {
+  "en": "A file the agent read, edited or that a code import found.",
+  "zh": "智能体读取或编辑过的文件，或代码导入发现的文件。",
+  "count": 1
+ },
+ {
+  "en": "A function, class or other code symbol.",
+  "zh": "函数、类或其他代码符号。",
+  "count": 1
+ },
+ {
+  "en": "A topic that came up in the work, such as pricing or auth.",
+  "zh": "工作中出现的话题，例如 pricing 或 auth。",
+  "count": 1
+ },
+ {
+  "en": "An error or bug the agent ran into.",
+  "zh": "智能体遇到的错误或缺陷。",
+  "count": 1
+ },
+ {
+  "en": "A decision or the reasoning behind one.",
+  "zh": "一项决策或其背后的理由。",
+  "count": 1
+ },
+ {
+  "en": "A convention or approach that keeps coming back.",
+  "zh": "反复出现的约定或做法。",
+  "count": 1
+ },
+ {
+  "en": "A library, framework or tool.",
+  "zh": "库、框架或工具。",
+  "count": 1
+ },
+ {
+  "en": "A person named in the work.",
+  "zh": "工作中提到的人。",
+  "count": 1
+ },
+ {
+  "en": "A project or repository.",
+  "zh": "项目或仓库。",
+  "count": 1
+ },
+ {
+  "en": "A preference someone stated.",
+  "zh": "某人表达的偏好。",
+  "count": 1
+ },
+ {
+  "en": "A place, host or environment.",
+  "zh": "地点、主机或环境。",
+  "count": 1
+ },
+ {
+  "en": "A team or company.",
+  "zh": "团队或公司。",
+  "count": 1
+ },
+ {
+  "en": "Something that happened at a point in time, such as a release.",
+  "zh": "在某个时间点发生的事，例如一次发布。",
+  "count": 1
+ },
+ {
+  "en": "The two appeared in the same observation. Added without an LLM.",
+  "zh": "两者出现在同一条观测中。无需 LLM 即可添加。",
+  "count": 1
+ },
+ {
+  "en": "One calls or uses the other.",
+  "zh": "一方调用或使用另一方。",
+  "count": 1
+ },
+ {
+  "en": "One imports or loads the other.",
+  "zh": "一方导入或加载另一方。",
+  "count": 1
+ },
+ {
+  "en": "One changes the other.",
+  "zh": "一方改变另一方。",
+  "count": 1
+ },
+ {
+  "en": "One led to the other.",
+  "zh": "一方导致了另一方。",
+  "count": 1
+ },
+ {
+  "en": "One was caused by the other.",
+  "zh": "一方由另一方引起。",
+  "count": 1
+ },
+ {
+  "en": "One fixes the other.",
+  "zh": "一方修复另一方。",
+  "count": 1
+ },
+ {
+  "en": "One needs the other to work.",
+  "zh": "一方需要另一方才能工作。",
+  "count": 1
+ },
+ {
+  "en": "One is waiting on the other.",
+  "zh": "一方正在等待另一方。",
+  "count": 1
+ },
+ {
+  "en": "A person works at an organization.",
+  "zh": "某人在某个组织工作。",
+  "count": 1
+ },
+ {
+  "en": "Someone prefers this option.",
+  "zh": "某人偏好这个选项。",
+  "count": 1
+ },
+ {
+  "en": "A choice made to favor this goal.",
+  "zh": "为偏向该目标做出的选择。",
+  "count": 1
+ },
+ {
+  "en": "An option that was considered and turned down.",
+  "zh": "一个被考虑过但否决的选项。",
+  "count": 1
+ },
+ {
+  "en": "Something deliberately kept away from.",
+  "zh": "刻意避开的事物。",
+  "count": 1
+ },
+ {
+  "en": "POST /agentmemory/graph/query failed. The server log has the HTTP error.",
+  "zh": "POST /agentmemory/graph/query 失败。服务器日志中有 HTTP 错误。",
+  "count": 1
+ },
+ {
+  "en": "request failed",
+  "zh": "请求失败",
+  "count": 1
+ },
+ {
+  "en": "NO RELATIONS YET · ",
+  "zh": "尚无关系 · ",
+  "count": 1
+ },
+ {
+  "en": "LLM extraction is on: finished sessions add typed entities (functions, errors, decisions) and typed relations (uses, fixes, depends on).",
+  "zh": "LLM 提取已开启：已结束的会话会添加有类型的实体（函数、错误、决策）和有类型的关系（uses、fixes、depends on）。",
+  "count": 1
+ },
+ {
+  "en": "No LLM provider is set, so only structural relations exist: files and concepts that show up in the same observation, plus anything imported from a code graph. Typed entities and relations need an LLM.",
+  "zh": "未配置 LLM 提供方，因此只存在结构关系：出现在同一条观测中的文件和概念，以及从代码图谱导入的内容。有类型的实体和关系需要 LLM。",
+  "count": 1
+ },
+ {
+  "en": "An LLM provider is set but GRAPH_EXTRACTION_ENABLED is off, so only structural relations exist. Turn it on for typed entities and relations.",
+  "zh": "已配置 LLM 提供方，但 GRAPH_EXTRACTION_ENABLED 未开启，因此只存在结构关系。开启它以获得有类型的实体和关系。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"graph-search-wrap\"><input type=\"search\" id=\"graph-search\" class=\"graph-search\" placeholder=\"Find a node (press /)\" aria-label=\"Find a node by name\" autocomplete=\"off\" aria-controls=\"graph-search-results\"><div id=\"graph-search-results\" class=\"graph-search-results\" role=\"listbox\" aria-label=\"Matching nodes\" hidden></div></div>",
+  "zh": "<div class=\"graph-search-wrap\"><input type=\"search\" id=\"graph-search\" class=\"graph-search\" placeholder=\"查找节点（按 /）\" aria-label=\"按名称查找节点\" autocomplete=\"off\" aria-controls=\"graph-search-results\"><div id=\"graph-search-results\" class=\"graph-search-results\" role=\"listbox\" aria-label=\"匹配的节点\" hidden></div></div>",
+  "count": 1
+ },
+ {
+  "en": "<select id=\"graph-type-filter\" aria-label=\"Filter nodes by type\"></select>",
+  "zh": "<select id=\"graph-type-filter\" aria-label=\"按类型筛选节点\"></select>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"btn graph-build\" data-action=\"rebuild-graph\">Rebuild</button>",
+  "zh": "<button type=\"button\" class=\"btn graph-build\" data-action=\"rebuild-graph\">重建</button>",
+  "count": 1
+ },
+ {
+  "en": "<canvas id=\"graph-canvas\" tabindex=\"0\" role=\"img\" aria-label=\"Knowledge graph. Use plus and minus to zoom, 0 to fit, arrow keys to pan. Pick nodes from the list beside the graph.\"></canvas>",
+  "zh": "<canvas id=\"graph-canvas\" tabindex=\"0\" role=\"img\" aria-label=\"知识图谱。使用加号和减号缩放，按 0 适配视图，方向键平移，从图谱旁边的列表中选择节点。\"></canvas>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"graph-zoom\" role=\"group\" aria-label=\"Zoom\">",
+  "zh": "<div class=\"graph-zoom\" role=\"group\" aria-label=\"缩放\">",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"zoom-graph\" data-dir=\"1\" aria-label=\"Zoom in\" title=\"Zoom in (+)\">+</button>",
+  "zh": "<button type=\"button\" data-action=\"zoom-graph\" data-dir=\"1\" aria-label=\"放大\" title=\"放大 (+)\">+</button>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"zoom-graph\" data-dir=\"-1\" aria-label=\"Zoom out\" title=\"Zoom out (-)\">&minus;</button>",
+  "zh": "<button type=\"button\" data-action=\"zoom-graph\" data-dir=\"-1\" aria-label=\"缩小\" title=\"缩小 (-)\">&minus;</button>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"recenter-graph\" aria-label=\"Fit the graph to the view\" title=\"Fit (0)\">fit</button>",
+  "zh": "<button type=\"button\" data-action=\"recenter-graph\" aria-label=\"使图谱适配视图\" title=\"适配 (0)\">适配</button>",
+  "count": 1
+ },
+ {
+  "en": "<aside class=\"graph-side\" aria-label=\"Graph details\"><div id=\"graph-detail\"></div><div id=\"graph-overview\"></div></aside>",
+  "zh": "<aside class=\"graph-side\" aria-label=\"图谱详情\"><div id=\"graph-detail\"></div><div id=\"graph-overview\"></div></aside>",
+  "count": 1
+ },
+ {
+  "en": "<option value=\"\">All types (",
+  "zh": "<option value=\"\">所有类型 (",
+  "count": 1
+ },
+ {
+  "en": "\">Only ",
+  "zh": "\">仅 ",
+  "count": 1
+ },
+ {
+  "en": " types</option>",
+  "zh": " 种类型</option>",
+  "count": 1
+ },
+ {
+  "en": " relations ",
+  "zh": " 个关系 ",
+  "count": 1
+ },
+ {
+  "en": " nodes ",
+  "zh": " 个节点 ",
+  "count": 1
+ },
+ {
+  "en": " · showing the ",
+  "zh": " · 仅显示连接最多的 ",
+  "count": 1
+ },
+ {
+  "en": " most connected",
+  "zh": " 个",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"gs-empty\">No node in view matches &ldquo;",
+  "zh": "<div class=\"gs-empty\">当前视图中没有节点与之匹配 &ldquo;",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"gs-hit gs-remote\" data-action=\"graph-search-remote\">Search all ",
+  "zh": "<button type=\"button\" class=\"gs-hit gs-remote\" data-action=\"graph-search-remote\">在服务器上搜索全部 ",
+  "count": 1
+ },
+ {
+  "en": " nodes on the server</button>",
+  "zh": " 个节点</button>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Loading the graph…</div></div>",
+  "zh": "<div class=\"empty-step-label\">正在加载图谱…</div></div>",
+  "count": 1
+ },
+ {
+  "en": "The knowledge graph is off",
+  "zh": "知识图谱已关闭",
+  "count": 1
+ },
+ {
+  "en": "Entities and relations agentmemory pulls out of what agents do.",
+  "zh": "agentmemory 从智能体的工作中提取出的实体与关系。",
+  "count": 1
+ },
+ {
+  "en": "Graph extraction is disabled on this server.",
+  "zh": "此服务器已禁用图谱提取。",
+  "count": 1
+ },
+ {
+  "en": "Turn it on and restart:",
+  "zh": "开启后重启：",
+  "count": 1
+ },
+ {
+  "en": "Knowledge graph docs",
+  "zh": "知识图谱文档",
+  "count": 1
+ },
+ {
+  "en": "The graph could not be loaded",
+  "zh": "图谱加载失败",
+  "count": 1
+ },
+ {
+  "en": " most connected nodes in one request.",
+  "zh": " 个节点。",
+  "count": 1
+ },
+ {
+  "en": "The graph page reads the top ",
+  "zh": "图谱页单次请求读取连接数最多的前 ",
+  "count": 1
+ },
+ {
+  "en": "Try the same request from a terminal:",
+  "zh": "在终端中尝试相同的请求：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"graph-msg-actions\"><button type=\"button\" class=\"btn\" data-action=\"graph-retry\">Retry</button></div>",
+  "zh": "<div class=\"graph-msg-actions\"><button type=\"button\" class=\"btn\" data-action=\"graph-retry\">重试</button></div>",
+  "count": 1
+ },
+ {
+  "en": "No knowledge graph yet",
+  "zh": "还没有知识图谱",
+  "count": 1
+ },
+ {
+  "en": "A map of the files, functions, concepts, errors and decisions agents worked with, and how they relate. Each node links back to the observations and sessions it came from.",
+  "zh": "一份展示智能体处理过的文件、函数、概念、错误与决策及其相互关系的地图。每个节点都链接回它来源的观测与会话。",
+  "count": 1
+ },
+ {
+  "en": "Nodes are added when a session ends: its observations are scanned for files and concepts. None of the ",
+  "zh": "会话结束时会添加节点：系统会扫描该会话观测中的文件与概念。以下 ",
+  "count": 1
+ },
+ {
+  "en": "No session has ended yet, and nothing was imported. ",
+  "zh": "尚无会话结束，也未导入任何内容。 ",
+  "count": 1
+ },
+ {
+  "en": " sessions has produced any yet. ",
+  "zh": " 个会话尚未产生任何节点。 ",
+  "count": 1
+ },
+ {
+  "en": "Build it now from every stored observation (spends LLM tokens when extraction is on):",
+  "zh": "立即从所有已存储的观测构建（开启提取时会消耗 LLM token）：",
+  "count": 1
+ },
+ {
+  "en": "Or import a structural code graph made by graphify (no LLM needed):",
+  "zh": "或导入由 graphify 生成的结构化代码图谱（无需 LLM）：",
+  "count": 1
+ },
+ {
+  "en": "For typed entities and relations, turn on LLM extraction and restart:",
+  "zh": "如需带类型的实体与关系，请开启 LLM 提取并重启：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"graph-msg-actions\"><button type=\"button\" class=\"btn btn-primary\" data-action=\"rebuild-graph\">Build from observations</button></div>",
+  "zh": "<div class=\"graph-msg-actions\"><button type=\"button\" class=\"btn btn-primary\" data-action=\"rebuild-graph\">从观测构建</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"graph-close\" aria-label=\"Close node details\">close</button>",
+  "zh": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"graph-close\" aria-label=\"关闭节点详情\">关闭</button>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail gd\"><div class=\"mem-detail-head\"><span>Node</span>",
+  "zh": "<div class=\"detail-panel mem-detail gd\"><div class=\"mem-detail-head\"><span>节点</span>",
+  "count": 1
+ },
+ {
+  "en": "Node not found",
+  "zh": "未找到节点",
+  "count": 1
+ },
+ {
+  "en": "Graph links open this panel by node id.",
+  "zh": "图谱中的链接通过节点 ID 打开此面板。",
+  "count": 1
+ },
+ {
+  "en": "</code>. The graph was reset or rebuilt since the link was made.",
+  "zh": "</code> 的节点。该链接生成后，图谱已被重置或重建。",
+  "count": 1
+ },
+ {
+  "en": "No node has the id <code>",
+  "zh": "没有 ID 为 <code>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail gd\"><div class=\"mem-detail-head\"><span>Loading node ",
+  "zh": "<div class=\"detail-panel mem-detail gd\"><div class=\"mem-detail-head\"><span>正在加载节点 ",
+  "count": 1
+ },
+ {
+  "en": "(degree === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "\">Center</button>",
+  "zh": "\">居中</button>",
+  "count": 1
+ },
+ {
+  "en": "node name",
+  "zh": "节点名称",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note\">This node changed on the live stream. <button type=\"button\" class=\"linkish\" data-action=\"graph-refresh-detail\" data-node-id=\"",
+  "zh": "<div class=\"mem-note\">该节点在实时流中发生了变化。 <button type=\"button\" class=\"linkish\" data-action=\"graph-refresh-detail\" data-node-id=\"",
+  "count": 1
+ },
+ {
+  "en": "\">Reload sources</button></div>",
+  "zh": "\">重新加载来源</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Relations ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">关系 ",
+  "count": 1
+ },
+ {
+  "en": "Without LLM extraction, a relation appears only when this entity shows up in the same observation as another file or concept.",
+  "zh": "未开启 LLM 提取时，仅当此实体与另一个文件或概念出现在同一观测中时，才会出现关系。",
+  "count": 1
+ },
+ {
+  "en": "Relations appear as later sessions mention this entity together with others.",
+  "zh": "当后续会话将此实体与其他实体一同提及时，就会出现关系。",
+  "count": 1
+ },
+ {
+  "en": "Loading relations…",
+  "zh": "正在加载关系…",
+  "count": 1
+ },
+ {
+  "en": "No relations yet. ",
+  "zh": "还没有关系。 ",
+  "count": 1
+ },
+ {
+  "en": "The other node ",
+  "zh": "另一节点 ",
+  "count": 1
+ },
+ {
+  "en": "This node ",
+  "zh": "此节点 ",
+  "count": 1
+ },
+ {
+  "en": " the other",
+  "zh": " 另一节点",
+  "count": 1
+ },
+ {
+  "en": " this one",
+  "zh": " 此节点",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"gd-missing\">node no longer stored</span>",
+  "zh": "<span class=\"gd-missing\">节点已不再存储</span>",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Open ",
+  "zh": "\" title=\"打开 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Where it came from ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">来源 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note err\">Could not load the sources: ",
+  "zh": "<div class=\"mem-note err\">无法加载来源： ",
+  "count": 1
+ },
+ {
+  "en": "Structural code graph (graphify)",
+  "zh": "结构化代码图谱（graphify）",
+  "count": 1
+ },
+ {
+  "en": "<dt>Import</dt><dd>",
+  "zh": "<dt>导入</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Projects ",
+  "zh": "<dt>项目 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"gd-sub\">Observations <span class=\"gd-count\">",
+  "zh": "<div class=\"gd-sub\">观测 <span class=\"gd-count\">",
+  "count": 1
+ },
+ {
+  "en": " more in the sessions above.</div>",
+  "zh": " 个（见上述会话）。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"gd-sub\">Memories <span class=\"gd-count\">",
+  "zh": "<div class=\"gd-sub\">记忆 <span class=\"gd-count\">",
+  "count": 1
+ },
+ {
+  "en": " · same observations",
+  "zh": " · 相同的观测",
+  "count": 1
+ },
+ {
+  "en": " · mentions it",
+  "zh": " · 提及它",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">No sources recorded. Nodes added before provenance tracking, or through a direct API call, carry no observation ids.</div>",
+  "zh": "<div class=\"empty-step-label\">未记录来源。在来源追踪功能上线前添加的节点，或通过直接 API 调用添加的节点，不带观测 ID。</div>",
+  "count": 1
+ },
+ {
+  "en": "<dt>First seen</dt><dd>",
+  "zh": "<dt>首次出现</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Also called</dt><dd>",
+  "zh": "<dt>别名</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": " The files, functions, concepts and decisions agents worked with, and how they relate. Click a node to see its relations and the observations it came from.</div>",
+  "zh": " 展示智能体处理过的文件、函数、概念与决策及其相互关系。点击节点可查看其关系与来源观测。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"go-intro\"><strong>Knowledge graph</strong> ",
+  "zh": "<div class=\"go-intro\"><strong>知识图谱</strong> ",
+  "count": 1
+ },
+ {
+  "en": "</b><span>relations ",
+  "zh": "</b><span>关系 ",
+  "count": 1
+ },
+ {
+  "en": "</b><span>unlinked ",
+  "zh": "</b><span>未关联 ",
+  "count": 1
+ },
+ {
+  "en": "</b><span>nodes ",
+  "zh": "</b><span>节点 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note go-sparse\"><b>Sparse graph.</b> ",
+  "zh": "<div class=\"mem-note go-sparse\"><b>稀疏图谱。</b> ",
+  "count": 1
+ },
+ {
+  "en": " nodes have no relations yet. ",
+  "zh": " 个节点尚无关系。 ",
+  "count": 1
+ },
+ {
+  "en": " nodes. Search finds the rest on the server.</div>",
+  "zh": " 个节点，可通过搜索在服务器上找到其余节点。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note\">Showing the ",
+  "zh": "<div class=\"mem-note\">当前显示连接最多的 ",
+  "count": 1
+ },
+ {
+  "en": " most connected of ",
+  "zh": " 个，共 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Node types <span class=\"gd-count\">click to hide or show</span></div><ul class=\"go-legend\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">节点类型 <span class=\"gd-count\">点击隐藏或显示</span></div><ul class=\"go-legend\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Relation types ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">关系类型 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">No relations yet.</div>",
+  "zh": "<div class=\"empty-step-label\">还没有关系。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Most connected</div><ol class=\"go-top\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">连接数最多</div><ol class=\"go-top\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Add to the graph</div>",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">添加到图谱</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Import a structural code graph made by graphify:</div>",
+  "zh": "<div class=\"empty-step-label\">导入由 graphify 生成的结构化代码图谱：</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\" style=\"margin-top:8px;\">Query it from an agent:</div>",
+  "zh": "<div class=\"empty-step-label\" style=\"margin-top:8px;\">从智能体中查询：</div>",
+  "count": 1
+ },
+ {
+  "en": "Updates arrive on the live stream; nothing refreshes on a timer.",
+  "zh": "更新通过实时流到达；不会定时刷新。",
+  "count": 1
+ },
+ {
+  "en": " from the live stream, last ",
+  "zh": "，最近一次 ",
+  "count": 1
+ },
+ {
+  "en": "(g.patches === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "Patched ",
+  "zh": "已从实时流打补丁 ",
+  "count": 1
+ },
+ {
+  "en": "' time'",
+  "zh": "' 次'",
+  "count": 1
+ },
+ {
+  "en": "'.'",
+  "zh": "'。'",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"tt-hint\">click for relations and sources</div>",
+  "zh": "</div><div class=\"tt-hint\">点击查看关系与来源</div>",
+  "count": 1
+ },
+ {
+  "en": "(graphDegree(n.id) === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"gs-empty\">Searching all nodes…</div>",
+  "zh": "<div class=\"gs-empty\">正在搜索全部节点…</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"gs-empty\">The server search failed.</div>",
+  "zh": "<div class=\"gs-empty\">服务器搜索失败。</div>",
+  "count": 1
+ },
+ {
+  "en": "Rebuild the knowledge graph from every stored observation?\\n\\n",
+  "zh": "Rebuild the knowledge graph from every stored observation？\\n\\n",
+  "count": 1
+ },
+ {
+  "en": "This replays the whole corpus and can take several minutes on a large store. ",
+  "zh": "这将重放整个语料库，在大型存储上可能需要几分钟。 ",
+  "count": 1
+ },
+ {
+  "en": "With LLM extraction on it also spends provider tokens.",
+  "zh": "开启 LLM 提取时还会消耗服务商 token。",
+  "count": 1
+ },
+ {
+  "en": "Rebuilding from stored observations…",
+  "zh": "正在从已存储的观测重建…",
+  "count": 1
+ },
+ {
+  "en": " relations extracted. New ones arrive on the live stream.",
+  "zh": " 个关系已提取。新的内容将通过实时流到达。",
+  "count": 1
+ },
+ {
+  "en": "Rebuilt from ",
+  "zh": "已从 ",
+  "count": 1
+ },
+ {
+  "en": " sessions: ",
+  "zh": " 个会话重建：",
+  "count": 1
+ },
+ {
+  "en": " nodes and ",
+  "zh": " 个节点、",
+  "count": 1
+ },
+ {
+  "en": "The rebuild failed. Check the server log.",
+  "zh": "重建失败。请检查服务器日志。",
+  "count": 1
+ },
+ {
+  "en": " and keeps the old one as history. Click a row for provenance, versions, edits and copy actions. Longer-lived facts and procedures are distilled from sessions by <a class=\"empty-link\" href=\"#health/consolidation\">consolidation &rarr;</a></div>",
+  "zh": "，旧版本保留为历史记录。点击某一行查看来源、版本、编辑与复制操作。更长期的事实与流程由 <a class=\"empty-link\" href=\"#health/consolidation\">整合 &rarr;</a></div>",
+  "count": 1
+ },
+ {
+  "en": " are durable facts, architecture notes, conventions and preferences agents keep across sessions. Saving a near-duplicate, or editing one here, creates a new version ",
+  "zh": " 是智能体跨会话保留的持久事实、架构笔记、约定与偏好。保存近似重复的内容，或在此编辑，会创建新版本 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Memories</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>记忆</strong> ",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Filter by ",
+  "zh": "\" aria-label=\"按 ",
+  "count": 1
+ },
+ {
+  "en": "No memory has a",
+  "zh": "没有记忆具有 ",
+  "count": 1
+ },
+ {
+  "en": "<input type=\"search\" id=\"mem-search\" placeholder=\"Search memories by meaning or keyword (press /)\" value=\"",
+  "zh": "<input type=\"search\" id=\"mem-search\" placeholder=\"按语义或关键词搜索记忆（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Search memories\">",
+  "zh": "\" aria-label=\"搜索记忆\">",
+  "count": 1
+ },
+ {
+  "en": "All types",
+  "zh": "所有类型",
+  "count": 1
+ },
+ {
+  "en": "type <b>",
+  "zh": "类型 <b>",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Select this memory\"",
+  "zh": "\" aria-label=\"选择这条记忆\"",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Show only project ",
+  "zh": "\" title=\"仅显示项目 ",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Show only memories written by agent ",
+  "zh": "\" title=\"仅显示智能体 ",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"ver-badge\" title=\"Version ",
+  "zh": "<span class=\"ver-badge\" title=\"版本 ",
+  "count": 1
+ },
+ {
+  "en": "(version === 2 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": " kept as history\">v",
+  "zh": " 保留为历史记录\">v",
+  "count": 1
+ },
+ {
+  "en": "' earlier version'",
+  "zh": "' 个更早版本'",
+  "count": 1
+ },
+ {
+  "en": "': '",
+  "zh": "'：'",
+  "count": 1
+ },
+ {
+  "en": " of 10\"><div class=\"strength-bar\"><div class=\"fill\" style=\"width:",
+  "zh": "/10\"><div class=\"strength-bar\"><div class=\"fill\" style=\"width:",
+  "count": 1
+ },
+ {
+  "en": "<td class=\"col-opt\" style=\"white-space:nowrap;\" title=\"Strength ",
+  "zh": "<td class=\"col-opt\" style=\"white-space:nowrap;\" title=\"强度 ",
+  "count": 1
+ },
+ {
+  "en": "keyword search (no embeddings configured)",
+  "zh": "关键词搜索（未配置向量嵌入）",
+  "count": 1
+ },
+ {
+  "en": "meaning + keyword search",
+  "zh": "语义 + 关键词搜索",
+  "count": 1
+ },
+ {
+  "en": "search failed, try again",
+  "zh": "搜索失败，请重试",
+  "count": 1
+ },
+ {
+  "en": "Searching…",
+  "zh": "搜索中…",
+  "count": 1
+ },
+ {
+  "en": "' result'",
+  "zh": "' 条结果'",
+  "count": 1
+ },
+ {
+  "en": "(total === 1 ? 'y' : 'ies')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' matching memor'",
+  "zh": "' 个匹配的记忆'",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"btn\" data-action=\"mem-clear-filters\">Clear all</button></div>",
+  "zh": "</span><button type=\"button\" class=\"btn\" data-action=\"mem-clear-filters\">全部清除</button></div>",
+  "count": 1
+ },
+ {
+  "en": " for ",
+  "zh": "，条件为 ",
+  "count": 1
+ },
+ {
+  "en": " selected</span>",
+  "zh": " 项已选</span>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"btn\" data-action=\"mem-export\">Export JSON</button>",
+  "zh": "<button type=\"button\" class=\"btn\" data-action=\"mem-export\">导出 JSON</button>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"btn btn-danger\" data-action=\"mem-bulk-forget\">Forget ",
+  "zh": "<button type=\"button\" class=\"btn btn-danger\" data-action=\"mem-bulk-forget\">忘记 ",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"btn\" data-action=\"mem-uncheck-all\">Clear selection</button></div>",
+  "zh": "<button type=\"button\" class=\"btn\" data-action=\"mem-uncheck-all\">清除选择</button></div>",
+  "count": 1
+ },
+ {
+  "en": "No memories match",
+  "zh": "没有匹配的记忆",
+  "count": 1
+ },
+ {
+  "en": "This list shows the latest version of every memory that matches the search box and the project, agent and type filters. Filters and search run on the server over all memories, not only the loaded page.",
+  "zh": "此列表显示与搜索框及项目、智能体、类型筛选条件匹配的每条记忆的最新版本。筛选与搜索在服务器上对全部记忆执行，而不仅限于已加载的页面。",
+  "count": 1
+ },
+ {
+  "en": "No latest memory matches ",
+  "zh": "没有最新记忆匹配 ",
+  "count": 1
+ },
+ {
+  "en": "Or save a memory that matches:",
+  "zh": "或保存一条匹配的记忆：",
+  "count": 1
+ },
+ {
+  "en": "Describe the fact to keep",
+  "zh": "描述要保留的事实",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"mem-clear-filters\">Clear search and filters</button></div>",
+  "zh": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"mem-clear-filters\">清除搜索与筛选</button></div>",
+  "count": 1
+ },
+ {
+  "en": "No memories yet",
+  "zh": "还没有记忆",
+  "count": 1
+ },
+ {
+  "en": "Memories are distilled facts agentmemory keeps across sessions: file locations, architecture decisions, conventions, user preferences. Agents recall them at the start of every session.",
+  "zh": "记忆是 agentmemory 跨会话保留的提炼事实：文件位置、架构决策、约定、用户偏好。智能体在每次会话开始时回忆它们。",
+  "count": 1
+ },
+ {
+  "en": "No agent has saved one yet. Hooks save them during coding sessions once an agent runs with agentmemory.",
+  "zh": "尚无智能体保存过记忆。一旦智能体接入 agentmemory 运行，钩子会在编码会话期间保存它们。",
+  "count": 1
+ },
+ {
+  "en": "Memory types",
+  "zh": "记忆类型",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"table-wrap\"><table class=\"mem-table\"><tr><th class=\"mem-check\"><input type=\"checkbox\" data-action=\"mem-check-all\" aria-label=\"Select all shown memories\"",
+  "zh": "<div class=\"table-wrap\"><table class=\"mem-table\"><tr><th class=\"mem-check\"><input type=\"checkbox\" data-action=\"mem-check-all\" aria-label=\"选择所有显示的记忆\"",
+  "count": 1
+ },
+ {
+  "en": "></th><th>Memory</th><th>Type</th><th class=\"col-opt\">Strength ",
+  "zh": "></th><th>记忆</th><th>类型</th><th class=\"col-opt\">强度 ",
+  "count": 1
+ },
+ {
+  "en": "</th><th class=\"col-opt\">Updated</th></tr>",
+  "zh": "</th><th class=\"col-opt\">更新时间</th></tr>",
+  "count": 1
+ },
+ {
+  "en": " memories",
+  "zh": "记忆",
+  "count": 1
+ },
+ {
+  "en": " latest",
+  "zh": " 条最新的",
+  "count": 1
+ },
+ {
+  "en": "Load 100 more",
+  "zh": "再加载 100 条",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"mem-close\" aria-label=\"Close memory details\">close</button>",
+  "zh": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"mem-close\" aria-label=\"关闭记忆详情\">关闭</button>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>Saving the new version</span>",
+  "zh": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>正在保存新版本</span>",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"mem-note\">Saved. Waiting for the new version to arrive on the live stream…</div>",
+  "zh": "</div><div class=\"mem-note\">已保存。等待新版本通过实时流到达…</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>Memory</span>",
+  "zh": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>记忆</span>",
+  "count": 1
+ },
+ {
+  "en": "Memory not found",
+  "zh": "未找到记忆",
+  "count": 1
+ },
+ {
+  "en": "Memory links anywhere in the viewer open this panel by id.",
+  "zh": "查看器中的记忆链接通过 ID 打开此面板。",
+  "count": 1
+ },
+ {
+  "en": "</code>. It was forgotten, or the link comes from another install.",
+  "zh": "</code> 的记忆。它已被忘记，或该链接来自另一个安装实例。",
+  "count": 1
+ },
+ {
+  "en": "No memory has the id <code>",
+  "zh": "没有 ID 为 <code>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>Loading memory ",
+  "zh": "<div class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>正在加载记忆 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-diff-sum\">Type changed: <b>",
+  "zh": "<div class=\"mem-diff-sum\">类型已变更： <b>",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"mem-diff-sum\">Too long to compare word by word; showing the new text.</div>",
+  "zh": "</div><div class=\"mem-diff-sum\">文本过长，无法逐词比较；显示新文本。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-diff-sum\">The text did not change.</div>",
+  "zh": "<div class=\"mem-diff-sum\">文本没有变化。</div>",
+  "count": 1
+ },
+ {
+  "en": "(diff.added === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' added, &minus;'",
+  "zh": "' 已添加，−'",
+  "count": 1
+ },
+ {
+  "en": "' removed</div>'",
+  "zh": "' 个词已删除</div>'",
+  "count": 1
+ },
+ {
+  "en": "' word'",
+  "zh": "' 个词'",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Versions ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">版本 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Only one version so far. Editing it here, or saving a near-duplicate with memory_save, creates v",
+  "zh": "<div class=\"empty-step-label\">目前只有一个版本。在此编辑，或用 memory_save 保存近似重复内容，将创建 v",
+  "count": 1
+ },
+ {
+  "en": " and keeps this text as history.</div></div>",
+  "zh": "，并将当前文本保留为历史记录。</div></div>",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Open version ",
+  "zh": "\" title=\"打开版本 ",
+  "count": 1
+ },
+ {
+  "en": " <span class=\"badge badge-green\">latest</span>",
+  "zh": " <span class=\"badge badge-green\">最新</span>",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Compare with the version before it\">changes</button>",
+  "zh": "\" title=\"与上一版本比较\">变更</button>",
+  "count": 1
+ },
+ {
+  "en": "Loading older versions…",
+  "zh": "正在加载更早的版本…",
+  "count": 1
+ },
+ {
+  "en": "An older version (",
+  "zh": "一个更早的版本（",
+  "count": 1
+ },
+ {
+  "en": ") was forgotten.",
+  "zh": "）已被忘记。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section-title\" style=\"margin-top:10px;\">Changes from v",
+  "zh": "<div class=\"mem-section-title\" style=\"margin-top:10px;\">从 v",
+  "count": 1
+ },
+ {
+  "en": " to v",
+  "zh": " 到 v",
+  "count": 1
+ },
+ {
+  "en": "observation",
+  "zh": "观测",
+  "count": 1
+ },
+ {
+  "en": "graph node",
+  "zh": "图谱节点",
+  "count": 1
+ },
+ {
+  "en": "crystal",
+  "zh": "结晶",
+  "count": 1
+ },
+ {
+  "en": "session",
+  "zh": "会话",
+  "count": 1
+ },
+ {
+  "en": "lesson",
+  "zh": "经验教训",
+  "count": 1
+ },
+ {
+  "en": "action",
+  "zh": "行动",
+  "count": 1
+ },
+ {
+  "en": " (looking up its session)",
+  "zh": "（正在查找其会话）",
+  "count": 1
+ },
+ {
+  "en": "record",
+  "zh": "记录",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Provenance ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">来源 ",
+  "count": 1
+ },
+ {
+  "en": " with memory_save or POST /remember, not distilled from observations. Pass <code>sourceObservationIds</code> when saving to link it to what the agent saw.</div></div>",
+  "zh": "），通过 memory_save 或 POST /remember 保存，而非从观测中提炼。保存时传入 <code>sourceObservationIds</code> 可将其与智能体所见内容关联。</div></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">No sources recorded. This memory was saved directly",
+  "zh": "<div class=\"empty-step-label\">未记录来源。此记忆是直接保存的",
+  "count": 1
+ },
+ {
+  "en": " (origin ",
+  "zh": "（来源 ",
+  "count": 1
+ },
+ {
+  "en": "<dt>Sessions</dt><dd>",
+  "zh": "<dt>会话</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Observations</dt><dd>",
+  "zh": "<dt>观测</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<textarea id=\"mem-edit-text\" aria-label=\"Memory text\">",
+  "zh": "<textarea id=\"mem-edit-text\" aria-label=\"记忆文本\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-edit-row\"><label for=\"mem-edit-type\">Type</label><select id=\"mem-edit-type\">",
+  "zh": "<div class=\"mem-edit-row\"><label for=\"mem-edit-type\">类型</label><select id=\"mem-edit-type\">",
+  "count": 1
+ },
+ {
+  "en": " stays in history and leaves search.</span></div>",
+  "zh": " 保留在历史记录中，并移出搜索。</span></div>",
+  "count": 1
+ },
+ {
+  "en": "</select><span>Saving creates v",
+  "zh": "</select><span>保存将创建 v",
+  "count": 1
+ },
+ {
+  "en": "</button><button type=\"button\" class=\"btn\" data-action=\"mem-cancel-edit\">Cancel</button></div>",
+  "zh": "</button><button type=\"button\" class=\"btn\" data-action=\"mem-cancel-edit\">取消</button></div>",
+  "count": 1
+ },
+ {
+  "en": "Review and save",
+  "zh": "检查并保存",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--yellow);font-weight:600;\">older version</span>",
+  "zh": "<span style=\"color:var(--yellow);font-weight:600;\">旧版本</span>",
+  "count": 1
+ },
+ {
+  "en": "<span>latest version</span>",
+  "zh": "<span>最新版本</span>",
+  "count": 1
+ },
+ {
+  "en": "<span>· saved ",
+  "zh": "<span>· 保存于 ",
+  "count": 1
+ },
+ {
+  "en": " is kept as history and is not searched.",
+  "zh": " 保留为历史记录，不参与搜索。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note\">Version ",
+  "zh": "<div class=\"mem-note\">版本 ",
+  "count": 1
+ },
+ {
+  "en": " The current text is ",
+  "zh": " 当前文本为 ",
+  "count": 1
+ },
+ {
+  "en": "\">Edit</button>",
+  "zh": "\">编辑</button>",
+  "count": 1
+ },
+ {
+  "en": "memory id",
+  "zh": "记忆 ID",
+  "count": 1
+ },
+ {
+  "en": "memory text",
+  "zh": "记忆文本",
+  "count": 1
+ },
+ {
+  "en": "\">Forget…</button>",
+  "zh": "\">忘记…</button>",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--ink-faint);\">none (shared across projects)</span>",
+  "zh": "<span style=\"color:var(--ink-faint);\">无（跨项目共享）</span>",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--ink-faint);\">none (visible to every agent)</span>",
+  "zh": "<span style=\"color:var(--ink-faint);\">无（对所有智能体可见）</span>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Strength ",
+  "zh": "<dt>强度 ",
+  "count": 1
+ },
+ {
+  "en": " of 10</dd>",
+  "zh": "/10</dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Created</dt><dd>",
+  "zh": "<dt>创建时间</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Origin ",
+  "zh": "<dt>来源 ",
+  "count": 1
+ },
+ {
+  "en": "<dt>Expires</dt><dd>",
+  "zh": "<dt>过期时间</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Concepts</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<dt>概念</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "count": 1
+ },
+ {
+  "en": "<details style=\"margin-top:12px;\"><summary style=\"cursor:pointer;font-size:11px;color:var(--ink-faint);font-family:var(--font-mono);\">raw record</summary>",
+  "zh": "<details style=\"margin-top:12px;\"><summary style=\"cursor:pointer;font-size:11px;color:var(--ink-faint);font-family:var(--font-mono);\">原始记录</summary>",
+  "count": 1
+ },
+ {
+  "en": "The memory text cannot be empty. Use Forget to delete a memory.",
+  "zh": "记忆文本不能为空。如需删除记忆，请使用“忘记”功能。",
+  "count": 1
+ },
+ {
+  "en": "Nothing changed yet. Edit the text or the type, or press Cancel.",
+  "zh": "尚未做任何更改。请编辑文本或类型，或按“取消”。",
+  "count": 1
+ },
+ {
+  "en": "<h3>Save as version ",
+  "zh": "<h3>保存为版本 ",
+  "count": 1
+ },
+ {
+  "en": " from now on. This is the same call as <code>POST /agentmemory/evolve</code>.</p>",
+  "zh": "。这等同于调用 <code>POST /agentmemory/evolve</code>。</p>",
+  "count": 1
+ },
+ {
+  "en": " as history and removes it from search. Agents recall v",
+  "zh": " 保留为历史记录并移出搜索。智能体从此将回忆 v",
+  "count": 1
+ },
+ {
+  "en": "<p>agentmemory keeps v",
+  "zh": "<p>agentmemory 会将 v",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\" style=\"margin-top:14px;\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-primary\" data-action=\"mem-confirm-edit\">Save v",
+  "zh": "<div class=\"modal-actions\" style=\"margin-top:14px;\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-primary\" data-action=\"mem-confirm-edit\">保存 v",
+  "count": 1
+ },
+ {
+  "en": "Someone saved a newer version while you were editing. Your text is still here; open the latest version to edit that one.",
+  "zh": "有人在您编辑期间保存了更新的版本。您的文本仍保留；请打开最新版本进行编辑。",
+  "count": 1
+ },
+ {
+  "en": "Saving failed",
+  "zh": "保存失败",
+  "count": 1
+ },
+ {
+  "en": "<h3>Forget this memory permanently?</h3>",
+  "zh": "<h3>永久忘记这条记忆？</h3>",
+  "count": 1
+ },
+ {
+  "en": "</code>) is deleted from storage and from both search indexes. Agents stop recalling it. This cannot be undone; the delete is recorded in the audit log.</p>",
+  "zh": "</code>）将从存储及两个搜索索引中删除。智能体将不再回忆它。此操作不可撤销；删除操作会记录在审计日志中。</p>",
+  "count": 1
+ },
+ {
+  "en": "&rdquo; (v",
+  "zh": "”（v",
+  "count": 1
+ },
+ {
+  "en": "<label class=\"modal-check\"><input type=\"checkbox\" id=\"mem-forget-history\" checked> Also delete its ",
+  "zh": "<label class=\"modal-check\"><input type=\"checkbox\" id=\"mem-forget-history\" checked> 同时删除其 ",
+  "count": 1
+ },
+ {
+  "en": ". Otherwise they stay as hidden history.</label>",
+  "zh": "。否则它们将作为隐藏历史保留。</label>",
+  "count": 1
+ },
+ {
+  "en": "(older.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' older version'",
+  "zh": "' 个旧版本'",
+  "count": 1
+ },
+ {
+  "en": "<p style=\"font-size:11px;\">From an agent: <code>memory_governance_delete { \"memoryIds\": \"",
+  "zh": "<p style=\"font-size:11px;\">从智能体执行：<code>memory_governance_delete { \"memoryIds\": \"",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-danger\" data-action=\"mem-confirm-forget\" data-memory-id=\"",
+  "zh": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-danger\" data-action=\"mem-confirm-forget\" data-memory-id=\"",
+  "count": 1
+ },
+ {
+  "en": "\">Forget permanently</button></div>",
+  "zh": "\">永久忘记</button></div>",
+  "count": 1
+ },
+ {
+  "en": "(ids.length === 1 ? 'y' : 'ies')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' permanently?</h3>'",
+  "zh": "'？</h3>'",
+  "count": 1
+ },
+ {
+  "en": "'<h3>Forget '",
+  "zh": "'<h3>永久删除 '",
+  "count": 1
+ },
+ {
+  "en": "' memor'",
+  "zh": "' 个记忆'",
+  "count": 1
+ },
+ {
+  "en": "<p>These are deleted from storage and from both search indexes, and agents stop recalling them. This cannot be undone; each delete is recorded in the audit log. Older versions of these memories stay as hidden history.</p>",
+  "zh": "<p>这些将从存储及两个搜索索引中删除，智能体将不再回忆它们。此操作不可撤销；每次删除都会记录在审计日志中。这些记忆的旧版本将作为隐藏历史保留。</p>",
+  "count": 1
+ },
+ {
+  "en": " more</li>",
+  "zh": " 个</li>",
+  "count": 1
+ },
+ {
+  "en": "<li>and ",
+  "zh": "<li>还有 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-danger\" data-action=\"mem-confirm-bulk-forget\">Forget ",
+  "zh": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-danger\" data-action=\"mem-confirm-bulk-forget\">忘记 ",
+  "count": 1
+ },
+ {
+  "en": "Forget failed. Check that agentmemory is running and try again.",
+  "zh": "忘记失败。请确认 agentmemory 正在运行，然后重试。",
+  "count": 1
+ },
+ {
+  "en": "Forgotten in the viewer (bulk)",
+  "zh": "在查看器中批量忘记",
+  "count": 1
+ },
+ {
+  "en": "Forgotten in the viewer",
+  "zh": "在查看器中忘记",
+  "count": 1
+ },
+ {
+  "en": "(keys.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "'</b>active day'",
+  "zh": "'</b> 个活跃日'",
+  "count": 1
+ },
+ {
+  "en": "</b>sessions ",
+  "zh": "</b> 个会话 ",
+  "count": 1
+ },
+ {
+  "en": "</b>observations ",
+  "zh": "</b> 个观测 ",
+  "count": 1
+ },
+ {
+  "en": "</b>busiest day",
+  "zh": "</b>最活跃的一天",
+  "count": 1
+ },
+ {
+  "en": " obs",
+  "zh": " 条观测",
+  "count": 1
+ },
+ {
+  "en": ": nothing recorded\"></span>",
+  "zh": "：无记录\"></span>",
+  "count": 1
+ },
+ {
+  "en": "(info.sessions.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(info.obs === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hm-days\" aria-hidden=\"true\"><span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span></div>",
+  "zh": "<div class=\"hm-days\" aria-hidden=\"true\"><span></span><span>一</span><span></span><span>三</span><span></span><span>五</span><span></span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hm-grid\" role=\"group\" aria-label=\"Sessions and observations per day\">",
+  "zh": "<div class=\"hm-grid\" role=\"group\" aria-label=\"每天的会话与观测数\">",
+  "count": 1
+ },
+ {
+  "en": " sessions loaded in this viewer, on the day each started. Pick a shaded day to list its sessions.</span>",
+  "zh": " 个会话（按各自开始的日期统计）。点击有底色的日期可列出当天的会话。</span>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hm-foot\"><span>Counts the ",
+  "zh": "<div class=\"hm-foot\"><span>统计此查看器中加载的 ",
+  "count": 1
+ },
+ {
+  "en": " newest of ",
+  "zh": "/",
+  "count": 1
+ },
+ {
+  "en": "Load older sessions",
+  "zh": "加载更早的会话",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"hm-legend\" aria-hidden=\"true\">less <span class=\"hm-cell\"></span><span class=\"hm-cell level-1\"></span><span class=\"hm-cell level-2\"></span><span class=\"hm-cell level-3\"></span><span class=\"hm-cell level-4\"></span> more</span></div>",
+  "zh": "<span class=\"hm-legend\" aria-hidden=\"true\">少 <span class=\"hm-cell\"></span><span class=\"hm-cell level-1\"></span><span class=\"hm-cell level-2\"></span><span class=\"hm-cell level-3\"></span><span class=\"hm-cell level-4\"></span> 多</span></div>",
+  "count": 1
+ },
+ {
+  "en": "\" style=\"margin-left:auto;font-size:11px;\">close</button></div><ul class=\"ses-links\">",
+  "zh": "\" style=\"margin-left:auto;font-size:11px;\">关闭</button></div><ul class=\"ses-links\">",
+  "count": 1
+ },
+ {
+  "en": " obs</span><span class=\"src-text\">",
+  "zh": " 条观测</span><span class=\"src-text\">",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"btn\" data-action=\"activity-clear\">Show all</button></div>",
+  "zh": "</span><button type=\"button\" class=\"btn\" data-action=\"activity-clear\">显示全部</button></div>",
+  "count": 1
+ },
+ {
+  "en": "' touching <b>'",
+  "zh": "'）（涉及 <b>'",
+  "count": 1
+ },
+ {
+  "en": "' of type <b>'",
+  "zh": "'（类型 <b>'",
+  "count": 1
+ },
+ {
+  "en": "Nothing captured yet",
+  "zh": "尚未捕获任何内容",
+  "count": 1
+ },
+ {
+  "en": " newest sessions, grouped by session. New ones appear at the top the moment an agent records them.",
+  "zh": " 个最新会话的最新观测，按会话分组。智能体记录新观测后会立即显示在顶部。",
+  "count": 1
+ },
+ {
+  "en": "The newest observations from the ",
+  "zh": "以下为最新的 ",
+  "count": 1
+ },
+ {
+  "en": "None of the loaded observations match the picked type or file.",
+  "zh": "已加载的观测中没有匹配所选类型或文件的。",
+  "count": 1
+ },
+ {
+  "en": "The newest sessions have no captured tool use yet.",
+  "zh": "最新会话尚无已捕获的工具调用。",
+  "count": 1
+ },
+ {
+  "en": "Record one by hand to watch it arrive:",
+  "zh": "手动记录一条以观察其到达：",
+  "count": 1
+ },
+ {
+  "en": "Press Show all above.",
+  "zh": "请点击上方的“显示全部”。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"load-more\">Showing the newest 40 of ",
+  "zh": "<div class=\"load-more\">当前显示最新的 40 条，共 ",
+  "count": 1
+ },
+ {
+  "en": ". Open a session for its full timeline.</div>",
+  "zh": " 条。打开会话查看完整时间线。</div>",
+  "count": 1
+ },
+ {
+  "en": "No activity yet",
+  "zh": "暂无动态",
+  "count": 1
+ },
+ {
+  "en": "This page shows when agents worked, what kinds of things they did and which files they touched, with a live feed of the newest observations.",
+  "zh": "本页展示智能体的工作时间、所做工作的类型以及触及的文件，并实时推送最新观测的动态。",
+  "count": 1
+ },
+ {
+  "en": "No session has been recorded on this install yet.",
+  "zh": "此安装中尚未记录任何会话。",
+  "count": 1
+ },
+ {
+  "en": "Connect your agent with hooks so its work is captured (swap in codex, cursor, gemini-cli or another supported agent):",
+  "zh": "用钩子接入你的智能体以捕获其工作（可换成 codex、cursor、gemini-cli 或其他受支持的智能体）：",
+  "count": 1
+ },
+ {
+  "en": "Or record a session by hand:",
+  "zh": "或手动记录一个会话：",
+  "count": 1
+ },
+ {
+  "en": "Supported agents",
+  "zh": "受支持的智能体",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Activity</strong> shows when agents worked and what they did. Pick a day, a kind of work or a file to narrow the feed; every entry links to its session and observation. The feed updates live.</div>",
+  "zh": "<div class=\"inline-note\"><strong>动态</strong>展示智能体的工作时间和工作内容。选择日期、工作类型或文件可缩小动态范围；每个条目都链接到其所属的会话和观测。动态实时更新。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">When agents worked ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">智能体工作时间 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">What agents did <span class=\"section-sub\" style=\"text-transform:none;letter-spacing:0;font-family:var(--font-ui);font-weight:400;font-size:11px;color:var(--ink-faint);\">",
+  "zh": "<div class=\"card\"><div class=\"card-title\">智能体做了什么 <span class=\"section-sub\" style=\"text-transform:none;letter-spacing:0;font-family:var(--font-ui);font-weight:400;font-size:11px;color:var(--ink-faint);\">",
+  "count": 1
+ },
+ {
+  "en": " newest sessions</span></div>",
+  "zh": " 个会话</span></div>",
+  "count": 1
+ },
+ {
+  "en": " observations from the ",
+  "zh": " 条观测，来自最近 ",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">The newest sessions have no captured tool use yet. Kinds of work appear here as agents read, edit, run and search.</p>",
+  "zh": "<p class=\"empty-step-label\">最新会话中尚未捕获到工具使用。当智能体读取、编辑、运行和搜索时，工作类型会显示在这里。</p>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section-title\" style=\"margin-top:0;\">Kind of work ",
+  "zh": "<div class=\"mem-section-title\" style=\"margin-top:0;\">工作类型 ",
+  "count": 1
+ },
+ {
+  "en": " observations\"><span class=\"bar-label\">",
+  "zh": " 观测\"><span class=\"bar-label\">",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Show only ",
+  "zh": "\" title=\"仅显示 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section-title\" style=\"margin-top:14px;\">Most touched files</div>",
+  "zh": "<div class=\"mem-section-title\" style=\"margin-top:14px;\">最常触及的文件</div>",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">No file reads or edits in the newest sessions yet.</p>",
+  "zh": "<p class=\"empty-step-label\">最新会话中尚无文件读取或编辑。</p>",
+  "count": 1
+ },
+ {
+  "en": ": show only observations touching it\"><span class=\"bar-label\">",
+  "zh": "：仅显示触及该文件的观测\"><span class=\"bar-label\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section-title\" style=\"margin-top:14px;\">Busiest recent sessions</div><ul class=\"ses-links\">",
+  "zh": "<div class=\"mem-section-title\" style=\"margin-top:14px;\">近期最活跃的会话</div><ul class=\"ses-links\">",
+  "count": 1
+ },
+ {
+  "en": " obs</span>",
+  "zh": " 条观测</span>",
+  "count": 1
+ },
+ {
+  "en": " <span class=\"ses-live-note\" style=\"font-family:var(--font-ui);font-size:11px;color:var(--ink-faint);\">updates live</span></div><div class=\"card-scroll\" style=\"max-height:640px;padding-left:14px;\">",
+  "zh": " <span class=\"ses-live-note\" style=\"font-family:var(--font-ui);font-size:11px;color:var(--ink-faint);\">实时更新</span></div><div class=\"card-scroll\" style=\"max-height:640px;padding-left:14px;\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Latest observations ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">最新观测 ",
+  "count": 1
+ },
+ {
+  "en": "No start time recorded",
+  "zh": "未记录开始时间",
+  "count": 1
+ },
+ {
+  "en": "Still running. The last observation arrived ",
+  "zh": "仍在运行。上一条观测在开始后 ",
+  "count": 1
+ },
+ {
+  "en": " after the start.",
+  "zh": " 到达。",
+  "count": 1
+ },
+ {
+  "en": "Still running.",
+  "zh": "仍在运行。",
+  "count": 1
+ },
+ {
+  "en": "From ",
+  "zh": "从 ",
+  "count": 1
+ },
+ {
+  "en": " to ",
+  "zh": " 至 ",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Filter sessions by ",
+  "zh": "\" aria-label=\"按",
+  "count": 1
+ },
+ {
+  "en": " disabled title=\"No session has a",
+  "zh": " disabled title=\"没有会话具有 ",
+  "count": 1
+ },
+ {
+  "en": "<input type=\"search\" id=\"ses-search\" placeholder=\"Search prompt, project, id or agent (press /)\" value=\"",
+  "zh": "<input type=\"search\" id=\"ses-search\" placeholder=\"搜索提示词、项目、ID 或智能体（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Search sessions\">",
+  "zh": "\" aria-label=\"搜索会话\">",
+  "count": 1
+ },
+ {
+  "en": "Any status",
+  "zh": "任意状态",
+  "count": 1
+ },
+ {
+  "en": "status <b>",
+  "zh": "状态 <b>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"session-preview none\">No prompt recorded</div>",
+  "zh": "<div class=\"session-preview none\">未记录提示词</div>",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Show only sessions of agent ",
+  "zh": "\" title=\"仅显示智能体 ",
+  "count": 1
+ },
+ {
+  "en": " obs</span><span>&middot;</span>",
+  "zh": " 条观测</span><span>&middot;</span>",
+  "count": 1
+ },
+ {
+  "en": "\">running</span>",
+  "zh": "\">运行中</span>",
+  "count": 1
+ },
+ {
+  "en": " matching session",
+  "zh": " 个匹配的会话",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"btn\" data-action=\"ses-clear-filters\">Clear all</button></div>",
+  "zh": "</span><button type=\"button\" class=\"btn\" data-action=\"ses-clear-filters\">全部清除</button></div>",
+  "count": 1
+ },
+ {
+  "en": " for ",
+  "zh": "，筛选条件：",
+  "count": 1
+ },
+ {
+  "en": "No sessions match",
+  "zh": "没有匹配的会话",
+  "count": 1
+ },
+ {
+  "en": "This list shows sessions that match the search box and the project, agent and status filters. The filters run on the server over every session, not only the loaded page.",
+  "zh": "此列表显示与搜索框以及项目、智能体和状态筛选器匹配的会话。筛选在服务端针对所有会话执行，而不仅限于已加载的页面。",
+  "count": 1
+ },
+ {
+  "en": "No session matches ",
+  "zh": "没有会话匹配",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"ses-clear-filters\">Clear search and filters</button></div>",
+  "zh": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"ses-clear-filters\">清除搜索和筛选</button></div>",
+  "count": 1
+ },
+ {
+  "en": "A session is one run of an agent in a project, from start to end. Every observation (file read, edit, command, error) belongs to one, and memories and lessons distilled from the work link back to it.",
+  "zh": "会话是智能体在项目中的一次完整运行，从开始到结束。每条观测（文件读取、编辑、命令、错误）都归属于某一个会话，而从工作中提炼出的记忆和经验教训也会关联回它。",
+  "count": 1
+ },
+ {
+  "en": "No agent with agentmemory hooks has started a session on this install yet.",
+  "zh": "此安装中尚无接入 agentmemory 钩子的智能体启动过会话。",
+  "count": 1
+ },
+ {
+  "en": "Connect an agent with hooks so each run is recorded (Claude Code shown):",
+  "zh": "使用钩子接入智能体，使每次运行都被记录（以 Claude Code 为例）：",
+  "count": 1
+ },
+ {
+  "en": "Or start one by hand and record an observation:",
+  "zh": "或手动启动一个会话并记录一条观测：",
+  "count": 1
+ },
+ {
+  "en": "Connect an agent",
+  "zh": "接入智能体",
+  "count": 1
+ },
+ {
+  "en": " sessions, newest first",
+  "zh": " 会话（最新在前）",
+  "count": 1
+ },
+ {
+  "en": "Load more",
+  "zh": "加载更多",
+  "count": 1
+ },
+ {
+  "en": " in order, the files it touched, and the memories and lessons it produced. New sessions and observations appear here live.</div>",
+  "zh": "、触及的文件，以及其产生的记忆和经验教训。新会话和观测会实时显示在这里。</div>",
+  "count": 1
+ },
+ {
+  "en": " are single runs of an agent in a project. Pick one to see its observations ",
+  "zh": " 是智能体在项目中的单次运行。选择一个会话，按序查看其观测",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Sessions</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>会话</strong> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel ses-detail\"><div class=\"mem-detail-head\"><span>Session</span>",
+  "zh": "<div class=\"detail-panel ses-detail\"><div class=\"mem-detail-head\"><span>会话</span>",
+  "count": 1
+ },
+ {
+  "en": "Session not found",
+  "zh": "未找到会话",
+  "count": 1
+ },
+ {
+  "en": "Session links anywhere in the viewer open this panel by id.",
+  "zh": "查看器中任何位置的会话链接都会按 ID 打开此面板。",
+  "count": 1
+ },
+ {
+  "en": "</code>. It was deleted, or the link comes from another install.",
+  "zh": "</code>。它已被删除，或该链接来自另一个安装。",
+  "count": 1
+ },
+ {
+  "en": "No session has the id <code>",
+  "zh": "没有会话具有该 ID <code>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel ses-detail\"><div class=\"mem-detail-head\"><span>Loading session ",
+  "zh": "<div class=\"detail-panel ses-detail\"><div class=\"mem-detail-head\"><span>正在加载会话 ",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"ses-close\" aria-label=\"Close session details\">close</button>",
+  "zh": "<button type=\"button\" class=\"icon-btn icon-close\" data-action=\"ses-close\" aria-label=\"关闭会话详情\">关闭</button>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Summary</div><div class=\"ses-summary\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">摘要</div><div class=\"ses-summary\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Summary</div>",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">摘要</div>",
+  "count": 1
+ },
+ {
+  "en": "<span>· started ",
+  "zh": "<span>· 开始于 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-detail-content ses-prompt none\">No first prompt was recorded for this session.</div>",
+  "zh": "<div class=\"mem-detail-content ses-prompt none\">此会话未记录初始提示词。</div>",
+  "count": 1
+ },
+ {
+  "en": "\">Replay</a>",
+  "zh": "\">回放</a>",
+  "count": 1
+ },
+ {
+  "en": "\">End session…</button>",
+  "zh": "\">结束会话…</button>",
+  "count": 1
+ },
+ {
+  "en": "Summarizing…",
+  "zh": "正在生成摘要…",
+  "count": 1
+ },
+ {
+  "en": "Summarize…",
+  "zh": "生成摘要…",
+  "count": 1
+ },
+ {
+  "en": "</span><small>Observations ",
+  "zh": "</span><small>观测 ",
+  "count": 1
+ },
+ {
+  "en": "</span><small>Tools used",
+  "zh": "</span><small>使用的工具",
+  "count": 1
+ },
+ {
+  "en": "</span><small>Files touched",
+  "zh": "</span><small>触及的文件",
+  "count": 1
+ },
+ {
+  "en": "Running so far",
+  "zh": "已运行时长",
+  "count": 1
+ },
+ {
+  "en": "Duration",
+  "zh": "持续时间",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ses-foot\">* counted over the ",
+  "zh": "<div class=\"ses-foot\">* 统计基于下方已加载的 ",
+  "count": 1
+ },
+ {
+  "en": ". Load more to widen it.</div>",
+  "zh": "。加载更多可扩大统计范围。</div>",
+  "count": 1
+ },
+ {
+  "en": " loaded below",
+  "zh": "观测",
+  "count": 1
+ },
+ {
+  "en": " observation",
+  "zh": " 条",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--ink-faint);\">not recorded</span>",
+  "zh": "<span style=\"color:var(--ink-faint);\">未记录</span>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Started</dt><dd>",
+  "zh": "<dt>开始时间</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Ended</dt><dd>",
+  "zh": "<dt>结束时间</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": " <span style=\"color:var(--ink-faint);\">(still running; updates live)</span></dd>",
+  "zh": " <span style=\"color:var(--ink-faint);\">（仍在运行；实时更新）</span></dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Last activity</dt><dd>",
+  "zh": "<dt>最近动态</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Model</dt><dd>",
+  "zh": "<dt>模型</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Tags</dt><dd>",
+  "zh": "<dt>标签</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Tools</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<dt>工具</dt><dd class=\"tag-list\" style=\"margin:0;\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Produced from this session ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">由此会话产生 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Nothing links back here yet. A memory links to this session when it is distilled from its observations by consolidation (needs an LLM) or saved with <code>sourceObservationIds</code>; a lesson links here when it is crystallized from this session.",
+  "zh": "<div class=\"empty-step-label\">尚无内容关联到这里。当一条记忆通过整合（需要 LLM）从其观测中提炼，或保存时附带 <code>sourceObservationIds</code>，它会关联到此会话；当一条经验教训从此会话结晶而来，它也会关联到这里。",
+  "count": 1
+ },
+ {
+  "en": " The lookup failed; reopen the session to retry.",
+  "zh": " 查找失败，请重新打开会话重试。",
+  "count": 1
+ },
+ {
+  "en": ">copy curl for all<",
+  "zh": ">复制全部 curl<",
+  "count": 1
+ },
+ {
+  "en": " lines, scroll</span>",
+  "zh": " 行，可滚动</span>",
+  "count": 1
+ },
+ {
+  "en": "User prompt",
+  "zh": "用户提示词",
+  "count": 1
+ },
+ {
+  "en": "\" title=\"Importance ",
+  "zh": "\" title=\"重要度 ",
+  "count": 1
+ },
+ {
+  "en": " of 10. ",
+  "zh": " / 10，",
+  "count": 1
+ },
+ {
+  "en": "Medium",
+  "zh": "中",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"obs-importance raw\" title=\"Just captured. Importance is set when the observation is compressed.\">·</span>",
+  "zh": "<span class=\"obs-importance raw\" title=\"刚刚捕获。观测被压缩时将设定重要度。\">·</span>",
+  "count": 1
+ },
+ {
+  "en": ". Link to this observation.\">",
+  "zh": "。链接到这条观测。\">",
+  "count": 1
+ },
+ {
+  "en": "\" role=\"button\" tabindex=\"0\" data-action=\"ses-obs-type\" data-type-filter=\"\">All",
+  "zh": "\" role=\"button\" tabindex=\"0\" data-action=\"ses-obs-type\" data-type-filter=\"\">全部",
+  "count": 1
+ },
+ {
+  "en": "<select id=\"ses-obs-imp\" aria-label=\"Minimum importance\"><option value=\"0\">Any importance</option>",
+  "zh": "<select id=\"ses-obs-imp\" aria-label=\"最低重要度\"><option value=\"0\">任意重要度</option>",
+  "count": 1
+ },
+ {
+  "en": ">importance ",
+  "zh": ">重要度 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Observations ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">观测 ",
+  "count": 1
+ },
+ {
+  "en": " <span class=\"ses-live-note\">newest first · importance ",
+  "zh": " <span class=\"ses-live-note\">最新在前 · 重要度 ",
+  "count": 1
+ },
+ {
+  "en": " · updates live</span></div>",
+  "zh": " · 实时更新</span></div>",
+  "count": 1
+ },
+ {
+  "en": "The type chips and the importance picker narrow this list on the server.",
+  "zh": "类型筛选器和重要度选择器会在服务端缩小此列表。",
+  "count": 1
+ },
+ {
+  "en": "No observation in this session is ",
+  "zh": "此会话中没有",
+  "count": 1
+ },
+ {
+  "en": "of type <b>",
+  "zh": "类型为 <b>",
+  "count": 1
+ },
+ {
+  "en": "importance ",
+  "zh": "重要度 ",
+  "count": 1
+ },
+ {
+  "en": " or higher",
+  "zh": " 或更高的观测",
+  "count": 1
+ },
+ {
+  "en": " with ",
+  "zh": "、",
+  "count": 1
+ },
+ {
+  "en": "Pick All, or choose Any importance.",
+  "zh": "请选择\"全部\"，或选择\"任意重要度\"。",
+  "count": 1
+ },
+ {
+  "en": "Observations could not be loaded",
+  "zh": "观测加载失败",
+  "count": 1
+ },
+ {
+  "en": "No observations yet",
+  "zh": "尚无观测",
+  "count": 1
+ },
+ {
+  "en": "Observations are the individual things the agent did: prompts, file reads and edits, commands, searches, errors.",
+  "zh": "观测是智能体所做的具体事项：提示词、文件读取与编辑、命令、搜索、错误。",
+  "count": 1
+ },
+ {
+  "en": "The session is running but no tool use was captured yet. New ones appear here the moment they arrive.",
+  "zh": "会话正在运行，但尚未捕获到工具使用。新的工具使用一到达就会显示在这里。",
+  "count": 1
+ },
+ {
+  "en": "The request failed. Check that agentmemory is running, then reopen the session.",
+  "zh": "请求失败。请确认 agentmemory 正在运行，然后重新打开会话。",
+  "count": 1
+ },
+ {
+  "en": "This session ended before any tool use was captured.",
+  "zh": "此会话在捕获到任何工具使用之前就已结束。",
+  "count": 1
+ },
+ {
+  "en": "Record one by hand to watch it arrive live:",
+  "zh": "手动记录一条，实时查看它到达：",
+  "count": 1
+ },
+ {
+  "en": "Showing ",
+  "zh": "显示 ",
+  "count": 1
+ },
+ {
+  "en": " more",
+  "zh": " 条",
+  "count": 1
+ },
+ {
+  "en": "</code> is not in this session",
+  "zh": "</code> 不在此会话中",
+  "count": 1
+ },
+ {
+  "en": "Observation <code>",
+  "zh": "观测 <code>",
+  "count": 1
+ },
+ {
+  "en": "<h3>End this session?</h3>",
+  "zh": "<h3>结束此会话？</h3>",
+  "count": 1
+ },
+ {
+  "en": "</code>) as completed and records the end time now. It does not stop the agent: if it keeps working, its observations are still recorded under this session id.</p>",
+  "zh": "</code>）标记为已完成，并记录当前时间为结束时间。这不会停止智能体：如果它继续工作，其观测仍会记录在此会话 ID 下。</p>",
+  "count": 1
+ },
+ {
+  "en": "<p>Marks <b>",
+  "zh": "<p>将 <b>",
+  "count": 1
+ },
+ {
+  "en": "</b> (<code>",
+  "zh": "</b>（<code>",
+  "count": 1
+ },
+ {
+  "en": "with no LLM provider configured, the summary and graph extraction are skipped, so ending only changes the status.",
+  "zh": "若未配置 LLM 提供方，将跳过摘要和图谱抽取，此时结束操作仅更改状态。",
+  "count": 1
+ },
+ {
+  "en": "an LLM summary of the session, knowledge-graph extraction and, when consolidation is on, crystals and lessons.",
+  "zh": "LLM 生成的会话摘要、知识图谱抽取，以及（启用整合时）结晶和经验教训。",
+  "count": 1
+ },
+ {
+  "en": "<p>Ending runs the same wrap-up as the agent&rsquo;s own stop hook: ",
+  "zh": "<p>结束时会运行与智能体自身停止钩子相同的收尾流程：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-danger\" data-action=\"ses-confirm-end\" data-session-id=\"",
+  "zh": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-danger\" data-action=\"ses-confirm-end\" data-session-id=\"",
+  "count": 1
+ },
+ {
+  "en": "\">End session</button></div>",
+  "zh": "\">结束会话</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<h3>Summarize this session?</h3>",
+  "zh": "<h3>为此会话生成摘要？</h3>",
+  "count": 1
+ },
+ {
+  "en": ") and writes a short summary: a title, what happened and the key decisions. The summary is shown here and in the session list, and later feeds consolidation into facts and procedures. Running it again replaces the old summary.</p>",
+  "zh": "）的观测并撰写简短摘要：标题、事件经过和关键决策。摘要将显示在这里和会话列表中，之后还会用于整合成事实与流程。再次运行会替换旧摘要。</p>",
+  "count": 1
+ },
+ {
+  "en": "<p>An LLM reads the observations of <b>",
+  "zh": "<p>LLM 会读取 <b>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-note err\">No LLM provider is configured, so Summarize would do nothing. Set a key and restart agentmemory:</div>",
+  "zh": "<div class=\"mem-note err\">未配置 LLM 提供方，因此\"生成摘要\"不会执行任何操作。请设置密钥并重启 agentmemory：</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\" style=\"margin-top:14px;\"><button class=\"btn\" data-action=\"close-modal\">Close</button></div>",
+  "zh": "<div class=\"modal-actions\" style=\"margin-top:14px;\"><button class=\"btn\" data-action=\"close-modal\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-primary\" data-action=\"ses-confirm-summarize\" data-session-id=\"",
+  "zh": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-primary\" data-action=\"ses-confirm-summarize\" data-session-id=\"",
+  "count": 1
+ },
+ {
+  "en": "\">Summarize</button></div>",
+  "zh": "\">生成摘要</button></div>",
+  "count": 1
+ },
+ {
+  "en": "Session ended. The wrap-up (summary, graph, consolidation) runs in the background and its results appear here live.",
+  "zh": "会话已结束。收尾流程（摘要、图谱、整合）在后台运行，结果会实时显示在这里。",
+  "count": 1
+ },
+ {
+  "en": "Ending the session failed. Check that agentmemory is running and try again.",
+  "zh": "结束会话失败。请确认 agentmemory 正在运行，然后重试。",
+  "count": 1
+ },
+ {
+  "en": "No LLM provider is configured, so nothing was summarized. Set ANTHROPIC_API_KEY (or another provider key) and restart agentmemory.",
+  "zh": "未配置 LLM 提供方，因此未生成摘要。请设置 ANTHROPIC_API_KEY（或其他提供方的密钥）并重启 agentmemory。",
+  "count": 1
+ },
+ {
+  "en": "This session has no observations to summarize yet.",
+  "zh": "此会话尚无可用于生成摘要的观测。",
+  "count": 1
+ },
+ {
+  "en": "agentmemory does not know this session any more.",
+  "zh": "agentmemory 中已不存在此会话。",
+  "count": 1
+ },
+ {
+  "en": "Summary saved. It is shown under Details below.",
+  "zh": "摘要已保存，显示在下方的\"详情\"区域。",
+  "count": 1
+ },
+ {
+  "en": "Summarize failed",
+  "zh": "生成摘要失败",
+  "count": 1
+ },
+ {
+  "en": "<input id=\"lessons-search\" type=\"search\" placeholder=\"Filter lessons by text, reason or tag (press /)\" value=\"",
+  "zh": "<input id=\"lessons-search\" type=\"search\" placeholder=\"按文本、原因或标签筛选经验教训（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Filter lessons\">",
+  "zh": "\" aria-label=\"筛选经验教训\">",
+  "count": 1
+ },
+ {
+  "en": "<select id=\"lessons-project\" aria-label=\"Filter lessons by project\"><option value=\"\">All projects</option>",
+  "zh": "<select id=\"lessons-project\" aria-label=\"按项目筛选经验教训\"><option value=\"\">所有项目</option>",
+  "count": 1
+ },
+ {
+  "en": "no project",
+  "zh": "无项目",
+  "count": 1
+ },
+ {
+  "en": " lesson",
+  "zh": " 条经验教训",
+  "count": 1
+ },
+ {
+  "en": " uses</span></div></td>",
+  "zh": " 次使用</span></div></td>",
+  "count": 1
+ },
+ {
+  "en": " source",
+  "zh": " 个来源",
+  "count": 1
+ },
+ {
+  "en": "<td class=\"col-opt\" style=\"white-space:nowrap;\" title=\"Confidence ",
+  "zh": "<td class=\"col-opt\" style=\"white-space:nowrap;\" title=\"置信度 ",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"lesson-close\" aria-label=\"Close lesson details\">close</button></div>",
+  "zh": "</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"lesson-close\" aria-label=\"关闭经验教训详情\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "</span><span>lesson</span><span>· learned ",
+  "zh": "</span><span>经验教训</span><span>· 习得于 ",
+  "count": 1
+ },
+ {
+  "en": " title=\"Record one more use: confidence rises and the decay clock restarts\">",
+  "zh": " title=\"记录一次新的使用：置信度上升，衰减计时器重置\">",
+  "count": 1
+ },
+ {
+  "en": "Strengthen",
+  "zh": "加强",
+  "count": 1
+ },
+ {
+  "en": "lesson id",
+  "zh": "经验教训 ID",
+  "count": 1
+ },
+ {
+  "en": "\">Delete…</button>",
+  "zh": "\">删除…</button>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Why learned</dt><dd>",
+  "zh": "<dt>习得原因</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Confidence ",
+  "zh": "<dt>置信度 ",
+  "count": 1
+ },
+ {
+  "en": ", never confirmed again yet",
+  "zh": "，尚未再次确认",
+  "count": 1
+ },
+ {
+  "en": "<dt>Uses ",
+  "zh": "<dt>使用次数 ",
+  "count": 1
+ },
+ {
+  "en": ", last ",
+  "zh": "，最近一次 ",
+  "count": 1
+ },
+ {
+  "en": "<dt>Decay ",
+  "zh": "<dt>衰减 ",
+  "count": 1
+ },
+ {
+  "en": " if it stays unused, then &minus;",
+  "zh": "，之后每周 −",
+  "count": 1
+ },
+ {
+  "en": " points a week.",
+  "zh": " 分。",
+  "count": 1
+ },
+ {
+  "en": "Starts in ",
+  "zh": "若持续未用，",
+  "count": 1
+ },
+ {
+  "en": " day",
+  "zh": " 天后开始衰减",
+  "count": 1
+ },
+ {
+  "en": " points a week until an agent uses it again.",
+  "zh": " 分，直到智能体再次使用。",
+  "count": 1
+ },
+ {
+  "en": "Unused for ",
+  "zh": "已持续未用 ",
+  "count": 1
+ },
+ {
+  "en": "; loses ",
+  "zh": "；每周 −",
+  "count": 1
+ },
+ {
+  "en": " week",
+  "zh": " 周",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--ink-faint);\">all projects</span>",
+  "zh": "<span style=\"color:var(--ink-faint);\">所有项目</span>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">No sources recorded. This lesson was saved by hand without <code>sourceIds</code>. Link it to the session or memory it came from by saving it again with them; the lesson is strengthened and the sources are added:</div>",
+  "zh": "<div class=\"empty-step-label\">未记录来源。这条经验教训是手动保存的，未附带 <code>sourceIds</code>。用来源信息重新保存一次，即可将其关联到它来源的会话或记忆；经验教训会被加强，并添加来源：</div>",
+  "count": 1
+ },
+ {
+  "en": " rises each time an agent uses a lesson and decays when it goes unused; uses ",
+  "zh": " 会在智能体每次使用经验教训时上升，长期不用则衰减；使用次数 ",
+  "count": 1
+ },
+ {
+  "en": " counts those confirmations. Pick a row for its sources and actions.</div>",
+  "zh": " 统计这些确认次数。选择一行查看其来源和操作。</div>",
+  "count": 1
+ },
+ {
+  "en": " are short rules learned from past work. Confidence ",
+  "zh": " 是从过去的工作中总结出的简短规则。置信度 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Lessons</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>经验教训</strong> ",
+  "count": 1
+ },
+ {
+  "en": "No lessons yet",
+  "zh": "尚无经验教训",
+  "count": 1
+ },
+ {
+  "en": "Lessons are short rules learned from past work, such as a mistake you corrected once that an agent should not repeat. Agents recall the matching ones before they start a task.",
+  "zh": "经验教训是从过去的工作中总结出的简短规则，例如你纠正过一次、不希望智能体重犯的错误。智能体在开始任务前会回忆相关的经验教训。",
+  "count": 1
+ },
+ {
+  "en": "No agent has saved a lesson, and no crystal or transcript import has produced one on this install yet.",
+  "zh": "此安装中尚无智能体保存过经验教训，也没有任何结晶或对话记录导入产生过经验教训。",
+  "count": 1
+ },
+ {
+  "en": "Or from a terminal, linked to the session it came from:",
+  "zh": "或在终端中执行（关联到它来源的会话）：",
+  "count": 1
+ },
+ {
+  "en": "Crystallizing finished actions and importing transcripts on the Replay page also produce lessons.",
+  "zh": "在\"回放\"页面结晶已完成的行动、导入对话记录也会产生经验教训。",
+  "count": 1
+ },
+ {
+  "en": "Lesson decay and scoring",
+  "zh": "经验教训的衰减与评分机制",
+  "count": 1
+ },
+ {
+  "en": "No lessons match",
+  "zh": "没有匹配的经验教训",
+  "count": 1
+ },
+ {
+  "en": "The filter matches lesson text, the reason it was learned and its tags, within the chosen project.",
+  "zh": "筛选器会在所选项目内匹配经验教训的文本、习得原因及其标签。",
+  "count": 1
+ },
+ {
+  "en": " in project <b>",
+  "zh": "；项目 <b>",
+  "count": 1
+ },
+ {
+  "en": " lessons match",
+  "zh": " 条经验教训中，未找到匹配项",
+  "count": 1
+ },
+ {
+  "en": " &ldquo;",
+  "zh": "：搜索“",
+  "count": 1
+ },
+ {
+  "en": "Search by meaning on the server instead:",
+  "zh": "改为在服务端按语义搜索：",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"lesson-clear-filters\">Clear filters</button></div>",
+  "zh": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"lesson-clear-filters\">清除筛选</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"table-wrap\"><table class=\"mem-table\"><thead><tr><th>Lesson</th><th class=\"col-opt\">Confidence ",
+  "zh": "<div class=\"table-wrap\"><table class=\"mem-table\"><thead><tr><th>经验教训</th><th class=\"col-opt\">置信度 ",
+  "count": 1
+ },
+ {
+  "en": "</th><th class=\"col-opt\">Updated</th></tr></thead><tbody>",
+  "zh": "</th><th class=\"col-opt\">更新时间</th></tr></thead><tbody>",
+  "count": 1
+ },
+ {
+  "en": "</th><th class=\"col-opt\">Uses ",
+  "zh": "</th><th class=\"col-opt\">使用次数 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"detail-panel mem-detail\" id=\"lesson-detail\"><div class=\"mem-detail-head\"><span>Lesson</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"lesson-close\" aria-label=\"Close lesson details\">close</button></div>",
+  "zh": "<div class=\"detail-panel mem-detail\" id=\"lesson-detail\"><div class=\"mem-detail-head\"><span>经验教训</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"lesson-close\" aria-label=\"关闭经验教训详情\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "Lesson not found",
+  "zh": "未找到经验教训",
+  "count": 1
+ },
+ {
+  "en": "Lesson links anywhere in the viewer open this panel by id.",
+  "zh": "查看器中任何位置的经验教训链接都会按 ID 打开此面板。",
+  "count": 1
+ },
+ {
+  "en": "</code>. It was deleted or decayed away, or the link comes from another install.",
+  "zh": "</code>。它已被删除或已衰减消失，或该链接来自另一个安装。",
+  "count": 1
+ },
+ {
+  "en": "No current lesson has the id <code>",
+  "zh": "当前没有经验教训具有该 ID <code>",
+  "count": 1
+ },
+ {
+  "en": "List lessons from a terminal:",
+  "zh": "在终端中列出经验教训：",
+  "count": 1
+ },
+ {
+  "en": "Recorded one more use. Confidence and uses update here from the live stream.",
+  "zh": "已记录一次新的使用。置信度和使用次数将通过实时流在此更新。",
+  "count": 1
+ },
+ {
+  "en": "Strengthen failed",
+  "zh": "加强失败",
+  "count": 1
+ },
+ {
+  "en": "<h3>Delete this lesson?</h3>",
+  "zh": "<h3>删除这条经验教训？</h3>",
+  "count": 1
+ },
+ {
+  "en": "&rdquo; stops being recalled by agents. It is soft-deleted and recorded in the audit log; saving the same text again later creates it fresh.</p>",
+  "zh": "” 将不再被智能体回忆。它会被软删除并记入审计日志；之后再次保存相同文本会创建一条全新的记录。</p>",
+  "count": 1
+ },
+ {
+  "en": "<p>&ldquo;",
+  "zh": "<p>“",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">Cancel</button><button class=\"btn btn-danger\" data-action=\"lesson-confirm-delete\" data-lesson-id=\"",
+  "zh": "<div class=\"modal-actions\"><button class=\"btn\" data-action=\"close-modal\">取消</button><button class=\"btn btn-danger\" data-action=\"lesson-confirm-delete\" data-lesson-id=\"",
+  "count": 1
+ },
+ {
+  "en": "\">Delete lesson</button></div>",
+  "zh": "\">删除经验教训</button></div>",
+  "count": 1
+ },
+ {
+  "en": "Delete failed",
+  "zh": "删除失败",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"mob-only\">priority ",
+  "zh": "<span class=\"mob-only\">优先级 ",
+  "count": 1
+ },
+ {
+  "en": "\">ready</span>",
+  "zh": "\">就绪</span>",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"action-close\" aria-label=\"Close action details\">close</button></div>",
+  "zh": "</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"action-close\" aria-label=\"关闭行动详情\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"ready-badge\">ready</span>",
+  "zh": "<span class=\"ready-badge\">就绪</span>",
+  "count": 1
+ },
+ {
+  "en": "</span><span>· created ",
+  "zh": "</span><span>· 创建于 ",
+  "count": 1
+ },
+ {
+  "en": "<span>· priority ",
+  "zh": "<span>· 优先级 ",
+  "count": 1
+ },
+ {
+  "en": "Mark blocked",
+  "zh": "标为阻塞",
+  "count": 1
+ },
+ {
+  "en": "Mark done",
+  "zh": "标为已完成",
+  "count": 1
+ },
+ {
+  "en": "action id",
+  "zh": "行动 ID",
+  "count": 1
+ },
+ {
+  "en": "<dt>Created by</dt><dd>",
+  "zh": "<dt>创建者</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "not recorded",
+  "zh": "未记录",
+  "count": 1
+ },
+ {
+  "en": "<dt>Assigned to</dt><dd>",
+  "zh": "<dt>指派给</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Parent</dt><dd>",
+  "zh": "<dt>父项</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Crystal ",
+  "zh": "<dt>结晶 ",
+  "count": 1
+ },
+ {
+  "en": "<dt>Result</dt><dd>",
+  "zh": "<dt>结果</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">No sources recorded. Pass <code>sourceMemoryIds</code> or <code>sourceObservationIds</code> when creating an action to link it to what the agent saw.</div>",
+  "zh": "<div class=\"empty-step-label\">未记录来源。创建行动时传入 <code>sourceMemoryIds</code> 或 <code>sourceObservationIds</code>，即可将其关联到智能体所见的内容。</div>",
+  "count": 1
+ },
+ {
+  "en": " are follow-ups agents track between sessions. Status moves pending, active, done or blocked; <span class=\"ready-badge\">ready</span> ",
+  "zh": " 是智能体在会话之间跟踪的后续事项。状态在 pending、active、done、blocked 之间流转；<span class=\"ready-badge\">就绪</span> ",
+  "count": 1
+ },
+ {
+  "en": " marks what is unblocked. Pick a row to change its status or see where it came from.</div>",
+  "zh": " 标记未被阻塞的行动。选择一行可更改其状态或查看其来源。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Actions</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>行动</strong> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"toolbar mem-filters\"><input id=\"actions-search\" type=\"search\" placeholder=\"Filter actions by title, description or tag (press /)\" value=\"",
+  "zh": "<div class=\"toolbar mem-filters\"><input id=\"actions-search\" type=\"search\" placeholder=\"按标题、描述或标签筛选行动（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Filter actions\">",
+  "zh": "\" aria-label=\"筛选行动\">",
+  "count": 1
+ },
+ {
+  "en": "<select id=\"actions-status-filter\" aria-label=\"Filter actions by status\"><option value=\"\">All statuses</option>",
+  "zh": "<select id=\"actions-status-filter\" aria-label=\"按状态筛选行动\"><option value=\"\">所有状态</option>",
+  "count": 1
+ },
+ {
+  "en": " ready</span></div>",
+  "zh": " 个就绪</span></div>",
+  "count": 1
+ },
+ {
+  "en": " action",
+  "zh": " 个行动",
+  "count": 1
+ },
+ {
+  "en": "No actions tracked yet",
+  "zh": "尚无跟踪中的行动",
+  "count": 1
+ },
+ {
+  "en": "Actions are follow-ups an agent surfaced during a session: decisions to revisit, files to inspect, tasks blocked on input. They stay here so nothing slips between sessions, and the ready ones are handed to the next session first.",
+  "zh": "行动是智能体在会话期间提出的后续事项：待重新审视的决策、待检查的文件、因等待输入而阻塞的任务。它们保留在这里，以免在会话之间遗漏；就绪的行动会优先交给下一个会话。",
+  "count": 1
+ },
+ {
+  "en": "No agent has created an action on this install yet.",
+  "zh": "此安装中尚无智能体创建过行动。",
+  "count": 1
+ },
+ {
+  "en": "Action lifecycle",
+  "zh": "行动的生命周期",
+  "count": 1
+ },
+ {
+  "en": "No actions match",
+  "zh": "没有匹配的行动",
+  "count": 1
+ },
+ {
+  "en": "The filter matches action titles, descriptions and tags, and the status picker narrows by status.",
+  "zh": "筛选器匹配行动的标题、描述和标签，状态选择器按状态缩小范围。",
+  "count": 1
+ },
+ {
+  "en": " tracked actions match the current filter.",
+  "zh": " 个已跟踪的行动中没有匹配当前筛选器的。",
+  "count": 1
+ },
+ {
+  "en": "List them from a terminal:",
+  "zh": "在终端中列出它们：",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"action-clear-filters\">Clear filters</button></div>",
+  "zh": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"action-clear-filters\">清除筛选</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"table-wrap\"><table class=\"mem-table\"><thead><tr><th>Action</th><th>Status</th><th class=\"col-opt\">Priority</th><th class=\"col-opt\">Updated</th></tr></thead><tbody>",
+  "zh": "<div class=\"table-wrap\"><table class=\"mem-table\"><thead><tr><th>行动</th><th>状态</th><th class=\"col-opt\">优先级</th><th class=\"col-opt\">更新时间</th></tr></thead><tbody>",
+  "count": 1
+ },
+ {
+  "en": "<div id=\"action-detail\" class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>Action</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"action-close\" aria-label=\"Close action details\">close</button></div>",
+  "zh": "<div id=\"action-detail\" class=\"detail-panel mem-detail\"><div class=\"mem-detail-head\"><span>行动</span><button type=\"button\" class=\"icon-btn icon-close\" data-action=\"action-close\" aria-label=\"关闭行动详情\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "Action not found",
+  "zh": "未找到行动",
+  "count": 1
+ },
+ {
+  "en": "Action links anywhere in the viewer open this panel by id.",
+  "zh": "查看器中任何位置的行动链接都会按 ID 打开此面板。",
+  "count": 1
+ },
+ {
+  "en": "</code>. It was removed, or the link comes from another install.",
+  "zh": "</code>。它已被移除，或该链接来自另一个安装。",
+  "count": 1
+ },
+ {
+  "en": "No action has the id <code>",
+  "zh": "没有行动具有该 ID <code>",
+  "count": 1
+ },
+ {
+  "en": "</b>. Ready markers update from the live stream.",
+  "zh": "</b>。就绪标记将通过实时流更新。",
+  "count": 1
+ },
+ {
+  "en": "Status set to <b>",
+  "zh": "状态已设为 <b>",
+  "count": 1
+ },
+ {
+  "en": "Update failed",
+  "zh": "更新失败",
+  "count": 1
+ },
+ {
+  "en": "No crystals yet",
+  "zh": "暂无结晶",
+  "count": 1
+ },
+ {
+  "en": " condenses a finished chain of actions into one narrative with outcomes, files and lessons, so later sessions reuse it without replaying raw observations.",
+  "zh": "将已完成的一系列行动浓缩为一条包含结果、文件和经验教训的叙述，以便后续会话直接复用，无需重放原始观测。",
+  "count": 1
+ },
+ {
+  "en": "A crystal ",
+  "zh": "结晶 ",
+  "count": 1
+ },
+ {
+  "en": "Crystallizing needs an LLM provider, and none is configured. Transcript imports on the Replay page still create crystals without one.",
+  "zh": "结晶需要 LLM 提供商，但尚未配置。在“回放”页面导入对话记录仍可创建结晶，无需 LLM 提供商。",
+  "count": 1
+ },
+ {
+  "en": "No action has been marked done and crystallized yet. Crystals are built from done actions.",
+  "zh": "尚无行动被标记为完成并结晶。结晶由已完成的行动构建而成。",
+  "count": 1
+ },
+ {
+  "en": "Crystallize every finished action now:",
+  "zh": "立即结晶所有已完成的行动：",
+  "count": 1
+ },
+ {
+  "en": "Or from an agent, for specific actions:",
+  "zh": "或从 agent 发起，针对特定行动：",
+  "count": 1
+ },
+ {
+  "en": "Set an LLM key and restart agentmemory:",
+  "zh": "设置 LLM 密钥并重启 agentmemory：",
+  "count": 1
+ },
+ {
+  "en": "Then crystallize finished actions:",
+  "zh": "然后结晶已完成的行动：",
+  "count": 1
+ },
+ {
+  "en": "How crystals are built",
+  "zh": "结晶的构建方式",
+  "count": 1
+ },
+ {
+  "en": " are compact summaries of finished work. They outlive pruned observations, so the next session gets the outcome, the files and the lessons in one read.</div>",
+  "zh": "是已完成工作的精简摘要。它们比被裁剪的观测留存更久，因此下个会话一次读取即可获得结果、文件和经验教训。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Crystals</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>结晶</strong> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"toolbar\"><input id=\"crystals-search\" class=\"search-input\" type=\"search\" placeholder=\"Filter crystals by text, file, project or lesson (press /)\" value=\"",
+  "zh": "<div class=\"toolbar\"><input id=\"crystals-search\" class=\"search-input\" type=\"search\" placeholder=\"按文本、文件、项目或经验教训筛选结晶（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" style=\"flex:1\" aria-label=\"Filter crystals\" /><span class=\"tb-count\">",
+  "zh": "\" style=\"flex:1\" aria-label=\"筛选结晶\" /><span class=\"tb-count\">",
+  "count": 1
+ },
+ {
+  "en": "(items.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' crystal'",
+  "zh": "' 个结晶'",
+  "count": 1
+ },
+ {
+  "en": "No crystals match",
+  "zh": "没有匹配的结晶",
+  "count": 1
+ },
+ {
+  "en": "The filter matches crystal narratives, outcomes, files, project and lesson text.",
+  "zh": "筛选会匹配结晶叙述、结果、文件、项目和经验教训文本。",
+  "count": 1
+ },
+ {
+  "en": " crystals contain &ldquo;",
+  "zh": " 条结晶中均不包含「",
+  "count": 1
+ },
+ {
+  "en": "&rdquo;.",
+  "zh": "」。",
+  "count": 1
+ },
+ {
+  "en": "List every crystal from a terminal:",
+  "zh": "在终端中列出所有结晶：",
+  "count": 1
+ },
+ {
+  "en": "<span>session ",
+  "zh": "<span>会话 ",
+  "count": 1
+ },
+ {
+  "en": "Untitled crystal",
+  "zh": "未命名结晶",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Tools used</div><div class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">使用的工具</div><div class=\"tag-list\" style=\"margin:0;\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Files touched</div><div class=\"tag-list\" style=\"margin:0;\">",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">触及的文件</div><div class=\"tag-list\" style=\"margin:0;\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Lessons surfaced ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">浮现的经验教训 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"mem-section\"><div class=\"mem-section-title\">Built from actions ",
+  "zh": "<div class=\"mem-section\"><div class=\"mem-section-title\">基于以下行动构建 ",
+  "count": 1
+ },
+ {
+  "en": "crystal text",
+  "zh": "结晶文本",
+  "count": 1
+ },
+ {
+  "en": ">copy text<",
+  "zh": ">复制文本<",
+  "count": 1
+ },
+ {
+  "en": "'record'",
+  "zh": "'记录'",
+  "count": 1
+ },
+ {
+  "en": "var plural = k === 'memory' ? 'memories' : k + 's';",
+  "zh": "var plural = k;",
+  "count": 1
+ },
+ {
+  "en": "<input type=\"search\" id=\"audit-q\" placeholder=\"Filter by target id or function, e.g. mem_ or lesson-save (press /)\" value=\"",
+  "zh": "<input type=\"search\" id=\"audit-q\" placeholder=\"按目标 ID 或函数筛选，例如 mem_ 或 lesson-save（按 /）\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Filter audit entries by target id or function\">",
+  "zh": "\" aria-label=\"按目标 ID 或函数筛选审计条目\">",
+  "count": 1
+ },
+ {
+  "en": "<select id=\"audit-op-filter\" aria-label=\"Filter by operation\"><option value=\"\">All operations</option>",
+  "zh": "<select id=\"audit-op-filter\" aria-label=\"按操作筛选\"><option value=\"\">所有操作</option>",
+  "count": 1
+ },
+ {
+  "en": "<optgroup label=\"In the loaded entries\">",
+  "zh": "<optgroup label=\"已加载条目中的操作\">",
+  "count": 1
+ },
+ {
+  "en": "<optgroup label=\"Other operations\">",
+  "zh": "<optgroup label=\"其他操作\">",
+  "count": 1
+ },
+ {
+  "en": "<label class=\"tb-label\">From <input type=\"date\" id=\"audit-from\" value=\"",
+  "zh": "<label class=\"tb-label\">从 <input type=\"date\" id=\"audit-from\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"From date\"></label>",
+  "zh": "\" aria-label=\"开始日期\"></label>",
+  "count": 1
+ },
+ {
+  "en": "<label class=\"tb-label\">To <input type=\"date\" id=\"audit-to\" value=\"",
+  "zh": "<label class=\"tb-label\">至 <input type=\"date\" id=\"audit-to\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"To date\"></label>",
+  "zh": "\" aria-label=\"结束日期\"></label>",
+  "count": 1
+ },
+ {
+  "en": "operation <b>",
+  "zh": "操作 <b>",
+  "count": 1
+ },
+ {
+  "en": "from <b>",
+  "zh": "从 <b>",
+  "count": 1
+ },
+ {
+  "en": "to <b>",
+  "zh": "至 <b>",
+  "count": 1
+ },
+ {
+  "en": "target or function containing &ldquo;",
+  "zh": "目标或函数包含「",
+  "count": 1
+ },
+ {
+  "en": "&rdquo;",
+  "zh": "」",
+  "count": 1
+ },
+ {
+  "en": "<dt>When</dt><dd>",
+  "zh": "<dt>何时</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Function</dt><dd><code>",
+  "zh": "<dt>函数</dt><dd><code>",
+  "count": 1
+ },
+ {
+  "en": "<dt>User</dt><dd>",
+  "zh": "<dt>用户</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Quality</dt><dd>",
+  "zh": "<dt>质量</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Entry</dt><dd>",
+  "zh": "<dt>条目</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "audit entry id",
+  "zh": "审计条目 ID",
+  "count": 1
+ },
+ {
+  "en": "<dt>Targets ",
+  "zh": "<dt>目标 ",
+  "count": 1
+ },
+ {
+  "en": ">copy JSON<",
+  "zh": ">复制 JSON<",
+  "count": 1
+ },
+ {
+  "en": "raw entry",
+  "zh": "原始条目",
+  "count": 1
+ },
+ {
+  "en": "details",
+  "zh": "详情",
+  "count": 1
+ },
+ {
+  "en": "'hide'",
+  "zh": "'收起'",
+  "count": 1
+ },
+ {
+  "en": " targets",
+  "zh": " 个目标",
+  "count": 1
+ },
+ {
+  "en": "(rows.length === 1 ? 'y' : 'ies')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' matching entr'",
+  "zh": "' 个匹配条目'",
+  "count": 1
+ },
+ {
+  "en": "</span><button type=\"button\" class=\"btn\" data-action=\"audit-clear-filters\">Clear all</button></div>",
+  "zh": "</span><button type=\"button\" class=\"btn\" data-action=\"audit-clear-filters\">全部清除</button></div>",
+  "count": 1
+ },
+ {
+  "en": " for ",
+  "zh": "，条件：",
+  "count": 1
+ },
+ {
+  "en": "No audit entries match",
+  "zh": "没有匹配的审计条目",
+  "count": 1
+ },
+ {
+  "en": "The audit log records every change agentmemory made to stored data. The filters run on the server over the whole log, not only the loaded page.",
+  "zh": "审计日志记录 agentmemory 对存储数据的每一次更改。筛选在服务器端针对整个日志运行，而不仅是已加载的页面。",
+  "count": 1
+ },
+ {
+  "en": "No entry matches ",
+  "zh": "没有条目匹配 ",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"audit-clear-filters\">Clear filters</button></div>",
+  "zh": "<div style=\"margin-top:10px;\"><button type=\"button\" class=\"btn\" data-action=\"audit-clear-filters\">清除筛选</button></div>",
+  "count": 1
+ },
+ {
+  "en": "No audit entries yet",
+  "zh": "暂无审计条目",
+  "count": 1
+ },
+ {
+  "en": "Every save, delete, import, export, consolidation run and lesson change is recorded here with the function that made it and the records it touched. New entries appear the moment they are written.",
+  "zh": "每次保存、删除、导入、导出、整合运行和经验教训变更都会记录在这里，并附带执行它的函数和它触及的记录。新条目在写入的瞬间即会出现。",
+  "count": 1
+ },
+ {
+  "en": "agentmemory has not changed any stored data on this install yet. Reads and searches are not audited.",
+  "zh": "agentmemory 在此安装中尚未更改任何存储数据。读取和搜索不会被审计。",
+  "count": 1
+ },
+ {
+  "en": "Save a lesson; its entry appears here immediately:",
+  "zh": "保存一条经验教训，其条目会立即出现在这里：",
+  "count": 1
+ },
+ {
+  "en": "Read the log from a terminal:",
+  "zh": "在终端中读取日志：",
+  "count": 1
+ },
+ {
+  "en": " entries",
+  "zh": "条目",
+  "count": 1
+ },
+ {
+  "en": " newest",
+  "zh": " 条最新",
+  "count": 1
+ },
+ {
+  "en": " older",
+  "zh": " 条更早的条目",
+  "count": 1
+ },
+ {
+  "en": "<span>Narrow the dates to see older entries.</span>",
+  "zh": "<span>缩小日期范围以查看更早的条目。</span>",
+  "count": 1
+ },
+ {
+  "en": " lists every change agentmemory made to stored data, newest first, as it happens. Target ids ",
+  "zh": "列出 agentmemory 对存储数据的每一次更改，最新优先、实时呈现。目标 ID ",
+  "count": 1
+ },
+ {
+  "en": " open the record they changed; details shows everything the entry recorded.</div>",
+  "zh": "会打开它们所更改的记录；详情展示该条目记录的全部内容。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Audit log</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>审计日志</strong> ",
+  "count": 1
+ },
+ {
+  "en": "The check did not answer. The server may be restarting.",
+  "zh": "检查没有响应。服务器可能正在重启。",
+  "count": 1
+ },
+ {
+  "en": "The keyword index holds observations, memories and lessons, so its total is larger than the observation count.",
+  "zh": "关键词索引包含观测、记忆和经验教训，因此其总数大于观测数量。",
+  "count": 1
+ },
+ {
+  "en": "Add one LLM provider key (for example ANTHROPIC_API_KEY or OPENAI_API_KEY) to ~/.agentmemory/.env and restart.",
+  "zh": "向 ~/.agentmemory/.env 添加一个 LLM 提供商密钥（例如 ANTHROPIC_API_KEY 或 OPENAI_API_KEY），然后重启。",
+  "count": 1
+ },
+ {
+  "en": " seconds",
+  "zh": " 秒",
+  "count": 1
+ },
+ {
+  "en": "(mins === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' minute'",
+  "zh": "' 分钟'",
+  "count": 1
+ },
+ {
+  "en": " hours",
+  "zh": " 小时",
+  "count": 1
+ },
+ {
+  "en": "=true and restart.",
+  "zh": "=true 后重启。",
+  "count": 1
+ },
+ {
+  "en": "=false and restart to turn it off.",
+  "zh": "=false 后重启以将其关闭。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hstale offline\" id=\"health-live-state\"><strong>Offline: live updates are paused.</strong> The viewer lost its connection to agentmemory",
+  "zh": "<div class=\"hstale offline\" id=\"health-live-state\"><strong>离线：实时更新已暂停。</strong>查看器与 agentmemory 的连接已断开",
+  "count": 1
+ },
+ {
+  "en": " and may be out of date. It refreshes by itself when the connection returns.",
+  "zh": "，可能已过时。连接恢复后会自动刷新。",
+  "count": 1
+ },
+ {
+  "en": ". Everything on this page is the last report",
+  "zh": "。此页面上的所有内容均为最后一份报告",
+  "count": 1
+ },
+ {
+  "en": " from ",
+  "zh": "，来自 ",
+  "count": 1
+ },
+ {
+  "en": " at ",
+  "zh": "，时间为 ",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:6px;\">Check that the server is running:</div>",
+  "zh": "<div style=\"margin-top:6px;\">请确认服务器正在运行：</div>",
+  "count": 1
+ },
+ {
+  "en": "<button class=\"btn\" data-action=\"reconnect-now\" style=\"margin-top:6px;\">Reconnect now</button></div>",
+  "zh": "<button class=\"btn\" data-action=\"reconnect-now\" style=\"margin-top:6px;\">立即重连</button></div>",
+  "count": 1
+ },
+ {
+  "en": "s.</strong> Reports normally arrive every 30 seconds. The stream is connected, so the worker is busy or the iii engine is paused",
+  "zh": " 秒内没有收到健康报告。</strong>报告通常每 30 秒到达一次。数据流已连接，因此可能是 worker 繁忙或 iii 引擎已暂停",
+  "count": 1
+ },
+ {
+  "en": ", or Redis restarted: the engine stops relaying live events after a Redis restart until agentmemory restarts",
+  "zh": "，或 Redis 已重启：Redis 重启后，引擎会停止通过 Redis 中继实时事件，直到 agentmemory 重启",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hstale\" id=\"health-live-state\"><strong>Stale: no health report for ",
+  "zh": "<div class=\"hstale\" id=\"health-live-state\"><strong>数据过期：",
+  "count": 1
+ },
+ {
+  "en": ". The numbers below are from ",
+  "zh": "。下方数字来自 ",
+  "count": 1
+ },
+ {
+  "en": "<div style=\"margin-top:6px;\">Fix: wait a minute; if it stays stale, press Re-check now for the full report, check the server log and restart agentmemory.</div></div>",
+  "zh": "<div style=\"margin-top:6px;\">修复方法：等待一分钟；如果仍然过期，请点击“立即重新检查”获取完整报告，检查服务器日志并重启 agentmemory。</div></div>",
+  "count": 1
+ },
+ {
+  "en": "Waiting for the first health report from the server.",
+  "zh": "正在等待服务器的第一份健康报告。",
+  "count": 1
+ },
+ {
+  "en": "Some checks need attention.",
+  "zh": "部分检查需要注意。",
+  "count": 1
+ },
+ {
+  "en": "Every check passed.",
+  "zh": "所有检查均已通过。",
+  "count": 1
+ },
+ {
+  "en": "Last known state: ",
+  "zh": "最后已知状态：",
+  "count": 1
+ },
+ {
+  "en": "updates every 30 s over the live stream, no refresh needed ",
+  "zh": "通过实时流每 30 秒更新，无需刷新 ",
+  "count": 1
+ },
+ {
+  "en": "Report ",
+  "zh": "报告 ",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"hnote\" style=\"margin-top:10px;font-size:12px;\">No problems found: the engine is connected, the search index matches the stored observations and no function is failing.</p>",
+  "zh": "<p class=\"hnote\" style=\"margin-top:10px;font-size:12px;\">未发现问题：引擎已连接，搜索索引与存储的观测一致，没有函数在失败。</p>",
+  "count": 1
+ },
+ {
+  "en": "Re-check now",
+  "zh": "立即重新检查",
+  "count": 1
+ },
+ {
+  "en": "Checking…",
+  "zh": "检查中…",
+  "count": 1
+ },
+ {
+  "en": "<span>Machine checks (keys, engine binary, pid files):</span>",
+  "zh": "<span>机器检查（密钥、引擎二进制文件、pid 文件）：</span>",
+  "count": 1
+ },
+ {
+  "en": "/agentmemory/status\" target=\"_blank\" rel=\"noopener\">same report as a plain page &rarr;</a>",
+  "zh": "/agentmemory/status\" target=\"_blank\" rel=\"noopener\">同一报告的纯页面版本 &rarr;</a>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Engine and connection ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">引擎与连接 ",
+  "count": 1
+ },
+ {
+  "en": "The worker\\'s link to the iii engine, which stores the data and runs the functions.",
+  "zh": "worker 到 iii 引擎的连接，iii 引擎负责存储数据和运行函数。",
+  "count": 1
+ },
+ {
+  "en": "Stored in Redis (AGENTMEMORY_STATE_BACKEND=redis). If Redis restarts, restart agentmemory so the live stream resumes.",
+  "zh": "存储在 Redis 中（AGENTMEMORY_STATE_BACKEND=redis）。如果 Redis 重启，请重启 agentmemory 以恢复实时流。",
+  "count": 1
+ },
+ {
+  "en": "Stored in the engine\\'s local files (the default). Set AGENTMEMORY_STATE_BACKEND=redis to use Redis.",
+  "zh": "存储在引擎的本地文件中（默认）。设置 AGENTMEMORY_STATE_BACKEND=redis 以使用 Redis。",
+  "count": 1
+ },
+ {
+  "en": "This page\\'s own connection. Offline means the numbers here stop changing.",
+  "zh": "此页面自身的连接。离线意味着此处的数字将停止变化。",
+  "count": 1
+ },
+ {
+  "en": "Viewer stream",
+  "zh": "查看器数据流",
+  "count": 1
+ },
+ {
+  "en": "The engine stopped relaying live events through Redis, usually after Redis restarted. Data is still saved. Restart agentmemory to resume live updates.",
+  "zh": "引擎已停止通过 Redis 中继实时事件，通常是因为 Redis 重启过。数据仍会保存。重启 agentmemory 以恢复实时更新。",
+  "count": 1
+ },
+ {
+  "en": "A test event sent through Redis every 30 seconds came back to the worker.",
+  "zh": "每 30 秒通过 Redis 发送的测试事件已返回 worker。",
+  "count": 1
+ },
+ {
+  "en": "Redis event relay",
+  "zh": "Redis 事件中继",
+  "count": 1
+ },
+ {
+  "en": " · engine ",
+  "zh": " · 引擎 ",
+  "count": 1
+ },
+ {
+  "en": "' · streams '",
+  "zh": "' · 流 '",
+  "count": 1
+ },
+ {
+  "en": "' · viewer '",
+  "zh": "' · 查看器 '",
+  "count": 1
+ },
+ {
+  "en": "'off'",
+  "zh": "'关闭'",
+  "count": 1
+ },
+ {
+  "en": "not saved yet",
+  "zh": "尚未保存",
+  "count": 1
+ },
+ {
+  "en": "failing: ",
+  "zh": "失败：",
+  "count": 1
+ },
+ {
+  "en": "not saved since start",
+  "zh": "自启动以来未保存",
+  "count": 1
+ },
+ {
+  "en": "saved ",
+  "zh": "已保存 ",
+  "count": 1
+ },
+ {
+  "en": ", unsaved changes since ",
+  "zh": "，存在未保存的更改，始于 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Search index ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">搜索索引 ",
+  "count": 1
+ },
+ {
+  "en": "Keyword index",
+  "zh": "关键词索引",
+  "count": 1
+ },
+ {
+  "en": " documents",
+  "zh": " 个文档",
+  "count": 1
+ },
+ {
+  "en": " observations + ",
+  "zh": " 条观测 + ",
+  "count": 1
+ },
+ {
+  "en": " memories + ",
+  "zh": " 条记忆 + ",
+  "count": 1
+ },
+ {
+  "en": " lessons. ",
+  "zh": " 条经验教训。",
+  "count": 1
+ },
+ {
+  "en": " vectors",
+  "zh": " 个向量",
+  "count": 1
+ },
+ {
+  "en": "No embedding provider, so search is keyword only. Set an embedding provider key (for example OPENAI_API_KEY) and restart.",
+  "zh": "没有嵌入提供商，因此搜索仅支持关键词。请设置嵌入提供商密钥（例如 OPENAI_API_KEY）并重启。",
+  "count": 1
+ },
+ {
+  "en": "Meaning-based search. Each vector is one embedded record.",
+  "zh": "按语义搜索。每条向量是一条已嵌入的记录。",
+  "count": 1
+ },
+ {
+  "en": "Paused because the embedding provider did not return vectors. Retried on the next start.",
+  "zh": "已暂停，因为嵌入提供商未返回向量。将在下次启动时重试。",
+  "count": 1
+ },
+ {
+  "en": "Waiting for AGENTMEMORY_VECTOR_BACKFILL=all and a restart.",
+  "zh": "等待设置 AGENTMEMORY_VECTOR_BACKFILL=all 并重启。",
+  "count": 1
+ },
+ {
+  "en": "Embedded in the background in batches of AGENTMEMORY_VECTOR_BACKFILL_MAX. If agentmemory stops first, it continues on the next start.",
+  "zh": "在后台按 AGENTMEMORY_VECTOR_BACKFILL_MAX 分批嵌入。如果 agentmemory 先停止，下次启动时会继续。",
+  "count": 1
+ },
+ {
+  "en": "Waiting for embeddings",
+  "zh": "等待嵌入",
+  "count": 1
+ },
+ {
+  "en": "not checked yet",
+  "zh": "尚未检查",
+  "count": 1
+ },
+ {
+  "en": "Rebuilt from stored data at every start, so it is never saved to disk.",
+  "zh": "每次启动时都从存储数据重建，因此从不保存到磁盘。",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--accent);\">incomplete</span>",
+  "zh": "<span style=\"color:var(--accent);\">未完成</span>",
+  "count": 1
+ },
+ {
+  "en": "Keyword rebuild",
+  "zh": "关键词重建",
+  "count": 1
+ },
+ {
+  "en": "complete",
+  "zh": "已完成",
+  "count": 1
+ },
+ {
+  "en": " (AGENTMEMORY_INDEX_SAVE_INTERVAL_MS). ",
+  "zh": "（AGENTMEMORY_INDEX_SAVE_INTERVAL_MS）。",
+  "count": 1
+ },
+ {
+  "en": "(p.pendingChanges === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(p.buckets === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "Saved at most every ",
+  "zh": "最多每 ",
+  "count": 1
+ },
+ {
+  "en": "' unsaved change'",
+  "zh": "' 个未保存更改'",
+  "count": 1
+ },
+ {
+  "en": ", saving now",
+  "zh": "，正在保存",
+  "count": 1
+ },
+ {
+  "en": "Vector save",
+  "zh": "向量保存",
+  "count": 1
+ },
+ {
+  "en": "' bucket'",
+  "zh": "' 个桶'",
+  "count": 1
+ },
+ {
+  "en": "(p.pendingLog === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "Pending vector log",
+  "zh": "待处理向量日志",
+  "count": 1
+ },
+ {
+  "en": "' vector change'",
+  "zh": "' 个向量变更'",
+  "count": 1
+ },
+ {
+  "en": "Log writes failing: ",
+  "zh": "日志写入失败：",
+  "count": 1
+ },
+ {
+  "en": "New and removed vectors are written here right away and replayed after a crash, so nothing is embedded twice. Each save empties it.",
+  "zh": "新增和删除的向量会立即写入此处，崩溃后会重放，因此不会重复嵌入。每次保存都会清空它。",
+  "count": 1
+ },
+ {
+  "en": "Snapshot rebuilt ",
+  "zh": "快照重建于 ",
+  "count": 1
+ },
+ {
+  "en": " nodes · ",
+  "zh": " 个节点 · ",
+  "count": 1
+ },
+ {
+  "en": " edges",
+  "zh": " 条边",
+  "count": 1
+ },
+ {
+  "en": "A one-time pass that trims each graph node and edge to its newest 32 source observations, so stores from older versions stop slowing graph search.",
+  "zh": "一次性任务，将每个图谱节点和边的来源观测裁剪为最新的 32 条，以免旧版本存储拖慢图谱搜索。",
+  "count": 1
+ },
+ {
+  "en": ". It does not run again.",
+  "zh": "。不会再次运行。",
+  "count": 1
+ },
+ {
+  "en": " records trimmed, ",
+  "zh": " 条记录已修剪，",
+  "count": 1
+ },
+ {
+  "en": " ids removed",
+  "zh": " 个 ID 已移除",
+  "count": 1
+ },
+ {
+  "en": ", finished ",
+  "zh": "，完成于 ",
+  "count": 1
+ },
+ {
+  "en": " It runs in the background, resumes after a restart and stops by itself.",
+  "zh": "它在后台运行，重启后会继续，完成后自动停止。",
+  "count": 1
+ },
+ {
+  "en": "Turned off with AGENTMEMORY_GRAPH_COMPACT_ON_BOOT=false. Run it by hand if graph search is slow:",
+  "zh": "已通过 AGENTMEMORY_GRAPH_COMPACT_ON_BOOT=false 关闭。如果图谱搜索缓慢，可手动运行：",
+  "count": 1
+ },
+ {
+  "en": ". It resumes on the next start. To run it now:",
+  "zh": "。它会在下次启动时继续。要立即运行：",
+  "count": 1
+ },
+ {
+  "en": "unknown error",
+  "zh": "未知错误",
+  "count": 1
+ },
+ {
+  "en": "Provenance compaction",
+  "zh": "来源压缩",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">LLM and embeddings ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">LLM 与嵌入 ",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"badge badge-green\">configured</span>",
+  "zh": "<span class=\"badge badge-green\">已配置</span>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"badge badge-muted\">none</span>",
+  "zh": "<span class=\"badge badge-muted\">无</span>",
+  "count": 1
+ },
+ {
+  "en": "LLM provider",
+  "zh": "LLM 提供商",
+  "count": 1
+ },
+ {
+  "en": "Capture, keyword and vector search, saved memories, lessons and the structural graph all work without one.",
+  "zh": "捕获、关键词和向量搜索、已保存的记忆、经验教训以及结构图谱在没有它的情况下都能正常工作。",
+  "count": 1
+ },
+ {
+  "en": "Used for summaries, consolidation, typed graph extraction and optional compression.",
+  "zh": "用于摘要、整合、类型化图谱抽取和可选压缩。",
+  "count": 1
+ },
+ {
+  "en": "Off without an LLM",
+  "zh": "无 LLM 时关闭的功能",
+  "count": 1
+ },
+ {
+  "en": "The number in brackets is the vector size (dimensions) the provider returns.",
+  "zh": "括号中的数字是提供商返回的向量大小（维度）。",
+  "count": 1
+ },
+ {
+  "en": "Meaning-based search is off.",
+  "zh": "按语义搜索已关闭。",
+  "count": 1
+ },
+ {
+  "en": "none (keyword search only)",
+  "zh": "无（仅关键词搜索）",
+  "count": 1
+ },
+ {
+  "en": "Embeddings",
+  "zh": "嵌入",
+  "count": 1
+ },
+ {
+  "en": "Circuit breaker",
+  "zh": "熔断器",
+  "count": 1
+ },
+ {
+  "en": " failures)",
+  "zh": " 次失败)",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Feature flags ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">功能开关 ",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"hnote\">No flag data yet. It arrives with the first report.</p></div>",
+  "zh": "<p class=\"hnote\">暂无开关数据，将随第一份报告到达。</p></div>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"badge badge-yellow\">on, inactive</span>",
+  "zh": "<span class=\"badge badge-yellow\">开启，未激活</span>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"badge badge-muted\">off</span>",
+  "zh": "<span class=\"badge badge-muted\">关闭</span>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"badge badge-green\">on</span>",
+  "zh": "<span class=\"badge badge-green\">开启</span>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"flag-how\" style=\"color:var(--yellow);\">Inactive: ",
+  "zh": "<div class=\"flag-how\" style=\"color:var(--yellow);\">未激活：",
+  "count": 1
+ },
+ {
+  "en": ".</div>",
+  "zh": "。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Process ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">进程 ",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"hnote\">No process numbers yet. They arrive with the first health report.</p></div>",
+  "zh": "<p class=\"hnote\">暂无进程数据，将随第一份健康报告到达。</p></div>",
+  "count": 1
+ },
+ {
+  "en": " MB (",
+  "zh": " MB（",
+  "count": 1
+ },
+ {
+  "en": "JavaScript memory in use against the most it may grow to. It only matters above 80% while RSS is also over 512 MB.",
+  "zh": "JavaScript 正在使用的内存相对于其可增长上限。当占比超过 80% 且 RSS 同时超过 512 MB 时才需要关注。",
+  "count": 1
+ },
+ {
+  "en": "Everything the process holds from the operating system, including code and buffers.",
+  "zh": "进程从操作系统获取的全部内存，包括代码和缓冲区。",
+  "count": 1
+ },
+ {
+  "en": "How far behind the worker is. Under 100 ms is fine; above that requests answer slowly.",
+  "zh": "worker 落后了多少。100 毫秒以内正常；超过则请求响应变慢。",
+  "count": 1
+ },
+ {
+  "en": "Share of one core used since the last report. Short bursts during imports are normal.",
+  "zh": "自上次报告以来占用的单核比例。导入期间的短暂飙升属正常现象。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Capture ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">捕获 ",
+  "count": 1
+ },
+ {
+  "en": "Shows whether observations from hooks are stored, retried or waiting offline.",
+  "zh": "显示来自 hook 的观测是已存储、正在重试还是离线等待中。",
+  "count": 1
+ },
+ {
+  "en": "waiting for the first report",
+  "zh": "等待第一份报告",
+  "count": 1
+ },
+ {
+  "en": "Capture",
+  "zh": "捕获",
+  "count": 1
+ },
+ {
+  "en": " retrying · ",
+  "zh": " 条重试中 · ",
+  "count": 1
+ },
+ {
+  "en": " pending · ",
+  "zh": " 条待处理 · ",
+  "count": 1
+ },
+ {
+  "en": "not checked",
+  "zh": "未检查",
+  "count": 1
+ },
+ {
+  "en": "</span> Fix the cause, then retry them:",
+  "zh": "</span>请先修复原因，然后重试它们：",
+  "count": 1
+ },
+ {
+  "en": "Could not be stored.",
+  "zh": "无法存储。",
+  "count": 1
+ },
+ {
+  "en": " with backoff, up to ",
+  "zh": " 重试一次（指数退避），最多 ",
+  "count": 1
+ },
+ {
+  "en": "Retried every ",
+  "zh": "每 ",
+  "count": 1
+ },
+ {
+  "en": ". Last error: ",
+  "zh": "。上次错误：",
+  "count": 1
+ },
+ {
+  "en": " attempts",
+  "zh": " 次",
+  "count": 1
+ },
+ {
+  "en": "Empty means every accepted observation is stored.",
+  "zh": "为空表示所有已接收的观测均已存储。",
+  "count": 1
+ },
+ {
+  "en": " duplicates skipped · ",
+  "zh": " 条重复已跳过 · ",
+  "count": 1
+ },
+ {
+  "en": " recovered by retry · ",
+  "zh": " 条通过重试恢复 · ",
+  "count": 1
+ },
+ {
+  "en": " accepted · ",
+  "zh": " 条已接收 · ",
+  "count": 1
+ },
+ {
+  "en": "Since start",
+  "zh": "自启动以来",
+  "count": 1
+ },
+ {
+  "en": " stored · ",
+  "zh": " 条已存储 · ",
+  "count": 1
+ },
+ {
+  "en": "Duplicates are the same event delivered twice, for example a replay after a timeout. They are kept once.",
+  "zh": "重复是指同一事件被投递了两次，例如超时后重放。重复事件只保留一份。",
+  "count": 1
+ },
+ {
+  "en": "Repeats skipped",
+  "zh": "跳过的重复项",
+  "count": 1
+ },
+ {
+  "en": " since start",
+  "zh": "（自启动以来）",
+  "count": 1
+ },
+ {
+  "en": "A tool call with the same input and the same output as one stored in the last ",
+  "zh": "与最近 ",
+  "count": 1
+ },
+ {
+  "en": " is skipped when the hook sends no event id.",
+  "zh": " 内存储的一次工具调用具有相同输入和相同输出、且 hook 未发送事件 ID 时，该调用会被跳过。",
+  "count": 1
+ },
+ {
+  "en": "Offline spool",
+  "zh": "离线暂存",
+  "count": 1
+ },
+ {
+  "en": " waiting · ",
+  "zh": " 条等待中 · ",
+  "count": 1
+ },
+ {
+  "en": "Turned off with AGENTMEMORY_CAPTURE_SPOOL=false, so hooks drop observations while the server is down.",
+  "zh": "已通过 AGENTMEMORY_CAPTURE_SPOOL=false 关闭，因此服务器宕机期间 hook 会丢弃观测。",
+  "count": 1
+ },
+ {
+  "en": "Sent on the next hook call or at the next start. To send now:",
+  "zh": "将在下次 hook 调用或下次启动时发送。要立即发送：",
+  "count": 1
+ },
+ {
+  "en": "Hooks write here only while the server is unreachable.",
+  "zh": "仅当服务器不可达时，hook 才会写入此处。",
+  "count": 1
+ },
+ {
+  "en": " Last drained ",
+  "zh": "。上次发送于 ",
+  "count": 1
+ },
+ {
+  "en": " dropped because the spool was full or too old. Raise AGENTMEMORY_CAPTURE_SPOOL_MAX_BYTES.",
+  "zh": " 条因暂存已满或过旧而被丢弃。请调大 AGENTMEMORY_CAPTURE_SPOOL_MAX_BYTES。",
+  "count": 1
+ },
+ {
+  "en": "Spool and inbox, with --drain to send the spool now:",
+  "zh": "暂存和收件箱，使用 --drain 立即发送暂存：",
+  "count": 1
+ },
+ {
+  "en": "Waiting and dead events as JSON:",
+  "zh": "等待中和死信事件（JSON）：",
+  "count": 1
+ },
+ {
+  "en": "from a terminal",
+  "zh": "来自终端",
+  "count": 1
+ },
+ {
+  "en": "Inspect",
+  "zh": "检查",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Stored records</div>",
+  "zh": "<div class=\"card\"><div class=\"card-title\">已存储记录</div>",
+  "count": 1
+ },
+ {
+  "en": " running)",
+  "zh": " 运行中）",
+  "count": 1
+ },
+ {
+  "en": " including older versions",
+  "zh": " 条（含旧版本）",
+  "count": 1
+ },
+ {
+  "en": " latest · ",
+  "zh": " 条最新 · ",
+  "count": 1
+ },
+ {
+  "en": "Lessons / crystals",
+  "zh": "经验教训 / 结晶",
+  "count": 1
+ },
+ {
+  "en": "<a class=\"empty-link\" href=\"#health/consolidation\">Why these can be empty &rarr;</a>",
+  "zh": "<a class=\"empty-link\" href=\"#health/consolidation\">为什么这些可能为空 &rarr;</a>",
+  "count": 1
+ },
+ {
+  "en": "Semantic facts / procedures",
+  "zh": "语义事实 / 流程",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\" style=\"margin-top:16px;\"><div class=\"card-title\">Functions ",
+  "zh": "<div class=\"card\" style=\"margin-top:16px;\"><div class=\"card-title\">函数 ",
+  "count": 1
+ },
+ {
+  "en": "No function has run since the worker started",
+  "zh": "worker 启动以来没有函数运行过",
+  "count": 1
+ },
+ {
+  "en": "Call counts, failures and latency for every agentmemory function (observe, search, remember, summarize).",
+  "zh": "每个 agentmemory 函数（observe、search、remember、summarize）的调用次数、失败数和延迟。",
+  "count": 1
+ },
+ {
+  "en": "Nothing has called the worker yet in this process. Rows appear here live as agents observe, search and save.",
+  "zh": "此进程中尚无调用 worker 的记录。当 agent 进行观测、搜索和保存时，行会实时出现在这里。",
+  "count": 1
+ },
+ {
+  "en": "Make a first call from a terminal:",
+  "zh": "在终端中发起第一次调用：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"table-wrap\"><table class=\"metric-table\"><tr><th>Function</th><th style=\"text-align:right\">Calls</th><th style=\"text-align:right\">Failed</th><th style=\"text-align:right\">Failure rate ",
+  "zh": "<div class=\"table-wrap\"><table class=\"metric-table\"><tr><th>函数</th><th style=\"text-align:right\">调用次数</th><th style=\"text-align:right\">失败数</th><th style=\"text-align:right\">失败率 ",
+  "count": 1
+ },
+ {
+  "en": "</th><th style=\"text-align:right\">Avg latency ",
+  "zh": "</th><th style=\"text-align:right\">平均延迟 ",
+  "count": 1
+ },
+ {
+  "en": " <span class=\"badge badge-muted\">off, no LLM</span>",
+  "zh": " <span class=\"badge badge-muted\">关闭，无 LLM</span>",
+  "count": 1
+ },
+ {
+  "en": " ms</td></tr>",
+  "zh": " 毫秒</td></tr>",
+  "count": 1
+ },
+ {
+  "en": "failed: ",
+  "zh": "失败：",
+  "count": 1
+ },
+ {
+  "en": "not enough input",
+  "zh": "输入不足",
+  "count": 1
+ },
+ {
+  "en": "skipped: ",
+  "zh": "已跳过：",
+  "count": 1
+ },
+ {
+  "en": " new facts from ",
+  "zh": " 条新事实，来自 ",
+  "count": 1
+ },
+ {
+  "en": " summaries",
+  "zh": " 条摘要",
+  "count": 1
+ },
+ {
+  "en": " new procedures from ",
+  "zh": " 条新流程，来自 ",
+  "count": 1
+ },
+ {
+  "en": " patterns",
+  "zh": " 个模式",
+  "count": 1
+ },
+ {
+  "en": " facts and ",
+  "zh": " 条事实和 ",
+  "count": 1
+ },
+ {
+  "en": " procedures",
+  "zh": " 条流程",
+  "count": 1
+ },
+ {
+  "en": "checked ",
+  "zh": "已检查 ",
+  "count": 1
+ },
+ {
+  "en": " new insights",
+  "zh": " 条新洞察",
+  "count": 1
+ },
+ {
+  "en": "no insights",
+  "zh": "无洞察",
+  "count": 1
+ },
+ {
+  "en": "export failed",
+  "zh": "导出失败",
+  "count": 1
+ },
+ {
+  "en": "exported",
+  "zh": "已导出",
+  "count": 1
+ },
+ {
+  "en": "No LLM provider is configured on this instance, so no session summaries are written and consolidation never runs. Semantic facts and procedures stay at zero.",
+  "zh": "此实例未配置 LLM 提供商，因此不会写入会话摘要，整合也永远不会运行。语义事实和流程保持为零。",
+  "count": 1
+ },
+ {
+  "en": "CONSOLIDATION_ENABLED is set to false, so consolidation is switched off even though an LLM key exists. Remove that line from ~/.agentmemory/.env (or set it to true) and restart. Find it with:",
+  "zh": "CONSOLIDATION_ENABLED 被设为 false，因此即使存在 LLM 密钥，整合也处于关闭状态。请从 ~/.agentmemory/.env 中删除该行（或将其设为 true）并重启。用以下命令找到它：",
+  "count": 1
+ },
+ {
+  "en": ". End sessions normally (the Stop hook does it) so each one gets a summary.",
+  "zh": " 条。请正常结束会话（Stop hook 会处理），以便每个会话都生成摘要。",
+  "count": 1
+ },
+ {
+  "en": "Not enough finished sessions yet: semantic facts need ",
+  "zh": "已完成的会话还不够：语义事实需要 ",
+  "count": 1
+ },
+ {
+  "en": " session summaries and there are ",
+  "zh": " 条会话摘要，当前有 ",
+  "count": 1
+ },
+ {
+  "en": ". They build up as the same workflow repeats across sessions.",
+  "zh": " 条。当同一工作流在多个会话中重复出现时，它们会逐渐积累。",
+  "count": 1
+ },
+ {
+  "en": " pattern memories that each appear in ",
+  "zh": " 条模式记忆，且每条至少出现在 ",
+  "count": 1
+ },
+ {
+  "en": "+ sessions; there are ",
+  "zh": "+ 个会话中；当前有 ",
+  "count": 1
+ },
+ {
+  "en": "Procedures need ",
+  "zh": "流程需要 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\" id=\"health-consolidation\" style=\"margin-top:16px;\"><div class=\"card-title\">How consolidation works ",
+  "zh": "<div class=\"card\" id=\"health-consolidation\" style=\"margin-top:16px;\"><div class=\"card-title\">整合的工作原理 ",
+  "count": 1
+ },
+ {
+  "en": "<p style=\"font-size:13px;color:var(--ink-secondary);line-height:1.6;\">Consolidation is a background job that turns many raw observations into fewer records that last longer. Observations are never deleted by it and stay searchable. Each step asks the LLM to summarize, so it needs an LLM provider.</p>",
+  "zh": "<p style=\"font-size:13px;color:var(--ink-secondary);line-height:1.6;\">整合是一个后台任务，将大量原始观测转化为更少但留存更久的记录。它不会删除观测，观测始终可搜索。每一步都需要 LLM 进行摘要，因此需要 LLM 提供商。</p>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"cstep\"><div class=\"cstep-n\">1 · captured</div><div class=\"cstep-t\">Observations</div><div class=\"cstep-d\">Hooks record every tool call, edit and command.</div><div class=\"cstep-c\">",
+  "zh": "<div class=\"cstep\"><div class=\"cstep-n\">1 · 已捕获</div><div class=\"cstep-t\">观测</div><div class=\"cstep-d\">Hook 记录每次工具调用、编辑和命令。</div><div class=\"cstep-c\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"cstep\"><div class=\"cstep-n\">2 · session end</div><div class=\"cstep-t\">Summaries</div><div class=\"cstep-d\">The LLM writes one summary when a session ends.</div><div class=\"cstep-c\">",
+  "zh": "<div class=\"cstep\"><div class=\"cstep-n\">2 · 会话结束</div><div class=\"cstep-t\">摘要</div><div class=\"cstep-d\">会话结束时，LLM 撰写一份摘要。</div><div class=\"cstep-c\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"cstep\"><div class=\"cstep-n\">3 · merge</div><div class=\"cstep-t\">Semantic facts ",
+  "zh": "<div class=\"cstep\"><div class=\"cstep-n\">3 · 合并</div><div class=\"cstep-t\">语义事实 ",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"cstep-d\">Merged from the newest 20 summaries once at least ",
+  "zh": "</div><div class=\"cstep-d\">当至少有 ",
+  "count": 1
+ },
+ {
+  "en": " exist.</div><div class=\"cstep-c\">",
+  "zh": " 条时，从最新的 20 份摘要合并而成。</div><div class=\"cstep-c\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"cstep\"><div class=\"cstep-n\">4 · repeat</div><div class=\"cstep-t\">Procedures ",
+  "zh": "<div class=\"cstep\"><div class=\"cstep-n\">4 · 重复</div><div class=\"cstep-t\">流程 ",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"cstep-d\">From pattern memories seen in ",
+  "zh": "</div><div class=\"cstep-d\">来自在 ",
+  "count": 1
+ },
+ {
+  "en": " exist.</div><div class=\"cstep-c\">",
+  "zh": " 条时。</div><div class=\"cstep-c\">",
+  "count": 1
+ },
+ {
+  "en": "+ sessions, once ",
+  "zh": "+ 个会话中出现过的模式记忆，当有 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"cstep\"><div class=\"cstep-n\">5 · forget</div><div class=\"cstep-t\">Decay ",
+  "zh": "<div class=\"cstep\"><div class=\"cstep-n\">5 · 遗忘</div><div class=\"cstep-t\">衰减 ",
+  "count": 1
+ },
+ {
+  "en": " days lose 10% strength per period (never below 0.1).</div></div>",
+  "zh": " 天未使用的事实和流程，每个周期强度降低 10%（最低不低于 0.1）。</div></div>",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"cstep-d\">Facts and procedures unused for ",
+  "zh": "</div><div class=\"cstep-d\">",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hstale\" style=\"margin-top:12px;\"><strong>Why semantic facts or procedures are empty here:</strong> ",
+  "zh": "<div class=\"hstale\" style=\"margin-top:12px;\"><strong>此处语义事实或流程为空的原因：</strong> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ccols\"><div><h4>Schedule and thresholds</h4>",
+  "zh": "<div class=\"ccols\"><div><h4>计划与阈值</h4>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>After a session ends</span><span>runs at most once every ",
+  "zh": "<div class=\"ckv\"><span>会话结束后</span><span>最多每 ",
+  "count": 1
+ },
+ {
+  "en": " (AGENTMEMORY_CONSOLIDATION_COOLDOWN_MS)</span></div>",
+  "zh": "（AGENTMEMORY_CONSOLIDATION_COOLDOWN_MS）</span></div>",
+  "count": 1
+ },
+ {
+  "en": " (CONSOLIDATION_INTERVAL_MS), if it was on when the server started</span></div>",
+  "zh": "（CONSOLIDATION_INTERVAL_MS），如果服务器启动时它是开启的</span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>On a timer</span><span>every ",
+  "zh": "<div class=\"ckv\"><span>按定时器</span><span>每 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>Semantic facts</span><span>need ",
+  "zh": "<div class=\"ckv\"><span>语义事实</span><span>需要 ",
+  "count": 1
+ },
+ {
+  "en": " summaries (have ",
+  "zh": " 条摘要（已有 ",
+  "count": 1
+ },
+ {
+  "en": ")</span></div>",
+  "zh": "条）</span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>Procedures</span><span>need ",
+  "zh": "<div class=\"ckv\"><span>流程</span><span>需要 ",
+  "count": 1
+ },
+ {
+  "en": " recurring patterns (have ",
+  "zh": " 个重复模式（已有 ",
+  "count": 1
+ },
+ {
+  "en": ")</span></div>",
+  "zh": "个）</span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>Decay period</span><span>",
+  "zh": "<div class=\"ckv\"><span>衰减周期</span><span>",
+  "count": 1
+ },
+ {
+  "en": " days (CONSOLIDATION_DECAY_DAYS)</span></div>",
+  "zh": " 天（CONSOLIDATION_DECAY_DAYS）</span></div>",
+  "count": 1
+ },
+ {
+  "en": "</span><span>saved by agents (memory_lesson_save), stronger with each reuse; unused ones lose confidence weekly</span></div>",
+  "zh": "</span><span>由 agent 保存（memory_lesson_save），每次复用都会增强；未使用的每周会降低置信度</span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>Lessons ",
+  "zh": "<div class=\"ckv\"><span>经验教训 ",
+  "count": 1
+ },
+ {
+  "en": "</span><span>finished actions grouped into one digest after each consolidation at session end</span></div>",
+  "zh": "</span><span>每次会话结束整合后，将已完成的行动归为一份摘要</span></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>Crystals ",
+  "zh": "<div class=\"ckv\"><span>结晶 ",
+  "count": 1
+ },
+ {
+  "en": "</div><div><h4>Last run</h4>",
+  "zh": "</div><div><h4>上次运行</h4>",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"hnote\" style=\"font-size:12px;\">Never ran on this instance. ",
+  "zh": "<p class=\"hnote\" style=\"font-size:12px;\">在此实例上从未运行过。",
+  "count": 1
+ },
+ {
+  "en": "It runs after the next session ends, or now with the button below.",
+  "zh": "它会在下个会话结束后运行，或点击下方按钮立即运行。",
+  "count": 1
+ },
+ {
+  "en": "It is off; see the reason above.",
+  "zh": "它已关闭；原因见上文。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"ckv\"><span>When</span><span>",
+  "zh": "<div class=\"ckv\"><span>时间</span><span>",
+  "count": 1
+ },
+ {
+  "en": " · tier ",
+  "zh": " · 层级 ",
+  "count": 1
+ },
+ {
+  "en": "Obsidian export",
+  "zh": "Obsidian 导出",
+  "count": 1
+ },
+ {
+  "en": "Run consolidation now",
+  "zh": "立即运行整合",
+  "count": 1
+ },
+ {
+  "en": "Running…",
+  "zh": "运行中…",
+  "count": 1
+ },
+ {
+  "en": "<h4 style=\"font-family:var(--font-ui);font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-muted);margin:16px 0 0;\">Each layer now</h4>",
+  "zh": "<h4 style=\"font-family:var(--font-ui);font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-muted);margin:16px 0 0;\">各层当前状态</h4>",
+  "count": 1
+ },
+ {
+  "en": "/agentmemory/status\" target=\"_blank\" rel=\"noopener\">/agentmemory/status</a> page: the same checks and verdict, pushed over the stream every 30 seconds. Every problem says what to do. Scroll down for how consolidation works.</div>",
+  "zh": "/agentmemory/status\" target=\"_blank\" rel=\"noopener\">/agentmemory/status</a> 页面：相同的检查项和结论，每 30 秒通过流推送更新。每个问题都会说明处理方法。向下滚动查看整合的运作方式。</div>",
+  "count": 1
+ },
+ {
+  "en": " is the live version of the <a class=\"empty-link\" href=\"",
+  "zh": " 是这个页面的实时版本：<a class=\"empty-link\" href=\"",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Health</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>健康状态</strong> ",
+  "count": 1
+ },
+ {
+  "en": "No projects yet",
+  "zh": "尚无项目",
+  "count": 1
+ },
+ {
+  "en": " sums up what agentmemory learned about one codebase: the concepts and files that come up most, the conventions it noticed, recurring errors and recent highlights. Agents get it as context at session start.",
+  "zh": " 总结了 agentmemory 对某个代码库的了解：最常出现的概念和文件、它注意到的约定、反复出现的错误和近期亮点。智能体在会话开始时会将其作为上下文。",
+  "count": 1
+ },
+ {
+  "en": "A project profile ",
+  "zh": "一个项目档案 ",
+  "count": 1
+ },
+ {
+  "en": "Profiles are built from sessions, and no session with a project has been recorded yet.",
+  "zh": "档案由会话构建而来，但目前还没有记录过带项目的会话。",
+  "count": 1
+ },
+ {
+  "en": "Connect your agent with hooks and run it inside a project (swap in codex, cursor, gemini-cli or another supported agent):",
+  "zh": "用钩子连接你的智能体，并在项目内运行它（可换成 codex、cursor、gemini-cli 或其他受支持的智能体）：",
+  "count": 1
+ },
+ {
+  "en": "Or start a session by hand:",
+  "zh": "或手动启动一个会话：",
+  "count": 1
+ },
+ {
+  "en": " is what agentmemory learned about one codebase from its sessions and memories. Agents get it as context at session start. It opens on the project an agent worked in most recently.</div>",
+  "zh": " 是 agentmemory 从它的会话和记忆中了解到的关于某个代码库的内容。智能体在会话开始时会将其作为上下文。默认打开智能体最近工作过的项目。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\">A project profile ",
+  "zh": "<div class=\"inline-note\">一个项目档案 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"toolbar\"><select id=\"profile-project\" aria-label=\"Project\">",
+  "zh": "<div class=\"toolbar\"><select id=\"profile-project\" aria-label=\"项目\">",
+  "count": 1
+ },
+ {
+  "en": "(p.count === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "' · active '",
+  "zh": "' · 活跃于 '",
+  "count": 1
+ },
+ {
+  "en": " title=\"Rebuild the profile from the latest sessions and memories now instead of using the cached copy\">",
+  "zh": " title=\"立即用最新会话和记忆重建档案，而不是使用缓存副本\">",
+  "count": 1
+ },
+ {
+  "en": "Building…",
+  "zh": "构建中…",
+  "count": 1
+ },
+ {
+  "en": "Rebuild",
+  "zh": "重建",
+  "count": 1
+ },
+ {
+  "en": "Rebuilt just now from the latest sessions and memories.",
+  "zh": "已根据最新会话和记忆重建档案。",
+  "count": 1
+ },
+ {
+  "en": "Rebuild failed. Check that agentmemory is running.",
+  "zh": "重建失败。请确认 agentmemory 正在运行。",
+  "count": 1
+ },
+ {
+  "en": "No profile for this project yet",
+  "zh": "该项目尚无档案",
+  "count": 1
+ },
+ {
+  "en": "The profile lists top concepts, files, conventions, recurring errors and recent highlights for ",
+  "zh": "档案为以下项目列出核心概念、文件、约定、反复出现的错误和近期亮点： ",
+  "count": 1
+ },
+ {
+  "en": "agentmemory found no sessions for this project on the server, so there is nothing to build it from.",
+  "zh": "agentmemory 在服务器上没有找到该项目的任何会话，因此无从构建档案。",
+  "count": 1
+ },
+ {
+  "en": "Build it from a terminal to see the raw answer:",
+  "zh": "从终端构建以查看原始返回：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Top concepts</div>",
+  "zh": "<div class=\"card\"><div class=\"card-title\">核心概念</div>",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">No concepts yet. Concepts come from the tags on saved memories and from observations compressed by an LLM (<code>AGENTMEMORY_AUTO_COMPRESS=true</code> with a provider key). Save a memory with concepts to start:</p>",
+  "zh": "<p class=\"empty-step-label\">尚无概念。概念来自已保存记忆的标签，以及经 LLM 压缩的观测（需要设置 <code>AGENTMEMORY_AUTO_COMPRESS=true</code> 并配置提供方密钥）。保存一条带概念的记忆即可开始：</p>",
+  "count": 1
+ },
+ {
+  "en": "Search memories for ",
+  "zh": "在记忆中搜索 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hnote\">Counted over memories and the last 20 sessions. Pick one to search memories for it.</div>",
+  "zh": "<div class=\"hnote\">根据记忆和最近 20 个会话统计。点选一个即可搜索相关记忆。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Top files</div>",
+  "zh": "<div class=\"card\"><div class=\"card-title\">核心文件</div>",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">No file activity recorded for this project yet. Files appear once agents read or edit them during a captured session; search directories and patterns are not counted.</p>",
+  "zh": "<p class=\"empty-step-label\">此项目尚无文件活动记录。当智能体在被记录的会话中读取或编辑文件后，文件会出现在这里；搜索目录和模式不会被计入。</p>",
+  "count": 1
+ },
+ {
+  "en": " observations)",
+  "zh": " 条观测）",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hnote\">Files read, edited or written in the last 20 sessions, relative to ",
+  "zh": "<div class=\"hnote\">最近 20 个会话中被读取、编辑或写入的文件，相对于 ",
+  "count": 1
+ },
+ {
+  "en": "the project",
+  "zh": "该项目",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Conventions ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">约定 ",
+  "count": 1
+ },
+ {
+  "en": " agentmemory infers conventions from the files and concepts above: TypeScript when .ts files outnumber .js, a src/ layout when most files sit under src/, tests when test or spec files appear, and any concept seen 3 or more times.</p>",
+  "zh": " agentmemory 根据上方的文件和概念推断约定：.ts 文件多于 .js 时视为 TypeScript 项目；多数文件位于 src/ 下时视为 src/ 布局；出现 test 或 spec 文件时视为有测试；出现 3 次及以上的概念也会被视为约定。</p>",
+  "count": 1
+ },
+ {
+  "en": "This project has no file activity or concepts yet, so there is nothing to infer from.",
+  "zh": "此项目尚无文件活动或概念，因此无从推断。",
+  "count": 1
+ },
+ {
+  "en": "None of the patterns show up often enough in this project yet.",
+  "zh": "此项目中的模式出现频率尚不足。",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\"><b>None detected yet.</b> ",
+  "zh": "<p class=\"empty-step-label\"><b>尚未检测到。</b> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\" style=\"margin-top:8px;\">Record a convention you already know as a preference memory; agents recall it with the rest:</div>",
+  "zh": "<div class=\"empty-step-label\" style=\"margin-top:8px;\">把你已知的约定保存为一条偏好记忆，智能体会随其余记忆一并回忆：</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"hnote\" style=\"margin-top:8px;\">Inferred from the files and concepts above, not written by an agent. Preferences you save as memories sit on the Memories page.</div>",
+  "zh": "<div class=\"hnote\" style=\"margin-top:8px;\">根据上方的文件和概念推断得出，并非智能体所写。你保存为记忆的偏好会显示在记忆页面。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">At a glance</div><dl class=\"mem-meta\">",
+  "zh": "<div class=\"card\"><div class=\"card-title\">一览</div><dl class=\"mem-meta\">",
+  "count": 1
+ },
+ {
+  "en": " sessions</button>",
+  "zh": " 个会话</button>",
+  "count": 1
+ },
+ {
+  "en": ", last active ",
+  "zh": "，最近活跃于 ",
+  "count": 1
+ },
+ {
+  "en": "<dt>Observations ",
+  "zh": "<dt>观测 ",
+  "count": 1
+ },
+ {
+  "en": " sessions</dd>",
+  "zh": " 个会话</dd>",
+  "count": 1
+ },
+ {
+  "en": " in the last ",
+  "zh": "，最近 ",
+  "count": 1
+ },
+ {
+  "en": " memories</button></dd>",
+  "zh": " 条记忆</button></dd>",
+  "count": 1
+ },
+ {
+  "en": " <span class=\"hnote\" style=\"display:inline;\">cached for up to an hour; Rebuild refreshes it</span>",
+  "zh": " <span class=\"hnote\" style=\"display:inline;\">缓存最多保留一小时；点击「重建」可刷新</span>",
+  "count": 1
+ },
+ {
+  "en": "<dt>Profile built</dt><dd>",
+  "zh": "<dt>档案构建时间</dt><dd>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Recurring errors</div>",
+  "zh": "<div class=\"card\"><div class=\"card-title\">反复出现的错误</div>",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">No errors recorded in the last 20 sessions. Failed tool calls land here once the same kind of error shows up.</p>",
+  "zh": "<p class=\"empty-step-label\">最近 20 个会话中未记录错误。当同一类错误再次出现时，失败的工具调用会显示在这里。</p>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"card\"><div class=\"card-title\">Recent highlights ",
+  "zh": "<div class=\"card\"><div class=\"card-title\">近期亮点 ",
+  "count": 1
+ },
+ {
+  "en": "<p class=\"empty-step-label\">The most important observation of each recent session shows here once one is rated 7 or higher. Ratings come from LLM compression; without it every observation gets the default 5.</p>",
+  "zh": "<p class=\"empty-step-label\">每个近期会话中最重要的观测会在评分达到 7 分及以上时显示在这里。评分来自 LLM 压缩；未启用压缩时，每条观测的评分均为默认值 5。</p>",
+  "count": 1
+ },
+ {
+  "en": ": 'live', healthStale",
+  "zh": ": '实时', healthStale",
+  "count": 1
+ },
+ {
+  "en": "live · health quiet",
+  "zh": "实时 · 健康更新静默",
+  "count": 1
+ },
+ {
+  "en": "setWsStatus('connecting', 'connecting')",
+  "zh": "setWsStatus('连接中', 'connecting')",
+  "count": 1
+ },
+ {
+  "en": "setWsStatus('reconnecting' + (secs ? ' · ' + secs + 's' : '')",
+  "zh": "setWsStatus('重新连接中' + (secs ? ' · ' + secs + '秒' : '')",
+  "count": 1
+ },
+ {
+  "en": "setWsStatus('offline' + (secs ? ' · retry ' + secs + 's' : '')",
+  "zh": "setWsStatus('离线' + (secs ? ' · ' + secs + '秒后重试' : '')",
+  "count": 1
+ },
+ {
+  "en": "Connected, but no health update arrived for ",
+  "zh": "已连接，但 ",
+  "count": 1
+ },
+ {
+  "en": "s. The worker may be busy.",
+  "zh": " 秒内没有收到健康更新。工作进程可能正忙。",
+  "count": 1
+ },
+ {
+  "en": "agentmemory is unreachable.",
+  "zh": "agentmemory 无法访问。",
+  "count": 1
+ },
+ {
+  "en": "Live updates paused.",
+  "zh": "实时更新已暂停。",
+  "count": 1
+ },
+ {
+  "en": "Next reconnect attempt in ",
+  "zh": "下次重连尝试在 ",
+  "count": 1
+ },
+ {
+  "en": "Showing data as of ",
+  "zh": "显示数据截至 ",
+  "count": 1
+ },
+ {
+  "en": "No data loaded yet.",
+  "zh": "尚未加载任何数据。",
+  "count": 1
+ },
+ {
+  "en": "Reconnecting now.",
+  "zh": "正在重连。",
+  "count": 1
+ },
+ {
+  "en": "<span style=\"color:var(--ink-muted);\">Check that the server is running:</span>",
+  "zh": "<span style=\"color:var(--ink-muted);\">请确认服务器正在运行：</span>",
+  "count": 1
+ },
+ {
+  "en": "<button class=\"btn\" data-action=\"reconnect-now\">Reconnect now</button>",
+  "zh": "<button class=\"btn\" data-action=\"reconnect-now\">立即重连</button>",
+  "count": 1
+ },
+ {
+  "en": "Memory deleted",
+  "zh": "记忆已删除",
+  "count": 1
+ },
+ {
+  "en": "Memory saved",
+  "zh": "记忆已保存",
+  "count": 1
+ },
+ {
+  "en": "Lesson learned",
+  "zh": "学到新经验",
+  "count": 1
+ },
+ {
+  "en": "Action created",
+  "zh": "新建行动",
+  "count": 1
+ },
+ {
+  "en": "Crystal saved",
+  "zh": "结晶已保存",
+  "count": 1
+ },
+ {
+  "en": "Session running",
+  "zh": "会话运行中",
+  "count": 1
+ },
+ {
+  "en": "Session ended",
+  "zh": "会话已结束",
+  "count": 1
+ },
+ {
+  "en": "No LLM provider",
+  "zh": "未配置 LLM 提供方",
+  "count": 1
+ },
+ {
+  "en": "Compression, summaries, consolidation and graph extraction stay off until an LLM key is set. Memories, search and sessions still work.",
+  "zh": "在设置 LLM 密钥之前，压缩、摘要、整合和图谱提取保持关闭。记忆、搜索和会话仍可正常工作。",
+  "count": 1
+ },
+ {
+  "en": "No embedding provider",
+  "zh": "未配置嵌入提供方",
+  "count": 1
+ },
+ {
+  "en": "Search matches exact keywords only. With embeddings it also finds memories by meaning.",
+  "zh": "搜索仅匹配精确关键词。配置嵌入后，还能按语义找到记忆。",
+  "count": 1
+ },
+ {
+  "en": " Needs an LLM provider key.",
+  "zh": " 需要 LLM 提供方密钥。",
+  "count": 1
+ },
+ {
+  "en": "\" aria-controls=\"flags-panel\" title=\"Which optional features are on\">",
+  "zh": "\" aria-controls=\"flags-panel\" title=\"查看哪些可选功能已开启\">",
+  "count": 1
+ },
+ {
+  "en": "(off === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "all features on",
+  "zh": "所有功能均已开启",
+  "count": 1
+ },
+ {
+  "en": "' feature'",
+  "zh": "' 个功能'",
+  "count": 1
+ },
+ {
+  "en": "' off'",
+  "zh": "' 已关闭'",
+  "count": 1
+ },
+ {
+  "en": "</h2><p>Off features explain empty panels on the pages listed. Turn one on with its setting, then restart agentmemory.</p><button class=\"icon-btn\" data-action=\"toggle-flags\" aria-label=\"Close features\">close</button></div>",
+  "zh": "</h2><p>关闭的功能会导致所列页面出现空白面板。用各自的设置将其开启，然后重启 agentmemory。</p><button class=\"icon-btn\" data-action=\"toggle-flags\" aria-label=\"关闭功能面板\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"flags-panel-head\"><h2>Features ",
+  "zh": "<div class=\"flags-panel-head\"><h2>功能 ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"flag-item-meta\">Affects: ",
+  "zh": "<div class=\"flag-item-meta\">影响范围： ",
+  "count": 1
+ },
+ {
+  "en": "\" target=\"_blank\" rel=\"noopener\" style=\"font-size:11px;\">docs &rarr;</a>",
+  "zh": "\" target=\"_blank\" rel=\"noopener\" style=\"font-size:11px;\">文档 &rarr;</a>",
+  "count": 1
+ },
+ {
+  "en": "full sync ",
+  "zh": "全量同步 ",
+  "count": 1
+ },
+ {
+  "en": ", stream reconnecting",
+  "zh": "，流正在重连",
+  "count": 1
+ },
+ {
+  "en": ", streaming since ",
+  "zh": "，流式传输始于 ",
+  "count": 1
+ },
+ {
+  "en": "copy failed",
+  "zh": "复制失败",
+  "count": 1
+ },
+ {
+  "en": "copied",
+  "zh": "已复制",
+  "count": 1
+ },
+ {
+  "en": "<h3>How to read this viewer</h3>",
+  "zh": "<h3>如何阅读此查看器</h3>",
+  "count": 1
+ },
+ {
+  "en": "<p style=\"margin-bottom:8px;\">Everything on these pages updates live over one streaming connection; nothing refreshes on a timer. Click any <span class=\"help\" style=\"cursor:default;\">?</span> for a short explanation, or use the keys below.</p>",
+  "zh": "<p style=\"margin-bottom:8px;\">这些页面上的所有内容都通过一个流式连接实时更新，不会定时刷新。点击任意 <span class=\"help\" style=\"cursor:default;\">?</span> 查看简短说明，或使用下面的快捷键。</p>",
+  "count": 1
+ },
+ {
+  "en": "<div><kbd>/</kbd> focus search on this page</div>",
+  "zh": "<div><kbd>/</kbd> 聚焦本页搜索</div>",
+  "count": 1
+ },
+ {
+  "en": "<div><kbd>?</kbd> open this help</div>",
+  "zh": "<div><kbd>?</kbd> 打开此帮助</div>",
+  "count": 1
+ },
+ {
+  "en": "<div><kbd>Esc</kbd> close panels and popups</div>",
+  "zh": "<div><kbd>Esc</kbd> 关闭面板和弹窗</div>",
+  "count": 1
+ },
+ {
+  "en": "<div><kbd>1</kbd>&ndash;<kbd>9</kbd> jump to a page in order</div>",
+  "zh": "<div><kbd>1</kbd>&ndash;<kbd>9</kbd> 按顺序跳转到页面</div>",
+  "count": 1
+ },
+ {
+  "en": "<h3 style=\"font-size:15px;margin-top:6px;\">Glossary</h3><div class=\"glossary-list\">",
+  "zh": "<h3 style=\"font-size:15px;margin-top:6px;\">术语表</h3><div class=\"glossary-list\">",
+  "count": 1
+ },
+ {
+  "en": "</div><div class=\"modal-actions\"><button class=\"btn btn-primary\" data-action=\"close-modal\">Close</button></div>",
+  "zh": "</div><div class=\"modal-actions\"><button class=\"btn btn-primary\" data-action=\"close-modal\">关闭</button></div>",
+  "count": 1
+ },
+ {
+  "en": " style=\"margin-top:16px;\"><summary class=\"card-title\" style=\"cursor:pointer;margin-bottom:0;border-bottom:none;\">Import past transcripts</summary>",
+  "zh": " style=\"margin-top:16px;\"><summary class=\"card-title\" style=\"cursor:pointer;margin-bottom:0;border-bottom:none;\">导入历史转录文件</summary>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"toolbar\" style=\"margin-bottom:8px;\"><input type=\"text\" id=\"replay-import-path\" placeholder=\"Path to a .jsonl transcript or a folder of them; empty uses ~/.claude/projects\" value=\"",
+  "zh": "<div class=\"toolbar\" style=\"margin-bottom:8px;\"><input type=\"text\" id=\"replay-import-path\" placeholder=\".jsonl 转录文件或其所在文件夹的路径；留空则使用 ~/.claude/projects\" value=\"",
+  "count": 1
+ },
+ {
+  "en": "\" style=\"flex:1;min-width:0;\" aria-label=\"Transcript file or folder to import\" aria-describedby=\"replay-import-status\">",
+  "zh": "\" style=\"flex:1;min-width:0;\" aria-label=\"要导入的转录文件或文件夹\" aria-describedby=\"replay-import-status\">",
+  "count": 1
+ },
+ {
+  "en": "Importing…",
+  "zh": "导入中…",
+  "count": 1
+ },
+ {
+  "en": "Import",
+  "zh": "导入",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Same call from a terminal:</div>",
+  "zh": "<div class=\"empty-step-label\">从终端执行相同的调用：</div>",
+  "count": 1
+ },
+ {
+  "en": "Nothing to replay yet",
+  "zh": "尚无可回放的内容",
+  "count": 1
+ },
+ {
+  "en": " plays a recorded session back step by step: each prompt, response and tool call in the order it happened, with its real timing.",
+  "zh": " 按实际发生顺序逐步回放录制好的会话：每个提示、响应和工具调用，并保留真实的时间节奏。",
+  "count": 1
+ },
+ {
+  "en": "Replay ",
+  "zh": "回放 ",
+  "count": 1
+ },
+ {
+  "en": "No session has been recorded or imported on this install yet.",
+  "zh": "此安装中尚未记录或导入任何会话。",
+  "count": 1
+ },
+ {
+  "en": "Connect your agent with hooks so new sessions are recorded (swap in codex, cursor, gemini-cli or another supported agent):",
+  "zh": "用钩子连接智能体以记录新会话（可换成 codex、cursor、gemini-cli 或其他受支持的智能体）：",
+  "count": 1
+ },
+ {
+  "en": "Or import transcripts you already have with the form below.",
+  "zh": "或用下方表单导入已有的转录文件。",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"section-head\"><h2>Pick a session to replay</h2><span class=\"section-sub\">",
+  "zh": "<div class=\"section-head\"><h2>选择要回放的会话</h2><span class=\"section-sub\">",
+  "count": 1
+ },
+ {
+  "en": " loaded, newest first</span></div><div class=\"session-list\">",
+  "zh": " 个已加载，最新在前</span></div><div class=\"session-list\">",
+  "count": 1
+ },
+ {
+  "en": " obs · ",
+  "zh": " 条观测 · ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"session-preview none\">No prompt recorded</div>",
+  "zh": "<div class=\"session-preview none\">未记录提示</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"load-more\">The picker above lists all ",
+  "zh": "<div class=\"load-more\">上面的选择器列出了全部 ",
+  "count": 1
+ },
+ {
+  "en": " loaded sessions.</div>",
+  "zh": " 个已加载会话。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"empty-step-label\">Pick an event on the left.</div>",
+  "zh": "<div class=\"empty-step-label\">在左侧选择一个事件。</div>",
+  "count": 1
+ },
+ {
+  "en": "Response",
+  "zh": "响应",
+  "count": 1
+ },
+ {
+  "en": "Prompt",
+  "zh": "提示",
+  "count": 1
+ },
+ {
+  "en": "<dl class=\"obs-fields\"><dt>tool</dt><dd><code>",
+  "zh": "<dl class=\"obs-fields\"><dt>工具</dt><dd><code>",
+  "count": 1
+ },
+ {
+  "en": " plays a recorded session back step by step: prompts, responses and tool calls in order, with their real timing. It works for sessions from every connected agent. <kbd>Space</kbd> plays or pauses, <kbd>&larr;</kbd> <kbd>&rarr;</kbd> step.</div>",
+  "zh": " 按真实时间节奏逐步回放录制好的会话：提示、响应和工具调用按顺序呈现。适用于所有已连接智能体的会话。<kbd>Space</kbd> 播放/暂停，<kbd>&larr;</kbd> <kbd>&rarr;</kbd> 单步。</div>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-note\"><strong>Replay</strong> ",
+  "zh": "<div class=\"inline-note\"><strong>回放</strong> ",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"toolbar\"><select id=\"replay-session-select\" aria-label=\"Session to replay\" style=\"flex:1;min-width:0;max-width:720px;\"><option value=\"\">Pick a session…</option>",
+  "zh": "<div class=\"toolbar\"><select id=\"replay-session-select\" aria-label=\"要回放的会话\" style=\"flex:1;min-width:0;max-width:720px;\"><option value=\"\">选择会话…</option>",
+  "count": 1
+ },
+ {
+  "en": "\">Open session</a>",
+  "zh": "\">打开会话</a>",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"inline-status\" role=\"status\">Loading the replay for ",
+  "zh": "<div class=\"inline-status\" role=\"status\">正在加载回放：",
+  "count": 1
+ },
+ {
+  "en": "This session has nothing to replay",
+  "zh": "此会话没有可回放的内容",
+  "count": 1
+ },
+ {
+  "en": "Replay steps through the prompts, responses and tool calls recorded in a session.",
+  "zh": "回放将逐步呈现会话中记录的提示、响应和工具调用。",
+  "count": 1
+ },
+ {
+  "en": "No prompt or tool call was captured for this session, so the timeline is empty.",
+  "zh": "此会话未捕获到提示或工具调用，因此时间线为空。",
+  "count": 1
+ },
+ {
+  "en": "Check its observations from a terminal:",
+  "zh": "从终端查看其观测：",
+  "count": 1
+ },
+ {
+  "en": "<div class=\"replay-controls\" role=\"toolbar\" aria-label=\"Playback\">",
+  "zh": "<div class=\"replay-controls\" role=\"toolbar\" aria-label=\"播放控制\">",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"replay-step\" data-dir=\"-1\" aria-label=\"Previous event\">&#9664;</button>",
+  "zh": "<button type=\"button\" data-action=\"replay-step\" data-dir=\"-1\" aria-label=\"上一个事件\">&#9664;</button>",
+  "count": 1
+ },
+ {
+  "en": "&#10074;&#10074; Pause",
+  "zh": "&#10074;&#10074; 暂停",
+  "count": 1
+ },
+ {
+  "en": "&#9654; Play",
+  "zh": "&#9654; 播放",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"replay-step\" data-dir=\"1\" aria-label=\"Next event\">&#9654;</button>",
+  "zh": "<button type=\"button\" data-action=\"replay-step\" data-dir=\"1\" aria-label=\"下一个事件\">&#9654;</button>",
+  "count": 1
+ },
+ {
+  "en": "<button type=\"button\" data-action=\"replay-reset\" aria-label=\"Back to the start\">&#10226;</button><span class=\"sep\"></span><span id=\"replay-speed-label\">Speed</span>",
+  "zh": "<button type=\"button\" data-action=\"replay-reset\" aria-label=\"回到开头\">&#10226;</button><span class=\"sep\"></span><span id=\"replay-speed-label\">速度</span>",
+  "count": 1
+ },
+ {
+  "en": "<span class=\"sep\"></span><span aria-live=\"polite\">event ",
+  "zh": "<span class=\"sep\"></span><span aria-live=\"polite\">事件 ",
+  "count": 1
+ },
+ {
+  "en": "s</span></div>",
+  "zh": "秒</span></div>",
+  "count": 1
+ },
+ {
+  "en": "s of ",
+  "zh": "秒 / ",
+  "count": 1
+ },
+ {
+  "en": "\" aria-label=\"Playback position\"><div class=\"replay-progress-bar\" style=\"width:",
+  "zh": "\" aria-label=\"播放进度\"><div class=\"replay-progress-bar\" style=\"width:",
+  "count": 1
+ },
+ {
+  "en": "s</span></button>",
+  "zh": "秒</span></button>",
+  "count": 1
+ },
+ {
+  "en": "Could not load this session: ",
+  "zh": "无法加载此会话：",
+  "count": 1
+ },
+ {
+  "en": "The replay request failed. Check that agentmemory is running, then pick the session again.",
+  "zh": "回放请求失败。请确认 agentmemory 正在运行，然后重新选择会话。",
+  "count": 1
+ },
+ {
+  "en": "… large folders can take a minute.",
+  "zh": "…大文件夹可能需要一分钟。",
+  "count": 1
+ },
+ {
+  "en": "Importing ",
+  "zh": "正在导入 ",
+  "count": 1
+ },
+ {
+  "en": "the request failed. Check that agentmemory is running.",
+  "zh": "请求失败。请确认 agentmemory 正在运行。",
+  "count": 1
+ },
+ {
+  "en": " Check the path; it is read on the machine agentmemory runs on.",
+  "zh": " 请检查路径；该路径在 agentmemory 运行的机器上读取。",
+  "count": 1
+ },
+ {
+  "en": " Point it at one .jsonl file or a folder that contains them.",
+  "zh": " 请将其指向单个 .jsonl 文件或包含此类文件的文件夹。",
+  "count": 1
+ },
+ {
+  "en": "Import failed: ",
+  "zh": "导入失败：",
+  "count": 1
+ },
+ {
+  "en": "No .jsonl transcripts found under ",
+  "zh": "在以下路径下未找到 .jsonl 转录文件：",
+  "count": 1
+ },
+ {
+  "en": ". Nothing was imported.",
+  "zh": "。未导入任何内容。",
+  "count": 1
+ },
+ {
+  "en": " files; pass maxFiles to import more)",
+  "zh": " 个文件处停止；传入 maxFiles 可导入更多）",
+  "count": 1
+ },
+ {
+  "en": ". They also appear on Sessions.",
+  "zh": "。它们也会出现在会话页。",
+  "count": 1
+ },
+ {
+  "en": "New sessions: ",
+  "zh": "新会话：",
+  "count": 1
+ },
+ {
+  "en": " (stopped at ",
+  "zh": "（在 ",
+  "count": 1
+ },
+ {
+  "en": "Imported ",
+  "zh": "已导入 ",
+  "count": 1
+ },
+ {
+  "en": " with ",
+  "zh": "，包含 ",
+  "count": 1
+ },
+ {
+  "en": " file",
+  "zh": " 个文件",
+  "count": 1
+ },
+ {
+  "en": "(res.imported === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "Entities (files, functions, concepts, errors, decisions) and the relations between them. When a session ends, the files and concepts in its observations become nodes, and ones that appear in the same observation get a \"related to\" relation; no LLM is needed for that. With GRAPH_EXTRACTION_ENABLED=true and an LLM provider, an LLM also adds typed entities and relations such as \"uses\" or \"fixes\". A structural code graph can be imported with POST /graph/import-graphify.'",
+  "zh": "实体（文件、函数、概念、错误、决策）及其之间的关系。会话结束时，其观测中的文件和概念会成为节点，出现在同一条观测中的节点之间会建立“related to”关系；这不需要 LLM。设置 GRAPH_EXTRACTION_ENABLED=true 并配置 LLM 提供方后，LLM 还会添加“uses”或“fixes”等有类型的实体和关系。可以用 POST /graph/import-graphify 导入结构化代码图谱。",
+  "count": 1
+ },
+ {
+  "en": "aria-label=\"按' + dim + '\"'",
+  "zh": "aria-label=\"按' + dim + '筛选会话\"'",
+  "count": 1
+ },
+ {
+  "en": "aria-label=\"按 ' + dim + '\"'",
+  "zh": "aria-label=\"按 ' + dim + ' 筛选\"'",
+  "count": 1
+ },
+ {
+  "en": "Processed observations",
+  "zh": "处理了观测",
+  "count": 1
+ },
+ {
+  "en": "Compressed observations",
+  "zh": "压缩了观测",
+  "count": 1
+ },
+ {
+  "en": "Saved a memory",
+  "zh": "保存了记忆",
+  "count": 1
+ },
+ {
+  "en": "Forgot",
+  "zh": "遗忘了记忆",
+  "count": 1
+ },
+ {
+  "en": "Saved a new memory version",
+  "zh": "保存了新版记忆",
+  "count": 1
+ },
+ {
+  "en": "Ran consolidation",
+  "zh": "执行了整合",
+  "count": 1
+ },
+ {
+  "en": "Shared",
+  "zh": "共享了记录",
+  "count": 1
+ },
+ {
+  "en": "Deleted",
+  "zh": "删除了记录",
+  "count": 1
+ },
+ {
+  "en": "Imported",
+  "zh": "导入了记录",
+  "count": 1
+ },
+ {
+  "en": "Exported",
+  "zh": "导出了记录",
+  "count": 1
+ },
+ {
+  "en": "Created an action",
+  "zh": "创建了行动",
+  "count": 1
+ },
+ {
+  "en": "Updated an action",
+  "zh": "更新了行动",
+  "count": 1
+ },
+ {
+  "en": "Took a lease",
+  "zh": "获取了租约",
+  "count": 1
+ },
+ {
+  "en": "Released a lease",
+  "zh": "释放了租约",
+  "count": 1
+ },
+ {
+  "en": "Renewed a lease",
+  "zh": "续订了租约",
+  "count": 1
+ },
+ {
+  "en": "Ran a routine",
+  "zh": "运行了例程",
+  "count": 1
+ },
+ {
+  "en": "Sent a signal",
+  "zh": "发送了信号",
+  "count": 1
+ },
+ {
+  "en": "Resolved a checkpoint",
+  "zh": "解决了检查点",
+  "count": 1
+ },
+ {
+  "en": "Synced with a peer",
+  "zh": "与对端同步",
+  "count": 1
+ },
+ {
+  "en": "Linked records",
+  "zh": "关联了记录",
+  "count": 1
+ },
+ {
+  "en": "Updated a link",
+  "zh": "更新了关联",
+  "count": 1
+ },
+ {
+  "en": "Created a sentinel",
+  "zh": "创建了哨兵",
+  "count": 1
+ },
+ {
+  "en": "A sentinel fired",
+  "zh": "触发了哨兵",
+  "count": 1
+ },
+ {
+  "en": "Started a sketch",
+  "zh": "开始了草图",
+  "count": 1
+ },
+ {
+  "en": "Promoted a sketch",
+  "zh": "提升了草图",
+  "count": 1
+ },
+ {
+  "en": "Discarded a sketch",
+  "zh": "丢弃了草图",
+  "count": 1
+ },
+ {
+  "en": "Scored retention",
+  "zh": "评估了留存",
+  "count": 1
+ },
+ {
+  "en": "Crystallized finished work",
+  "zh": "结晶了已完成的工作",
+  "count": 1
+ },
+ {
+  "en": "Ran diagnostics",
+  "zh": "运行了诊断",
+  "count": 1
+ },
+ {
+  "en": "Repaired stored data",
+  "zh": "修复了存储的数据",
+  "count": 1
+ },
+ {
+  "en": "Saved the search index",
+  "zh": "保存了搜索索引",
+  "count": 1
+ },
+ {
+  "en": "Tagged records",
+  "zh": "标记了记录",
+  "count": 1
+ },
+ {
+  "en": "Saved a lesson",
+  "zh": "保存了经验教训",
+  "count": 1
+ },
+ {
+  "en": "Recalled lessons",
+  "zh": "回想了经验教训",
+  "count": 1
+ },
+ {
+  "en": "Strengthened a lesson",
+  "zh": "强化了经验教训",
+  "count": 1
+ },
+ {
+  "en": "Deleted a lesson",
+  "zh": "删除了经验教训",
+  "count": 1
+ },
+ {
+  "en": "Exported to Obsidian",
+  "zh": "导出到 Obsidian",
+  "count": 1
+ },
+ {
+  "en": "Reflected on memories",
+  "zh": "反思了记忆",
+  "count": 1
+ },
+ {
+  "en": "Searched insights",
+  "zh": "搜索了洞察",
+  "count": 1
+ },
+ {
+  "en": "Extracted a skill",
+  "zh": "提取了技能",
+  "count": 1
+ },
+ {
+  "en": "Added core memory",
+  "zh": "添加了核心记忆",
+  "count": 1
+ },
+ {
+  "en": "Removed core memory",
+  "zh": "移除了核心记忆",
+  "count": 1
+ },
+ {
+  "en": "Paged memory out",
+  "zh": "换出了内存",
+  "count": 1
+ },
+ {
+  "en": "Embedded an image",
+  "zh": "嵌入了图像",
+  "count": 1
+ },
+ {
+  "en": "Appended to a slot",
+  "zh": "向槽位追加",
+  "count": 1
+ },
+ {
+  "en": "Replaced a slot",
+  "zh": "替换了槽位",
+  "count": 1
+ },
+ {
+  "en": "Created a slot",
+  "zh": "创建了槽位",
+  "count": 1
+ },
+ {
+  "en": "Deleted a slot",
+  "zh": "删除了槽位",
+  "count": 1
+ },
+ {
+  "en": "Reflected into a slot",
+  "zh": "向槽位反思",
+  "count": 1
+ },
+ {
+  "en": "Compacted graph provenance",
+  "zh": "压缩了图谱出处",
+  "count": 1
+ },
+ {
+  "en": "Marked stale sessions abandoned",
+  "zh": "将过期会话标记为已放弃",
+  "count": 1
+ },
+ {
+  "en": "Ports",
+  "zh": "端口",
+  "count": 1
+ },
+ {
+  "en": "Inbox",
+  "zh": "收件箱",
+  "count": 1
+ },
+ {
+  "en": "Text",
+  "zh": "文本",
+  "count": 1
+ },
+ {
+  "en": "Start",
+  "zh": "开始",
+  "count": 1
+ },
+ {
+  "en": "High",
+  "zh": "高",
+  "count": 1
+ },
+ {
+  "en": "Low",
+  "zh": "低",
+  "count": 1
+ },
+ {
+  "en": "(i.on ? 'on' : i.partial ? 'inactive' : 'off')",
+  "zh": "(i.on ? '已开启' : i.partial ? '部分启用' : '已关闭')",
+  "count": 1
+ },
+ {
+  "en": "(f.enabled ? 'on' : 'off')",
+  "zh": "(f.enabled ? '开' : '关')",
+  "count": 1
+ },
+ {
+  "en": "'**Version:** '",
+  "zh": "'**版本：** '",
+  "count": 1
+ },
+ {
+  "en": "'**Provider:** '",
+  "zh": "'**模型提供方：** '",
+  "count": 1
+ },
+ {
+  "en": "'**Embedding:** '",
+  "zh": "'**嵌入：** '",
+  "count": 1
+ },
+ {
+  "en": "'**Flags:** '",
+  "zh": "'**功能开关：** '",
+  "count": 1
+ },
+ {
+  "en": "'**User agent:** '",
+  "zh": "'**用户代理：** '",
+  "count": 1
+ },
+ {
+  "en": "'### What went wrong\\n\\n'",
+  "zh": "'### 出现了什么问题\\n\\n'",
+  "count": 1
+ },
+ {
+  "en": "'(describe the issue)\\n\\n'",
+  "zh": "'（请描述问题）\\n\\n'",
+  "count": 1
+ },
+ {
+  "en": "'### Steps to reproduce\\n\\n'",
+  "zh": "'### 复现步骤\\n\\n'",
+  "count": 1
+ },
+ {
+  "en": "None of the ",
+  "zh": "这 ",
+  "count": 1
+ },
+ {
+  "en": "(liveMetrics.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(d.obs.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(total === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(x.sourceIds.length === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(daysLeft === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ },
+ {
+  "en": "(Math.floor(weeks) === 1 ? '' : 's')",
+  "zh": "''",
+  "count": 1
+ }
+]
